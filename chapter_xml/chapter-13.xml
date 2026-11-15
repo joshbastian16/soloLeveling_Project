@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="file:/C:/gitHub/soloLeveling_Project/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <chapter num="13">
     <title>Solo Leveling</title>
     <author>Chugong</author>
@@ -7,310 +7,267 @@
     <body>
         <page pageNum="1">
             <bubble type="speech" spNum="1" who="Sung Jin-Woo">
-                <unique ans="y" uniNum="1"/> I'M SERIOUSLY EXPECTED...
-            </bubble>
+                <unique ans="y" uniNum="1"/> I'M SERIOUSLY EXPECTED... </bubble>
             <bubble type="speech" spNum="2" who="Sung Jin-Woo">
-                <unique ans="n"/> TO MANAGE THIS WITHOUT A PARTY?!
-            </bubble>
+                <unique ans="n"/> TO MANAGE THIS WITHOUT A PARTY?! </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="2">
             <bubble type="speech" spNum="3" who="Sung Jin-Woo">
-                <unique ans="n"/> WHAT DO I DO?
-            </bubble> 
+                <unique ans="n"/> WHAT DO I DO? </bubble>
             <bubble type="speech" spNum="4" who="Sung Jin-Woo">
-                <unique ans="n"/> IM FEELING LESS AND LESS CONFIDENT...
-            </bubble>
+                <unique ans="n"/> IM FEELING LESS AND LESS CONFIDENT... </bubble>
             <bubble type="speech" spNum="5" who="Sung Jin-Woo">
-                <unique ans="n"/> STRONG STENCH...
-            </bubble>
+                <unique ans="n"/> STRONG STENCH... </bubble>
             <bubble type="speech" spNum="6" who="Sung Jin-Woo">
-                <unique ans="n"/> THIS...
-            </bubble>
+                <unique ans="n"/> THIS... </bubble>
             <bubble type="speech" spNum="7" who="Sung Jin-Woo">
-                <unique ans="n"/> MUST BE A BEAST MONSTER.
-            </bubble>
+                <unique ans="n"/> MUST BE A BEAST MONSTER. </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="3"/>
-            
+
         <pageBrk/>
-        
+
         <page pageNum="4">
             <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
-                <unique ans="n"/> A WOLF?!
-            </bubble>
+                <unique ans="n"/> A WOLF?! </bubble>
             <caption type="information">STEEL FANG RAIKAN</caption>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="5">
             <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
-                <unique ans="n"/> EVEN ONE OR TWO GOBLINS ARE ALREADY HARD ENOUGH FOR ME...
-            </bubble>
+                <unique ans="n"/> EVEN ONE OR TWO GOBLINS ARE ALREADY HARD ENOUGH FOR ME... </bubble>
             <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
-                <unique ans="n"/> SO CAN I ACTUALLY WIN AGAINST THIS...?
-            </bubble>
+                <unique ans="n"/> SO CAN I ACTUALLY WIN AGAINST THIS...? </bubble>
             <bubble type="speech" spNum="8" who="Sung Jin-Woo">
-                <unique ans="n"/> MY LEG...
-            </bubble>
+                <unique ans="n"/> MY LEG... </bubble>
             <bubble type="speech" spNum="9" who="Sung Jin-Woo">
-                <unique ans="n"/> IT'S NOT MOVING...!
-            </bubble>
+                <unique ans="n"/> IT'S NOT MOVING...! </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="6">
             <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
-                <unique ans="n"/> WHY? WHY...!
-            </bubble>
+                <unique ans="n"/> WHY? WHY...! </bubble>
             <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
-                <unique ans="n"/> BECAUSE I'M... SCARED? IS THAT IT?
-            </bubble>
+                <unique ans="n"/> BECAUSE I'M... SCARED? IS THAT IT? </bubble>
             <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
-                <unique ans="n"/> I DIDN'T THINK I HAD ANY SERIOUS TRAUMAS FROM BACK THEN...
-            </bubble>
+                <unique ans="n"/> I DIDN'T THINK I HAD ANY SERIOUS TRAUMAS FROM BACK THEN... </bubble>
             <bubble type="speech" spNum="10" who="Sung Jin-Woo">
-                <unique ans="n"/> DAMN...!
-            </bubble>
+                <unique ans="n"/> DAMN...! </bubble>
             <bubble type="speech" spNum="11" who="Sung Jin-Woo">
-                <unique ans="n"/> KRT!
-            </bubble>
+                <unique ans="n"/> KRT! </bubble>
             <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
                 <unique ans="n"/> I DON'T EVEN HACE A HEALER! I CAN'T AFFORD TO GET HIT NOW!
             </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="7">
             <bubble type="speech" spNum="12" who="Sung Jin-Woo">
-                <unique ans="n"/> HUH?
-            </bubble>
+                <unique ans="n"/> HUH? </bubble>
             <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
-                <unique ans="n"/> MY BODY...
-            </bubble>
+                <unique ans="n"/> MY BODY... </bubble>
             <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
-                <unique ans="n"/> MY BODY'S LIGHT!
-            </bubble>
+                <unique ans="n"/> MY BODY'S LIGHT! </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="8">
             <bubble type="speech" spNum="13" who="Sung Jin-Woo">
-                <unique ans="n"/> I BARELY GOT MY LIFE BACK!
-            </bubble>
+                <unique ans="n"/> I BARELY GOT MY LIFE BACK! </bubble>
             <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
-                <unique ans="n"/> YOU THINK I'LL COWER IN FEAR?!
-            </bubble>
+                <unique ans="n"/> YOU THINK I'LL COWER IN FEAR?! </bubble>
             <bubble type="speech" spNum="14" who="Sung Jin-Woo">
-                <unique ans="n"/> I WON'T DIE NOW!!
-            </bubble>
+                <unique ans="n"/> I WON'T DIE NOW!! </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="9">
             <bubble type="speech" spNum="15" who="Sung Jin-Woo">
-                <unique ans="n"/> ...WHAT?
-            </bubble>
+                <unique ans="n"/> ...WHAT? </bubble>
             <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
-                <unique ans="n"/> COULD IT BE BECAUSE I IMPROVED MY STRENGTH STAT?
-            </bubble>
+                <unique ans="n"/> COULD IT BE BECAUSE I IMPROVED MY STRENGTH STAT? </bubble>
             <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
-                <unique ans="n"/> BUT...
-            </bubble>
+                <unique ans="n"/> BUT... </bubble>
             <caption type="information">STEEL FANG RAIKAN</caption>
             <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
-                <unique ans="n"/> IT'S STILL STRONGER THAN ME!
-            </bubble>
+                <unique ans="n"/> IT'S STILL STRONGER THAN ME! </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="10">
             <bubble type="speech" spNum="16" who="Sung Jin-Woo">
-                <unique ans="n"/> AHHHHHHHHH!!
-            </bubble>
+                <unique ans="n"/> AHHHHHHHHH!! </bubble>
             <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
-                <unique ans="n"/> AS I THOUGHT, THIS WON'T DO...
-            </bubble>
+                <unique ans="n"/> AS I THOUGHT, THIS WON'T DO... </bubble>
             <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
-                <unique ans="n"/> MONSTERS AREN'T AFFECTED MUCH BY NORMAL ATTACKS
-            </bubble>
+                <unique ans="n"/> MONSTERS AREN'T AFFECTED MUCH BY NORMAL ATTACKS </bubble>
             <bubble type="thought" thtNum="16" who="Sung Jin-Woo">
-                <unique ans="n"/> EVEN THIS MOB IS STRONGER THAN ME...
-            </bubble>
+                <unique ans="n"/> EVEN THIS MOB IS STRONGER THAN ME... </bubble>
             <bubble type="thought" thtNum="17" who="Sung Jin-Woo">
-                <unique ans="n"/> DAMMIT!
-            </bubble>
+                <unique ans="n"/> DAMMIT! </bubble>
             <bubble type="thought" thtNum="18" who="Sung Jin-Woo">
-                <unique ans="n"/> WHAT DO I DO?
-            </bubble>
+                <unique ans="n"/> WHAT DO I DO? </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="11">
             <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
-                <unique ans="n"/> IT'S TOO MUCH FOR ME ALONE!
-            </bubble>
+                <unique ans="n"/> IT'S TOO MUCH FOR ME ALONE! </bubble>
             <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
-                <unique ans="n"/> I CAN'T WIN!
-            </bubble>
+                <unique ans="n"/> I CAN'T WIN! </bubble>
             <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
-                <unique ans="n"/> PARTY... HEALERS... EQUIPMENT... I DON'T HAVE ANY OF THOSE!
-            </bubble>
+                <unique ans="n"/> PARTY... HEALERS... EQUIPMENT... I DON'T HAVE ANY OF THOSE! </bubble>
             <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
-                <unique ans="n"/> WHAT DO I HAVE THAT CAN ALLOW ME TO BEAT IT?
-            </bubble>
+                <unique ans="n"/> WHAT DO I HAVE THAT CAN ALLOW ME TO BEAT IT? </bubble>
             <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
-                <unique ans="n"/> WHAT I HAVE IS JUST MY BODY...
-            </bubble>
+                <unique ans="n"/> WHAT I HAVE IS JUST MY BODY... </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="12">
             <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
-                <unique ans="n"/> A WEAPON POSSESSING MAGIC POWER...
-            </bubble>
+                <unique ans="n"/> A WEAPON POSSESSING MAGIC POWER... </bubble>
             <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
-                <unique ans="n"/> IF ONLY I HAD A WEAPON...!
-            </bubble>
+                <unique ans="n"/> IF ONLY I HAD A WEAPON...! </bubble>
             <bubble type="thought" thtNum="26" who="Sung Jin-Woo">
-                <unique ans="n"/> ...A WEAPON?
-            </bubble>
+                <unique ans="n"/> ...A WEAPON? </bubble>
             <bubble type="speech" spNum="17" who="Sung Jin-Woo">
-                <unique ans="n"/> INVENTORY!
-            </bubble>
+                <unique ans="n"/> INVENTORY! </bubble>
             <bubble type="thought" thtNum="28" who="Sung Jin-Woo">
-                <unique ans="n"/> YEAH...
-            </bubble>
+                <unique ans="n"/> YEAH... </bubble>
             <bubble type="thought" thtNum="29" who="Sung Jin-Woo">
-                <unique ans="n"/> I DON'T KOW WHY THIS IS IN HERE, BUT
-            </bubble>
+                <unique ans="n"/> I DON'T KOW WHY THIS IS IN HERE, BUT </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="13">
             <bubble type="thought" thtNum="30" who="Sung Jin-Woo">
-                <unique ans="n"/> THE BLADE THAT MR. KIM SANG-SHIK LEFT BEHIND IN THE DOUBLE LAIR
-            </bubble>
-            <caption type="information">[ITEM: KIM SANG-SHIK'S STEEL BLADE]
-                                        TYPE: SWORD
-                                        +10 ATTACK
-            </caption>
-            <caption type="information">ALARM YOU HAVE DEFEATED THE [STEEL FANG RAIKAN].</caption>
-            <caption type="information">ALARM YOU HAVE LEVELED UP!</caption>
+                <unique ans="n"/> THE BLADE THAT MR. KIM SANG-SHIK LEFT BEHIND IN THE DOUBLE LAIR </bubble>
+            <systemMsg type="item">
+                <info>[ITEM: KIM SANG-SHIK'S STEEL BLADE]</info>
+                <info>TYPE: SWORD</info>
+                <info>+10 ATTACK</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>YOU HAVE DEFEATED THE [STEEL FANG RAIKAN].</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <level>ALARM YOU HAVE LEVELED UP!</level>
+            </systemMsg>
             <bubble type="speech" spNum="18" who="Sung Jin-Woo">
-                <unique ans="n"/> DIDN'T MR.KIM SANG-SHIK SAY THAT HE BOUGHT THIS FOR 3 MILLION WON?
-            </bubble>
+                <unique ans="n"/> DIDN'T MR.KIM SANG-SHIK SAY THAT HE BOUGHT THIS FOR 3 MILLION WON? </bubble>
             <bubble type="speech" spNum="19" who="Sung Jin-Woo">
-                <unique ans="n"/> SO EXPENSIVE... USUALLY I PROBABLY COULDN'T EVEN AFFORD TO TOUCH IT, BUT I'LL USE THIS SWORD FOR NOW.
-            </bubble>
+                <unique ans="n"/> SO EXPENSIVE... USUALLY I PROBABLY COULDN'T EVEN AFFORD TO TOUCH
+                IT, BUT I'LL USE THIS SWORD FOR NOW. </bubble>
             <bubble type="speech" spNum="20" who="Sung Jin-Woo">
-                <unique ans="n"/> AN INVENTORY, HUH? THAT'S PRETTY USEFUL.
-            </bubble>
+                <unique ans="n"/> AN INVENTORY, HUH? THAT'S PRETTY USEFUL. </bubble>
             <bubble type="speech" spNum="21" who="Sung Jin-Woo">
-                <unique ans="n"/> CAN I STORE ANYTHING IN HERE?
-            </bubble>
+                <unique ans="n"/> CAN I STORE ANYTHING IN HERE? </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="14">
             <bubble type="speech" spNum="22" who="Sung Jin-Woo">
-                <unique ans="n"/> SINCE I HAVE A WEAPON...
-            </bubble>
+                <unique ans="n"/> SINCE I HAVE A WEAPON... </bubble>
             <bubble type="speech" spNum="23" who="Sung Jin-Woo">
-                <unique ans="n"/> I'M NOT AFRAID ANYMORE.
-            </bubble>
+                <unique ans="n"/> I'M NOT AFRAID ANYMORE. </bubble>
             <caption type="information">STEEL FANG RAIKAN</caption>
             <caption type="information">STEEL FANG RAIKAN</caption>
             <bubble type="speech" spNum="24" who="Sung Jin-Woo">
-                <unique ans="n"/> WHY CAN'T I PULL IT OUT?!
-            </bubble>
+                <unique ans="n"/> WHY CAN'T I PULL IT OUT?! </bubble>
             <bubble type="speech" spNum="25" who="Sung Jin-Woo">
-                <unique ans="n"/> COME ON!
-            </bubble>
+                <unique ans="n"/> COME ON! </bubble>
             <bubble type="speech" spNum="26" who="Sung Jin-Woo">
-                <unique ans="n"/> COME OUT!!!
-            </bubble>
+                <unique ans="n"/> COME OUT!!! </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="15">
             <bubble type="speech" spNum="27" who="Sung Jin-Woo">
-                <unique ans="n"/> AHHHHHHHHHHH!!
-            </bubble>
+                <unique ans="n"/> AHHHHHHHHHHH!! </bubble>
             <bubble type="speech" spNum="28" who="Sung Jin-Woo">
-                <unique ans="n"/> HE'S NOT CALLED "STEEL FANG" FOR NOTHING!
-            </bubble>
+                <unique ans="n"/> HE'S NOT CALLED "STEEL FANG" FOR NOTHING! </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="16">
             <bubble type="speech" spNum="29" who="Sung Jin-Woo">
-                <unique ans="n"/> I CAN'T LET MR.KIM'S SWORD...
-            </bubble>
+                <unique ans="n"/> I CAN'T LET MR.KIM'S SWORD... </bubble>
             <bubble type="speech" spNum="30" who="Sung Jin-Woo">
-                <unique ans="n"/> GO TO WASTE!!
-            </bubble>
+                <unique ans="n"/> GO TO WASTE!! </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="17">
             <bubble type="speech" spNum="31" who="Sung Jin-Woo">
-                <unique ans="n"/> NOW THAT I THINK ABOUT IT, YOU GUYS...
-            </bubble>
+                <unique ans="n"/> NOW THAT I THINK ABOUT IT, YOU GUYS... </bubble>
             <bubble type="speech" spNum="32" who="Sung Jin-Woo">
-                <unique ans="n"/> WHEN COMPARED TO THOSE MONSTERS,
-            </bubble>
+                <unique ans="n"/> WHEN COMPARED TO THOSE MONSTERS, </bubble>
             <bubble type="speech" spNum="32" who="Sung Jin-Woo">
-                <unique ans="n"/> ARE TOO WEAK.
-            </bubble>
+                <unique ans="n"/> ARE TOO WEAK. </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="18">
-            <caption type="information">
-                STATUS
-                NAME: SUNG JIN-WOO      LEVEL: 2
-                JOB: NONE               FATIGUE: 0
-                TITLE: NONE
-                HP: 205
-                MP:22
-                        STRENGTH:20     VITALITY: 11
-                        AGILITY: 11     INTELLIGENCE: 11
-                        SENSE: 11
-                                      REMAINING POINTS: 0
-            </caption>
-            <caption type="information">
-                [PASSIVE]
-                (UNKNOWN)       MAX
-                MUSCULARITY     Lv.1
-                
-                [ACTIVE]
-                SPRINT          Lv.1
-            </caption>
-            <caption type="information">[ITEM: KIM SANG-SHIK'S STEEL BLADE]
-                TYPE: SWORD
-                +10 ATTACK
-            </caption>
+
+            <systemMsg type="statSheet">
+                <info>STATUS</info>
+                <info>NAME: SUNG JIN-WOO</info>
+                <level>LEVEL: 2</level>
+                <info>JOB: NONE</info>
+                <info>FATIGUE: 0</info>
+                <info>TITLE: NONE</info>
+                <info>HP: 205</info>
+                <info>MP:22</info>
+                <stat>STRENGTH:20</stat>
+                <stat>VITALITY: 11</stat>
+                <stat>AGILITY: 11</stat>
+                <stat>INTELLIGENCE: 11</stat>
+                <stat>SENSE: 11</stat>
+                <info>REMAINING POINTS: 0</info>
+            </systemMsg>
+
+            <systemMsg type="skill">
+                <info>[PASSIVE]</info>
+                <info>(UNKNOWN) MAX</info>
+                <info>MUSCULARITY Lv.1</info>
+
+                <info>[ACTIVE]</info>
+                <info>SPRINT Lv.1</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[ITEM: KIM SANG-SHIK'S STEEL BLADE]</info>
+                <info>TYPE: SWORD</info>
+                <info>+10 ATTACK</info>
+            </systemMsg>
         </page>
     </body>
 </chapter>
 <!-- 18 PAGES, 32 INSTANCES OF SPEECH, 30 INSTANCES OF THOUGHT, 1 UNIQUE SPEAKER -->
+<!-- item gained - Kim Sang-Shiks steel blade 
+     Stats update: Strength 20, Vitatlity 11, Agility 11, Intelligence 11, Sense 11,
+     No new skill
+     One level gained. Current Level: 2  -->

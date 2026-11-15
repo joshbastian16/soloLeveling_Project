@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="file:/C:/gitHub/soloLeveling_Project/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <chapter num="24">
     <title>Solo Leveling</title>
     <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
     <body>
         <page pageNum="1">
             <bubble type="speech" spNum="1" who="Sung Jin-Woo">

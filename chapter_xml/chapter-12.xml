@@ -17,21 +17,35 @@
         <pageBrk/>
 
         <page pageNum="3">
-            <caption type="information">ALARM [PENALTY QUEST: SURVIVE.]</caption>
-            <caption type="information">GOAL: SURVIVE UNTIL THE TIME RUNS OUT. TIME REQUIRED: 4
-                HOURS TIME REMAINING 0H 0 MIN 7 SEC</caption>
-            <caption type="information">ALARM [YOU HAVE COMPLETED THE 'PENALTY' QUEST]</caption>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[PENALTY QUEST: SURVIVE.]</info>
+                <info>GOAL: SURVIVE UNTIL THE TIME RUNS OUT. </info>
+                <info>TIME REQUIRED: 4 HOURS </info>
+                <info>TIME REMAINING 0H 0 MIN 7 SEC</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU HAVE COMPLETED THE 'PENALTY' QUEST]</info>
+            </systemMsg>
         </page>
 
         <pageBrk/>
 
         <page pageNum="4">
-            <caption type="information">ALARM [YOU HAVE COMPLETED THE 'PENALTY' QUEST]</caption>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU HAVE COMPLETED THE 'PENALTY' QUEST]</info>
+            </systemMsg>
             <bubble type="speech" spNum="2" who="Sung Jin-Woo">
                 <unique ans="n"/> [PENALTY QUEST]? </bubble>
-            <caption type="information">MESSAGE [YOUR REWARDS FOR COMPLETING THE PENALTY QUEST HAVE
-                ARRIVED.] [WOULD YOU LIKE TO ACCEPT?]</caption>
-            <caption type="information">[ACCEPT] [REFUSE]</caption>
+            <systemMsg type="information">
+                <info>MESSAGE </info>
+                <info>[YOUR REWARDS FOR COMPLETING THE PENALTY QUEST HAVE ARRIVED.] </info>
+                <info>[WOULD YOU LIKE TO ACCEPT?]</info>
+                <info>[ACCEPT]</info>
+                <info>[REFUSE]</info>
+            </systemMsg>
         </page>
 
         <pageBrk/>
@@ -77,22 +91,28 @@
             <caption type="thought" thtNum="3" who="Sung Jin-Woo">FIRST,</caption>
             <caption type="thought" thtNum="4" who="Sung Jin-Woo">THIS THING IN FRONT OF MY EYES IS
                 NOT AN ILLUSION.</caption>
-            <caption type="information">ALARM [RUNNING] 10KM: COMPLETE (10/10km)</caption>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[RUNNING] 10KM: COMPLETE (10/10km)</info>
+            </systemMsg>
             <caption type="thought" thtNum="5" who="Sung Jin-Woo">ALTHOUGH NOBODY ELSE CAN, I CAN
                 SEE IT CLEARLY IN FRONT OF MY EYES.</caption>
-            <caption type="information">QUEST DIRECTIONS</caption>
-            <caption type="information">GOAL</caption>
-            <caption type="information">PUSH-UPS [100/100]</caption>
-            <caption type="information">SIT-UPS [100/100]</caption>
-            <caption type="information">SQUATS [100/100]</caption>
-            <caption type="information">RUNNING [10/10km]</caption>
-            <caption type="information">QUEST REWARDS CHOOSE YOUR REWARD</caption>
-            <caption type="information">[YOU MAY CHOOSE ONE OF THE REWARDS BELOW.]</caption>
-            <caption type="information">REWARD#1. STATUS RECOVERY</caption>
-            <caption type="information">REWARD#2. STAT POINTS +3</caption>
-            <caption type="information">REWARD#3. RANDOM BOX +1</caption>
-            <caption type="information">WILL YOU ACCEPT?</caption>
-            <caption type="information">[ACCEPT] [REJECT]</caption>
+            <systemMsg type="information">
+                <info>QUEST DIRECTIONS</info>
+                <info>GOAL</info>
+                <info>PUSH-UPS [100/100]</info>
+                <info>SIT-UPS [100/100]</info>
+                <info>SQUATS [100/100]</info>
+                <info>RUNNING [10/10km]</info>
+                <info>QUEST REWARDS CHOOSE YOUR REWARD</info>
+                <info>[YOU MAY CHOOSE ONE OF THE REWARDS BELOW.]</info>
+                <info>REWARD#1. STATUS RECOVERY</info>
+                <info>REWARD#2. STAT POINTS +3</info>
+                <info>REWARD#3. RANDOM BOX +1</info>
+                <info>WILL YOU ACCEPT?</info>
+                <info>[ACCEPT]</info>
+                <info>[REJECT]</info>
+            </systemMsg>
             <bubble type="speech" spNum="13" who="Sung Jin-Woo">
                 <unique ans="n"/> ACCEPT STATUS RECOVERY. </bubble>
         </page>
@@ -108,14 +128,38 @@
             <caption type="thought" thtNum="8" who="Sung Jin-Woo">ASIDE FROM THAT, THERE ARE ASLO
                 STAT POINTS AND THE RANDOM BOX ITEMS. YOU CAN INCREASE ANY ONE OF YOUR CHARACTER
                 STATS AT WILL AS LONG AS YOU HAVE STAT POINTS.</caption>
-            <caption type="information">ALARM YOU HAVE RECIEVED THE [RANDOM BOX]</caption>
-            <caption type="information"> STATUS NAME: SUNG JIN-WOO LEVEL:1 JOB: NONE FATIGUE:0
-                TITLE: NONE HP: 100 MP: 10 STRENGTH:16 VITALITY:10 AGILITY: 10 INTELLIGENCE:10
-                SENSE:10 REMAINING POINTS: 3</caption>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>YOU HAVE RECIEVED THE [RANDOM BOX]</info>
+            </systemMsg>
+            <systemMsg type="statSheet">
+                <info>STATUS</info>
+                <info> NAME: SUNG JIN-WOO</info>
+                <level>LEVEL:1</level>
+                <info>JOB: NONE </info>
+                <info>FATIGUE:0</info>
+                <info>TITLE: NONE</info>
+                <info>HP: 100</info>
+                <info>MP: 10</info>
+                <stat>STRENGTH:16</stat>
+                <stat>VITALITY:10</stat>
+                <stat>AGILITY: 10</stat>
+                <stat>INTELLIGENCE:10</stat>
+                <stat>SENSE:10</stat>
+                <info>REMAINING POINTS: 3</info>
+            </systemMsg>
             <caption type="thought" thtNum="9" who="Sung Jin-Woo">I GET STRONGER AS I INCREASE MY
                 STATS, OF COURSE, INCREASING LEVELS WOULD DO THE SAME.</caption>
             <caption type="thought" thtNum="10" who="Sung Jin-Woo">STATUS, SKILLS, ITEMS, INVENTORY,
                 ITEM STORAGE,</caption>
+            <systemMsg type="skill">
+                <info>SKILLS</info>
+                <info>[PASSIVE]</info>
+                <info>(UNKOWN) MAX</info>
+                <info> MUSCULARITY Lv.1</info>
+                <info>[ACTIVE]</info>
+                <info>SPRINT Lv.1</info>
+            </systemMsg>
             <caption type="thought" thtNum="11" who="Sung Jin-Woo">IT'S LIKE A GAME.</caption>
             <caption type="thought" thtNum="12" who="Sung Jin-Woo">BEING CONTROLLED BY SOME STRANGE
                 PHENOMENON...</caption>
@@ -159,9 +203,13 @@
                 <unique ans="n"/> THE RANDOM BOX THAT COMES OUT EVERY TIME I CLEAR THE DAILY QUEST.
                 ALTHOUGH SOMETIMES USELESS ITEMS LIKE BANDAGES AND PENS COME OUT... THIS SEEMS
                 DIFFERENT. </bubble>
-            <caption type="information">[ITEM: DUNGEON KEY] ITEM CLASS: E TYPE: KEY A KEY THAT
-                ALLOWS YOU TO CREATE AN INSTANT DUNGEON. YOU MAY USE THIS IN THE 3RD ENTERANCE OF
-                HAPJUNG STATION.</caption>
+            <systemMsg type="item">
+                <info>[ITEM: DUNGEON KEY]</info>
+                <info>ITEM CLASS: E</info>
+                <info>TYPE: KEY</info>
+                <info>A KEY THAT ALLOWS YOU TO CREATE AN INSTANT DUNGEON.</info>
+                <info>YOU MAY USE THIS IN THE 3RD ENTERANCE OF HAPJUNG STATION.</info>
+            </systemMsg>
         </page>
 
         <pageBrk/>
@@ -196,7 +244,10 @@
         <pageBrk/>
 
         <page pageNum="13">
-            <caption type="information">ALARM [YOU HAVE ENTERED THE INSTANT DUNGEON]</caption>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU HAVE ENTERED THE INSTANT DUNGEON]</info>
+            </systemMsg>
             <bubble type="speech" spNum="29" who="Sung Jin-Woo">
                 <unique ans="n"/> NO WAY... THE ENTRANCE GOT BLOCKED?! </bubble>
             <bubble type="speech" spNum="30" who="Sung Jin-Woo">
@@ -216,8 +267,12 @@
                 HAPPENED. </bubble>
             <bubble type="speech" spNum="34" who="Sung Jin-Woo">
                 <unique ans="n"/> IF THEY BLOCK THE EXIT THEN I CAN'T EVEN RUN AWAY! </bubble>
-            <caption type="information">ALARM [YOU CANNOT LEAVE THE DUNGEON. EITHER KILL THE BOSS OR
-                USE THE RETURN CRYSTAL]</caption>
+            <systemMsg type="information">
+                <info>ALARM </info>
+                <info>[YOU CANNOT LEAVE THE</info>
+                <info>DUNGEON. EITHER KILL THE BOSS OR</info>
+                <info>USE THE RETURN CRYSTAL]</info>
+            </systemMsg>
             <bubble type="speech" spNum="35" who="Sung Jin-Woo">
                 <unique ans="n"/> YOU ACTUALLY CAN'T LEACE UNLESS YOU KILL THE BOSS... </bubble>
             <bubble type="speech" spNum="36" who="Sung Jin-Woo">
@@ -238,3 +293,7 @@
     </body>
 </chapter>
 <!-- 15 PAGES, 39 INSTANCES OF SPEECH, 12 INSTANCES OF THOUGHT, 5 UNIQUE SPEAKERS -->
+<!-- Item gained - Dungeon Key, 
+     Stats update: Strength 16, Vitality 10, Agility 10, Inteligence 10, Sense 10. 
+     Skills: Muscularity Lv.1, Sprint Lv.1. 
+     No levels gained. Current Level: 1 -->

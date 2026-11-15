@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/C:/gitHub/semesterProject/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="file:/C:/gitHub/soloLeveling_Project/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <chapter num="15">
     <title>Solo Leveling</title>
     <author>Chugong</author>
@@ -52,10 +52,14 @@
             <bubble type="speech" spNum="6" who="Sung Jin-Woo">
                 <unique ans="n"/> THIS WORKED OUT
             </bubble>
-            <caption type="information">
-                [TITLE: WOLF SLAYER]
-                A TITLE GIVEN TO A HUNTER PROFICIENT IN FIGHTS AGAINST WOLVES. 40% INCREASED EXPERIENCE AGAINST BEAST-TYPE MONSTERS.
-            </caption>
+            
+                <systemMsg type="information">
+                    <info>[TITLE: WOLF SLAYER]</info>
+                    <info>A TITLE GIVEN TO A HUNTER PROFICIENT</info>
+                    <info>IN FIGHTS AGAINST WOLVES.</info>
+                    <info>40% INCREASED EXPERIENCE AGAINST</info> 
+                    <info>BEAST-TYPE MONSTERS.</info>
+                </systemMsg>
         </page>
         
         <pageBrk/>
@@ -107,8 +111,14 @@
         <pageBrk/>
         
         <page pageNum="6">
-            <caption type="information">ALARM YOU HAVE LEVELED UP!</caption>
-            <caption type="information">ALARM YOU HAVE LEVELED UP!</caption>
+            <systemMsg type="information">
+                <info>ALARM</info> 
+                <level>YOU HAVE LEVELED UP!</level>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ALARM</info> 
+                <level>YOU HAVE LEVELED UP!</level>
+            </systemMsg>
             <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
                 <unique ans="n"/> EVERY TIME I LEVEL UP, 
             </bubble>
@@ -123,9 +133,15 @@
             <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
                 <unique ans="n"/> BECOMES A LITTLE EASIER.
             </bubble>
-            <caption type="information">[YOU HAVE SLAIN RAZOR CLAW BRIGA.]</caption>
-            <caption type="information">[YOU HAVE SLAIN BLACK SHADOW RAZAN.]</caption>
-            <caption type="information">[YOU HAVE SLAIN BLACK SHADOW RAZAN.]</caption>
+            <systemMsg type="information">
+                <info>[YOU HAVE SLAIN RAZOR CLAW BRIGA.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOU HAVE SLAIN BLACK SHADOW RAZAN.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOU HAVE SLAIN BLACK SHADOW RAZAN.]</info>
+            </systemMsg>
             <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
                 <unique ans="n"/> I CAN DEFINITELY FEEL MYSELF GETTING STRONGER.
             </bubble>
@@ -288,3 +304,7 @@
     </body>
 </chapter>
 <!-- 19 PAGES, 44 INSTANCES OF SPEECH, 14 INSTANCES OF THOUGHT, AND 1 UNIQUE SPEAKER -->
+<!-- items gained: none 
+     stats update: none
+     no new skills
+     levels gained : 2 currrent level 8-->
