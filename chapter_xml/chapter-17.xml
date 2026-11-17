@@ -21,10 +21,11 @@
             <bubble type="speech" spNum="5" who="Sung Jin-Woo">
                 <unique ans="n"/> STRONGER?
             </bubble>
-            <caption type="information">
-                ALARM
-                [YOU HAVE SLAIN SWAMP'S RULER, BLUE POISON FANGS RASAKA.]
-            </caption>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU HAVE SLAIN SWAMP'S RULER,</info>
+                <info>BLUE POISON FANGS RASAKA.]</info>
+            </systemMsg>
         </page>
         
         <pageBrk/>
@@ -51,15 +52,19 @@
             <bubble type="speech" spNum="12" who="Sung Jin-Woo">
                 <unique ans="n"/> A DAGGER MADE FROM A FANG, NOT BONE.
             </bubble>
-            <caption type="information">
-                [ITEM: RASAKA'S FANG]
-                ITEM CLASS: C
-                TYPE: DAGGER
-                ATTACK: +25
-                A DAGGER MADE FROM RASAKA'S FANG. ABLE TO PARALYZE DUE TO LEFTOVER VENOM. GRANTS BLEED EFFECT. CAN BE EQUIPED, STORED, OR SOLD
-                -EFFECT 'PARALYZE': ATTACKED FOES HAVE A CHANCE BECOME UNABLE TO MOVE.
-                -EFFECT 'BLEED': ATTACKED FOES LOSE 1% OF THEIR HEALTH EVERY 1 SECOND
-            </caption>
+            <systemMsg type="item">
+                <info>[ITEM: RASAKA'S FANG]</info>
+                <info>ITEM CLASS: C</info>
+                <info>TYPE: DAGGER</info>
+                <info>ATTACK: +25</info>
+                <info>A DAGGER MADE FROM RASAKA'S FANG.</info>
+                <info>ABLE TO PARALYZE DUE TO LEFTOVER VENOM. GRANTS</info> 
+                <info>BLEED EFFECT. CAN BE EQUIPED, STORED, OR SOLD</info>
+                <info>-EFFECT 'PARALYZE': ATTACKED FOES HAVE A</info>
+                <info>CHANCE BECOME UNABLE TO MOVE.</info>
+                <info>-EFFECT 'BLEED': ATTACKED FOES LOSE 1% OF </info>
+                <info>THEIR HEALTH EVERY 1 SECOND</info>
+            </systemMsg>
             <bubble type="speech" spNum="13" who="Sung Jin-Woo">
                 <unique ans="n"/> THE ATTACK STAT IS MORE THAN TWICE MY OLD DAGGER?! AND IT HAS PARALYSIS AND BLEED AS WELL.
             </bubble>
@@ -71,19 +76,25 @@
             <bubble type="speech" spNum="14" who="Sung Jin-Woo">
                 <unique ans="n"/> COMPARED TO THAT, THIS IS A BIT AKWARD TO USE.
             </bubble>
-            <caption type="information">
-                [ITEM: RASAKA'S VENOM]
-                A POUCH THAT CONTAINS RASAKA'S PURIFIED VENOM. OBTAINABLE BY DEFEATING RASAKA. UNLIKELY DROP RATE. DRINKING IT WILLGIVE YOU HARDENED SKIN BUT WILL WEAKEN YOUR STRENGTH.
-                -EFFECT 'RASAKA'S STEEL SCALES': -20% PHYSICAL DAMAGE TAKEN
-                -EFFECT 'WEAKENED MUSCLES': -35 STRENGTH
-            </caption>
+            <systemMsg type="item">
+                <info>[ITEM: RASAKA'S VENOM]</info>
+                <info>A POUCH THAT CONTAINS RASAKA'S PURIFIED VENOM.</info> 
+                <info>OBTAINABLE BY DEFEATING RASAKA. UNLIKELY DROP RATE.</info>
+                <info>DRINKING IT WILLGIVE YOU HARDENED SKIN BUT WILL</info> 
+                <info>WEAKEN YOUR STRENGTH.</info>
+                <info>-EFFECT 'RASAKA'S STEEL SCALES': -20% PHYSICAL </info>
+                <info>DAMAGE TAKEN</info>
+                <info>-EFFECT 'WEAKENED MUSCLES': -35 STRENGTH</info>
+            </systemMsg>
             <bubble type="speech" spNum="15" who="Sung Jin-Woo">
                 <unique ans="n"/> ...I'LL STORE IT FOR NOW.
             </bubble>
-            <caption type="information">
-                ALARM
-                [THE BOSS HAS BEEN SLAIN. THE DUNGEON'S INTERIOR WILL REVERT TO NORMAL.]
-            </caption>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[THE BOSS HAS BEEN SLAIN.</info>
+                <info>THE DUNGEON'S INTERIOR WILL</info> 
+                <info>REVERT TO NORMAL.]</info>
+            </systemMsg>
         </page>
         
         <pageBrk/>
@@ -449,19 +460,23 @@
             <bubble type="speech" spNum="81" who="Lee Joo-Hee">
                 <unique ans="n"/> JIN-WOO....?
             </bubble>
-            <caption type="information">
-                STATUS
-                NAME: SUNG JIN-WOO      LEVEL: 18
-                JOB: NONE               FATIGUE: 72
-                TITLE: WOLF SLAYER
-                HP: 2220
-                MP:35
-                STRENGTH:48     VITALITY: 27
-                AGILITY: 27    INTELLIGENCE: 27
-                SENSE: 27
-                REMAINING POINTS: 0
-            </caption>
+            <systemMsg type="statSheet">
+                <info>STATUS</info>
+                <info>NAME: SUNG JIN-WOO</info>      <level>LEVEL: 18</level>
+                <info>JOB: NONE</info>               <info>FATIGUE: 72</info>
+                <info>TITLE: WOLF SLAYER</info>
+                <info>HP: 2220</info>
+                <info>MP:35</info>
+                <stat>STRENGTH:48</stat>     <stat>VITALITY: 27</stat>
+                <stat>AGILITY: 27</stat>    <stat>INTELLIGENCE: 27</stat>
+                <stat>SENSE: 27</stat>
+                <info>REMAINING POINTS: 0</info>
+            </systemMsg>
         </page>
     </body>
 </chapter>
 <!-- 19 PAGES, 81 INSTANCES OF SPEECH, 31 INSTANCES OF THOUGHT, 10 UNIQUE SPEAKERS -->
+<!-- Items gained: none
+     stats update: strength 48, vitality 27, agility 27, intelligence 27, sense 27
+     new skills, none
+     levels gained: none, current level: 18-->

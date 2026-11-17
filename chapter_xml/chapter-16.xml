@@ -303,12 +303,12 @@
             <bubble type="speech" spNum="41" who="Doctor">
                 <unique ans="n"/> THEY'RE MONSTERS THEMSELVES
             </bubble>
-            <caption type="information">
-                ALARM
-                YOU LEVELED UP!
-                YOU LEVELED UP!
-                YOU LEVELED UP!
-            </caption>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <level>YOU LEVELED UP!</level>
+                <level>YOU LEVELED UP!</level>
+                <level>YOU LEVELED UP!</level>
+            </systemMsg>
         </page>
         
         <pageBrk/>
@@ -346,26 +346,39 @@
             <bubble type="speech" spNum="50" who="Sung Jin-Woo">
                 <unique ans="n"/> STRONGER?
             </bubble>
-            <caption type="information">
-                ALARM
-                [YOU HAVE SLAIN SWAMP'S RULER, BLUE POISON FANGS RASAKA.]
-            </caption>
-            <caption type="information">
-                [ITEM: RASAKA'S VENOM]
-                A POUCH THAT CONTAINS RASAKA'S PURIFIED VENOM. OBTAINABLE BY DEFEATING RASAKA. UNLIKELY DROP RATE.                  DRINKING IT WILLGIVE YOU HARDENED SKIN BUT WILL WEAKEN YOUR STRENGTH.
-                -EFFECT 'RASAKA'S STEEL SCALES': -20% PHYSICAL DAMAGE TAKEN
-                -EFFECT 'WEAKENED MUSCLES': -35 STRENGTH
-            </caption>
-            <caption type="information">
-                [ITEM: RASAKA'S FANG]
-                ITEM CLASS: C
-                TYPE: DAGGER
-                ATTACK: +25
-                A DAGGER MADE FROM RASAKA'S FANG. ABLE TO PARALYZE DUE TO LEFTOVER VENOM. GRANTS BLEED EFFECT. CAN                  BE EQUIPED, STORED, OR SOLD
-                -EFFECT 'PARALYZE': ATTACKED FOES HAVE A CHANCE BECOME UNABLE TO MOVE.
-                -EFFECT 'BLEED': ATTACKED FOES LOSE 1% OF THEIR HEALTH EVERY 1 SECOND
-            </caption>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU HAVE SLAIN SWAMP'S RULER,</info>
+                <info>BLUE POISON FANGS RASAKA.]</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[ITEM: RASAKA'S VENOM]</info>
+                <info>A POUCH THAT CONTAINS RASAKA'S PURIFIED VENOM.</info> 
+                <info>OBTAINABLE BY DEFEATING RASAKA. UNLIKELY DROP RATE.</info>
+                <info>DRINKING IT WILLGIVE YOU HARDENED SKIN BUT WILL</info> 
+                <info>WEAKEN YOUR STRENGTH.</info>
+                <info>-EFFECT 'RASAKA'S STEEL SCALES': -20% PHYSICAL </info>
+                <info>DAMAGE TAKEN</info>
+                <info>-EFFECT 'WEAKENED MUSCLES': -35 STRENGTH</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[ITEM: RASAKA'S FANG]</info>
+                <info>ITEM CLASS: C</info>
+                <info>TYPE: DAGGER</info>
+                <info>ATTACK: +25</info>
+                <info>A DAGGER MADE FROM RASAKA'S FANG.</info>
+                <info>ABLE TO PARALYZE DUE TO LEFTOVER VENOM. GRANTS</info> 
+                <info>BLEED EFFECT. CAN BE EQUIPED, STORED, OR SOLD</info>
+                <info>-EFFECT 'PARALYZE': ATTACKED FOES HAVE A</info>
+                <info>CHANCE BECOME UNABLE TO MOVE.</info>
+                <info>-EFFECT 'BLEED': ATTACKED FOES LOSE 1% OF </info>
+                <info>THEIR HEALTH EVERY 1 SECOND</info>
+            </systemMsg>
         </page>
     </body>
 </chapter>
 <!-- 21 PAGES, 50 INSTANCES OF SPEECH, 28 INSTANCES OF THOUGHT, 4 UNIQUE SPEAKERS -->
+<!-- items gained: Raska's venom and Rasaka's Fang 
+     stats update: none
+     new skills: none
+     levels gained 3, current level unknown-->
