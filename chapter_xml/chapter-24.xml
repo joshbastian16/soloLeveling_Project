@@ -9,7 +9,10 @@
             <bubble type="speech" spNum="1" who="Sung Jin-Woo">
                 <unique ans="y" uniNum="2"/> ONE
             </bubble>
-            <caption type="information">ENEMIES REQUIRED TO BE KILLED : 7 ENEMIES KILLED : 1</caption>
+            <systemMsg type="information">
+                <info>ENEMIES REQUIRED TO BE KILLED : 7</info> 
+                <info>ENEMIES KILLED : 1</info>
+            </systemMsg>
             <bubble type="speech" spNum="2" who="others">
                 <unique ans="n"/> J-JUN-TAE!
             </bubble>
@@ -104,7 +107,9 @@
         
         <page pageNum="11">
             <caption type="thought" thtNum="10" who="Sung Jin-Woo">HUNTERS WERE MADE TO HUNT ANYWAY</caption>
-            <caption type="information">[EFFECT: PARALYSIS HAS ACTIVATED.]</caption>
+            <systemMsg type="information">
+                <info>[EFFECT: PARALYSIS HAS ACTIVATED.]</info>
+            </systemMsg>
             <bubble type="speech" spNum="12" who="Lee Chul-Jin">
                 <unique ans="n"/> M- MY BODY ISN'T MOVING
             </bubble>
@@ -134,15 +139,21 @@
             <bubble type="speech" spNum="19" who="others">
                 <unique ans="n"/>KUAH!
             </bubble>
-            <caption type="information">[EFFECT: BLEED HAS ACTIVATED.]</caption>
-            <caption type="information">[EFFECT: PARALYSIS HAS ACTIVATED.]</caption>
+            <systemMsg type="information">
+                <info>[EFFECT: BLEED HAS ACTIVATED.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[EFFECT: PARALYSIS HAS ACTIVATED.]</info>
+            </systemMsg>
             <bubble type="speech" spNum="20" who="others">
                 <unique ans="n"/>KU
             </bubble>
             <bubble type="speech" spNum="21" who="others">
                 <unique ans="n"/>W-WHAT IS THIS GUY'S IDENTITY?!
             </bubble>
-            <caption type="information">[EFFECT: PARALYSIS HAS ACTIVATED.]</caption>
+            <systemMsg type="information">
+                <info>[EFFECT: PARALYSIS HAS ACTIVATED.]</info>
+            </systemMsg>
         </page>
         
         <pageBrk/>
@@ -160,7 +171,10 @@
             <bubble type="speech" spNum="25" who="Hwang Dong-Suk">
                 <unique ans="n"/> WAS IT YOU THAT DISPATCHED THE DUNGEON BOSS?
             </bubble>
-            <caption type="information">ENEMIES REQUIRED TO BE KILLED : 1 ENEMIES KILLED : 7</caption>
+            <systemMsg type="information">
+                <info>ENEMIES REQUIRED TO BE KILLED : 1</info> 
+                <info>ENEMIES KILLED : 7</info>
+            </systemMsg>
             <bubble type="speech" spNum="26" who="Hwang Dong-Suk">
                 <unique ans="n"/> I DIDN'T EXPECT ALL MY MEMBERS TO BE DEFEATED.
             </bubble>
@@ -287,20 +301,38 @@
         <pageBrk/>
         
         <page pageNum="19">
-            <caption type="information">QUEST REWARD 'EMERGENCY QUEST: KILL THE ENEMIES' COMPLETION CONDITIONS HAVE ALL BEEN MET. WILL YOU RECIEVE THE REWARD? </caption>
-            <caption type="information">ACCEPT</caption>
-            <caption type="information">DECLINE</caption>
-            <caption type="information">QUEST REWARDS CHOOSE YOU REWARDS. [YOU MAY CHOOSE FROM THE REWARDS BELOW]</caption>
-            <caption type="information">REWARD#1. STATUS RECOVERY</caption>
-            <caption type="information">REWARD#2. EXPERIENCE POINTS +10</caption>
-            <caption type="information">REWARD#3. SKILL: 'BLOODLUST'</caption>
-            <caption type="information">WILL YOU ACCEPT YOUR REWARDS?</caption>
-            <caption type="information">ACCEPT</caption>
-            <caption type="information">DECLINE</caption>
-            <caption type="information">SKILLS [ACTIVE]</caption>
-            <caption type="information">BLOODLUST Lv.1</caption>
-            <caption type="information">100 MANA -USING A STRONG ENERGY, THE SELECTED TARGET IS PUT IN A STATE OF                                           FEAR FOR 1 MINUTE. -SEVERAL TARGETS CAN BE SELECTED. -EFFECT 'FEAR' ALL                                             STATS -50%
-            </caption>
+            <systemMsg type="information">
+                <info>QUEST REWARD</info> 
+                <info>'EMERGENCY QUEST: KILL THE ENEMIES'</info>
+                <info>COMPLETION CONDITIONS HAVE ALL BEEN MET.</info> 
+                <info>WILL YOU RECIEVE THE REWARD?</info>
+                <info>ACCEPT</info>
+                <info>DECLINE</info>
+            </systemMsg>
+            
+            <systemMsg type="information">
+                <info>QUEST REWARDS</info>
+                <info>CHOOSE YOU REWARDS.</info> 
+                <info>[YOU MAY CHOOSE FROM THE REWARDS BELOW]</info>
+                <info>REWARD#1. STATUS RECOVERY</info>
+                <info>REWARD#2. EXPERIENCE POINTS +10</info>
+                <info>REWARD#3. SKILL: 'BLOODLUST'</info>
+                <info>WILL YOU ACCEPT YOUR REWARDS?</info>
+                <info>ACCEPT</info>
+                <info>DECLINE</info>
+            </systemMsg>
+            
+            <systemMsg type="skill">
+                <info>SKILLS</info> 
+                <info>[ACTIVE]</info>
+                <info>BLOODLUST Lv.1</info>
+                <info>100 MANA</info>
+                <info>-USING A STRONG ENERGY, THE SELECTED TARGET</info>
+                <info>IS PUT IN A STATE OF FEAR FOR 1 MINUTE.</info>
+                <info>-SEVERAL TARGETS CAN BE SELECTED.</info>
+                <info>-EFFECT 'FEAR' ALL STATS -50%</info>
+            </systemMsg>
+            
             <caption type="information">WASHINGTON, USA</caption>
         </page>
         
@@ -327,3 +359,7 @@
     </body>
 </chapter>
 <!-- 20 PAGES, 50 INSATNCES OF SPEECH, 22 INSTANCES OF THOUGHT, AND 5 UNIQUE SPEAKERS -->
+<!-- items gained: none
+     stat update: none
+     new Skil: Bloodlust Lv.1
+     levels gained: 0, current level 21-->

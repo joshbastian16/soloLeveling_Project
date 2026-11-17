@@ -110,15 +110,17 @@
             <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
                 <unique ans="n"/> I WANT TO GET DRUNK BUT THE FEELING ISN'T COMING.
             </bubble>
-            <caption type="information">
-                ALARM
-                [A HARMFUL SUBSTANCE HAS BEEN DETECTED.]
-                [BUFF: CURE POISON'S EFFECT IS HEALING YOU.]
-            </caption>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[A HARMFUL SUBSTANCE HAS BEEN DETECTED.]</info>
+                <info>[BUFF: CURE POISON'S EFFECT IS HEALING YOU.]</info>
+            </systemMsg>
             <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
                 <unique ans="n"/> BECAUSE OF THE SPECIAL ABILITY THAT GAVE ME EVEN ALCOHOL IS BEING PURIFIED.
             </bubble>
-            <caption type="information">3,2,1...... CURE POISON HAS BEEN COMPLETED.</caption>
+            <systemMsg type="information">
+                <info>3,2,1...... CURE POISON HAS BEEN COMPLETED.</info>
+            </systemMsg>
             <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
                 <unique ans="n"/> A REWARD THE SYSTEM GAVE AS SOON AS I WOKE UP AFTER MAKING IT THROUGH THE DUNGEON                                   DISASTER.
             </bubble>
@@ -133,19 +135,27 @@
         <pageBrk/>
         
         <page pageNum="6">
-            <caption type="information">
-                QUEST REWARD
-                'SECRET QUEST: COURAGE OF THE WEAK'
-                -GREAT SPELLCASTER KANDIARU'S BLESSING: THE GREAT SPELLCASTER KANDIARU HAS GIFTED A SPECIAL SPELL                   TO YOU. KANDIARU'S BLESSING WILL ENSURE THAT YOU WILL ALWAYS BE STRONG AND HEALTHY DURING YOUR LIFE                 TIME.
-            </caption>
+            <systemMsg type="information">
+                <info>QUEST REWARD</info>
+                <info>'SECRET QUEST: COURAGE OF THE WEAK'</info>
+                <info>-GREAT SPELLCASTER KANDIARU'S BLESSING:</info>
+                <info>THE GREAT SPELLCASTER KANDIARU HAS GIFTED</info> 
+                <info>A SPECIAL SPELL TO YOU. KANDIARU'S BLESSING</info>
+                <info>WILL ENSURE THAT YOU WILL ALWAYS BE STRONG</info> 
+                <info>AND HEALTHY DURING YOUR LIFE TIME.</info>
+            </systemMsg>
             <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
                 <unique ans="n"/> IT'S ALSO THANKS TO THIS QUEST'S REWARD THAT THE LEG I LOST LAST TIME WAS                                           REGENERATED.
             </bubble>
-            <caption type="information">
-                QUEST REWARD
-                -TEMPORARY EFFECT WILL TO REHABILITATE: ANY DISMEMBERED BODY PARTS ARE RESTOREED.
-                -PERMANENT EFFECT LONGEVITYl ALL DISEASES, POISONS AND STATUS EFFECTS ARE HEALED, AND SLEEPING WILL                 EXPLOSIVELY INCREASE REGENERATION ABILITY.
-            </caption>
+            <systemMsg type="information">
+                <info>QUEST REWARD</info>
+                <info>-TEMPORARY EFFECT WILL TO REHABILITATE:</info>
+                <info>ANY DISMEMBERED BODY PARTS ARE RESTOREED.</info>
+                <info>-PERMANENT EFFECT LONGEVITY:</info>
+                <info>ALL DISEASES, POISONS AND STATUS EFFECTS</info> 
+                <info>ARE HEALED, AND SLEEPING WILL EXPLOSIVELY</info> 
+                <info>INCREASE REGENERATION ABILITY.</info>
+            </systemMsg>
             <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
                 <unique ans="n"/> WAIT...
             </bubble>
@@ -172,30 +182,41 @@
         <pageBrk/>
         
         <page pageNum="7">
-            <caption type="information">
-                [ITEM: RASAKA'S VENOM]
-                A POUCH THAT CONTAINS RASAKA'S PURIFIED VENOM. OBTAINABLE BY DEFEATING RASAKA. UNLIKELY DROP RATE.                  DRINKING IT WILLGIVE YOU HARDENED SKIN BUT WILL WEAKEN YOUR STRENGTH.
-                -EFFECT 'RASAKA'S STEEL SCALES': -20% PHYSICAL DAMAGE TAKEN
-                -DEBUFF 'WEAKENED MUSCLES': -35 STRENGTH
-            </caption>
+            <systemMsg type="item">
+                <info>[ITEM: RASAKA'S VENOM]</info>
+                <info>A POUCH THAT CONTAINS RASAKA'S PURIFIED VENOM.</info> 
+                <info>OBTAINABLE BY DEFEATING RASAKA. UNLIKELY DROP RATE.</info>
+                <info>DRINKING IT WILLGIVE YOU HARDENED SKIN BUT WILL</info> 
+                <info>WEAKEN YOUR STRENGTH.</info>
+                <info>-EFFECT 'RASAKA'S STEEL SCALES': -20% PHYSICAL </info>
+                <info>DAMAGE TAKEN</info>
+                <info>-EFFECT 'WEAKENED MUSCLES': -35 STRENGTH</info>
+            </systemMsg>
             <bubble type="speech" spNum="33" who="Sung Jin-Woo">
                 <unique ans="n"/> IF STATUS EFFECTS ARE AUTOMATICALLY HEALED, WON'T THIS ITEM'S DEBUFF BE REMOVED                                     AS WELL
             </bubble>
             <bubble type="speech" spNum="34" who="Sung Jin-Woo">
                 <unique ans="n"/> THERE'S NO REASON TO THINK.
             </bubble>
-            <caption type="information">[A HARMFUL SUBSTANCE HAS BEEN DETECTED IN YOUR BODY.]</caption>
-            <caption type="information">3,2,1...... CURE POISON HAS BEEN COMPLETED.</caption>
-            <caption type="information">ITEM: RASAKA'S VENOM'S EFFECT WEAKENED MUSCLES IS FADING.</caption>
+            <systemMsg type="information">
+                <info>[A HARMFUL SUBSTANCE HAS BEEN DETECTED IN YOUR BODY.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+               <info> 3,2,1...... CURE POISON HAS BEEN COMPLETED.</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ITEM: RASAKA'S VENOM'S EFFECT</info>
+                <info>WEAKENED MUSCLES IS FADING.</info>
+            </systemMsg>
             <bubble type="speech" spNum="35" who="Sung Jin-Woo">
                 <unique ans="n"/> IT'S JUST AS A I THOUGHT.
             </bubble>
-            <caption type="information">
-                STRENGTH: 53    VITALITY: 30
-                AGILITY: 53     INTELLIGENCE: 30
-                SENSE: 36
-                PHYSICAL DAMAGE REDUCTION: 20% ACTIVATING
-            </caption>
+            <systemMsg type="statSheet">
+                <stat>STRENGTH: 53</stat>    <stat>VITALITY: 30</stat>
+                <stat>AGILITY: 53</stat>     <stat>INTELLIGENCE: 30</stat>
+                <stat>SENSE: 36</stat>
+                <info>PHYSICAL DAMAGE REDUCTION: 20% ACTIVATING</info>
+            </systemMsg>
             <bubble type="speech" spNum="36" who="Sung Jin-Ah">
                 <unique ans="n"/> DO YOU KNOW ANYONE CALLED YOO JIN-HO?
             </bubble>
@@ -467,3 +488,7 @@
     </body>
 </chapter>
 <!-- 16 PAGES, 96 INSTANCES OF SPEECH, 21 INSTANCES OF THOUGHT, 6 UNIQUE SPEAKERS -->
+<!-- items gained: none
+     stat update: strength 53, vitality 30, agility 53, intelligence 30, sense 36
+     new skills : none
+     levles gained: none, current level: unknown-->

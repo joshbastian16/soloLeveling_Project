@@ -153,19 +153,40 @@
         <pageBrk/> 
         
         <page pageNum="7">
-            <caption type="narration"> [AN EMMERGENCY QUEST HAS BEEN ISSUED.]</caption>
-            <caption type="narration"> [EMERGENCY QUEST: KILL THE ENEMIES!]</caption>
-            <caption type="narration"> [THERE ARE ENTITIES NEARBY THAT INTEND TO MURDER THE 'PLAYER'. SLAY THEM AND ENSURE YOUR SAFETY.]</caption>
-            <caption type="narration"> [IF THIS QUEST IS NOT COMPLETED A PENALTY WILL BE ISSUED AS A RESULT.]</caption>
-            <caption type="narration"> [ENEMIES REQUIRED TO BE KILLED:8 ENEMIES KILLED: 0]</caption>
+            <systemMsg type="information">
+                <info>[AN EMMERGENCY QUEST HAS BEEN ISSUED.]</info>
+            </systemMsg>
+            <systemMsg type="information"> 
+                <info>[EMERGENCY QUEST: KILL THE ENEMIES!]</info>
+            </systemMsg>
+            <systemMsg type="information"> 
+                <info>[THERE ARE ENTITIES</info> 
+                <info>NEARBY THAT INTEND TO MURDER</info> 
+                <info>THE 'PLAYER'. SLAY THEM</info> 
+                <info>AND ENSURE YOUR SAFETY.]</info>
+            </systemMsg>
+            <systemMsg type="information"> 
+                <info>[IF THIS QUEST IS NOT COMPLETED A</info>
+                <info>PENALTY WILL BE ISSUED AS A RESULT.]</info></systemMsg>
+            <systemMsg type="information"> 
+                <info>[ENEMIES REQUIRED TO BE KILLED:8</info> 
+                <info>ENEMIES KILLED: 0]</info>
+            </systemMsg>
             <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
                 <unique ans="n"/> WHAT IS THIS?!
             </bubble>
             <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
                 <unique ans="n"/> THE SYSTEM SUDDENLY!!!
             </bubble>
-            <caption type="narration"> QUEST INFO [EMERGENCY QUEST: KILL THE ENEMIES] THERE ARE ENTITIES NEARBY                                            THAT INTEND TO MURDER THE 'PLAYER'. SLAY THEM AND ENSURE YOUR SAFETY. IF                                            THIS QUEST IS NOT COMPLETED YOUR HEART WILL STOP. ENEMIES REQUIRED TO BE                                            KILLED:8 ENEMIES KILLED: 0
-            </caption>
+            <systemMsg type="information"> 
+                <info>QUEST INFO</info> 
+                <info>[EMERGENCY QUEST: KILL THE ENEMIES]</info>
+                <info>THERE ARE ENTITIES NEARBY THAT INTEND TO MURDER</info> 
+                <info>THE 'PLAYER'. SLAY THEM AND ENSURE YOUR SAFETY.</info> 
+                <info>IF THIS QUEST IS NOT COMPLETED YOUR HEART WILL STOP.</info> 
+                <info>ENEMIES REQUIRED TO BE KILLED:8</info> 
+                <info>ENEMIES KILLED: 0</info>
+            </systemMsg>
         </page>
         
         <pageBrk/>
@@ -231,6 +252,15 @@
             <bubble type="thought" thtNum="30" who="Sung Jin-Woo">
                 <unique ans="n"/> I ALWAYS MISTOOK THIS PALCE FOR A SAFE ONE.
             </bubble>
+            <systemMsg type="information"> 
+                <info>QUEST INFO</info> 
+                <info>[EMERGENCY QUEST: KILL THE ENEMIES]</info>
+                <info>THERE ARE ENTITIES NEARBY THAT INTEND TO MURDER</info> 
+                <info>THE 'PLAYER'. SLAY THEM AND ENSURE YOUR SAFETY.</info> 
+                <info>IF THIS QUEST IS NOT COMPLETED YOUR HEART WILL STOP.</info> 
+                <info>ENEMIES REQUIRED TO BE KILLED:8</info> 
+                <info>ENEMIES KILLED: 0</info>
+            </systemMsg>
             <bubble type="thought" thtNum="31" who="Sung Jin-Woo">
                 <unique ans="n"/> ENEMY.
             </bubble>
@@ -256,7 +286,9 @@
                 <unique ans="n"/> THIS IS WHAT THE SYSTEM NEEDS.
             </bubble>
             <caption type="information">A STRONG SUNG JIN-WOO</caption>
-            <caption type="information">[HP : 1360/2600]</caption>
+            <systemMsg type="information">
+                <info>[HP : 1360/2600]</info>
+            </systemMsg>
         </page>
         
         <pageBrk/>
@@ -295,7 +327,7 @@
             <bubble type="thought" thtNum="39" who="Jo Gyu-Hwan">
                 <unique ans="n"/> I DEFINITELY PUT MY ALL INTO THAT MAGIC ATTACK.
             </bubble>
-            <caption type="thought" thtNum="40" who="Jo Gyu-Hwan">I PUT IN A LOT OF MAGICAL ENERGY BUT HOW DID IT                                                                     TURN OUT THIS WAY?
+            <caption type="thought" thtNum="40" who="Jo Gyu-Hwan">I PUT IN A LOT OF MAGICAL ENERGY BUT HOW DID IT TURN OUT THIS WAY?
             </caption>
         </page>
         
@@ -345,7 +377,10 @@
         <pageBrk/>
         
         <page pageNum="17">
-            <caption type="information">ENEMIES REQUIRED TO BE KILLED : 7 ENEMIES KILLED : 1</caption>
+            <systemMsg type="information">
+                <info>ENEMIES REQUIRED TO BE KILLED : 7</info> 
+                <info>ENEMIES KILLED : 1</info>
+            </systemMsg>
             <bubble type="speech" spNum="55" who="others">
                 <unique ans="n"/> J-JUN-TAE!
             </bubble>
@@ -364,8 +399,28 @@
             <bubble type="thought" thtNum="42" who="Hwang Dong-Suk">
                 <unique ans="n"/> HOW DID AN E-RANKER...?!
             </bubble>
+            <systemMsg type="statSheet">
+                <info>STATUS</info>
+                <info>NAME: SUNG JIN-WOO</info>
+                <level>LEVEL: 21</level>
+                <info>JOB: NONE</info>
+                <info>FATIGUE: 0</info>
+                <info>TITLE: WOLF SLAYER</info>
+                <info>HP: 2600</info>
+                <info>MP:391</info>
+                <stat>STRENGTH:53</stat>
+                <stat>VITALITY: 30</stat>
+                <stat>AGILITY: 38</stat>
+                <stat>INTELLIGENCE: 30</stat>
+                <stat>SENSE: 32</stat>
+                <info>REMAINING POINTS: 3</info>
+            </systemMsg>
         </page>
         
     </body>
 </chapter>
 <!-- 17 PAGES, 42 INSTANCES OF THOUGHT, 58 INSTANCES OF SPEECH, AND 10 UNIQUE SPEAKERS -->
+<!-- items gained: none
+     stat update: none
+     new skills: none
+     levels gained: none, current level: 21-->
