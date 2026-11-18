@@ -170,7 +170,7 @@
                 <info>YOU HAVE DEFEATED THE [STEEL FANG RAIKAN].</info>
             </systemMsg>
             <systemMsg type="information">
-                <level>ALARM YOU HAVE LEVELED UP!</level>
+                <levelUp>ALARM YOU HAVE LEVELED UP!</levelUp>
             </systemMsg>
             <bubble type="speech" spNum="18" who="Sung Jin-Woo">
                 <unique ans="n"/> DIDN'T MR.KIM SANG-SHIK SAY THAT HE BOUGHT THIS FOR 3 MILLION WON? </bubble>

@@ -113,11 +113,11 @@
         <page pageNum="6">
             <systemMsg type="information">
                 <info>ALARM</info> 
-                <level>YOU HAVE LEVELED UP!</level>
+                <levelUp>YOU HAVE LEVELED UP!</levelUp>
             </systemMsg>
             <systemMsg type="information">
                 <info>ALARM</info> 
-                <level>YOU HAVE LEVELED UP!</level>
+                <levelUp>YOU HAVE LEVELED UP!</levelUp>
             </systemMsg>
             <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
                 <unique ans="n"/> EVERY TIME I LEVEL UP, 

@@ -251,13 +251,13 @@
                 <info>[THE DUNGEON BOSS HAS BEEN SLAIN.]</info>
             </systemMsg>
             <systemMsg type="information">
-                <level>[YOU LEVELED UP!]</level>
+                <levelUp>[YOU LEVELED UP!]</levelUp>
             </systemMsg>
             <systemMsg type="information">
-                <level>[YOU LEVELED UP!]</level>
+                <levelUp>[YOU LEVELED UP!]</levelUp>
             </systemMsg>
             <systemMsg type="information">
-                <level>[YOU LEVELED UP!]</level>
+                <levelUp>[YOU LEVELED UP!]</levelUp>
             </systemMsg>
             <bubble type="thought" thtNum="39" who="Sung Jin-Woo">
                 <unique ans="n"/>THANK GOODNESS I DIDN'T ACCEPT THE DAILY QUEST AWARD </bubble>

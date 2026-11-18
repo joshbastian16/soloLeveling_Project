@@ -305,9 +305,9 @@
             </bubble>
             <systemMsg type="information">
                 <info>ALARM</info>
-                <level>YOU LEVELED UP!</level>
-                <level>YOU LEVELED UP!</level>
-                <level>YOU LEVELED UP!</level>
+                <levelUp>YOU LEVELED UP!</levelUp>
+                <levelUp>YOU LEVELED UP!</levelUp>
+                <levelUp>YOU LEVELED UP!</levelUp>
             </systemMsg>
         </page>
         

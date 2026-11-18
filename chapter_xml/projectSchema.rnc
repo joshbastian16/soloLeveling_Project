@@ -17,12 +17,13 @@ unique = element unique {ans, uniNum?, empty}
 # system message is for the blue panels that Sung Jin-Woo can see. They will either be type "information," "stats," "item," or "skill"
 # information is for anything like an alarm or warning given out by the system. stats if for his status sheet. item is for any item that he finds or is given
 # and skill is for any of the skills that he has
-systemMsg = element systemMsg {type, (info| stat | level)+, empty}
+systemMsg = element systemMsg {type, (info| stat | level | levelUp)+, empty}
 # info can go into any of the types of system messages. It's for wrapping the text inside to show off the different lines. stat is specifically for 
 # the quantity of his different stats. Levlel is to wrap around what his level is
 info = element info{text}
 stat = element stat{text}
 level = element level{text}
+levelUp = element levelUp{text}
 # the ans attribute is for keeping track of if it's the first time a character is speaking. if it is, then you its equal to "y", if not, it's equal to "n".
 # then you either increase uniNum by one if the answer is "y", or you don't include it and keep it the same if the answer is "n".
 ans = attribute ans {"y" | "n"}

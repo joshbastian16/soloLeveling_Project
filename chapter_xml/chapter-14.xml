@@ -193,19 +193,19 @@
             
                 <systemMsg type="information">
                     <info>ALARM</info> 
-                    <level>YOU HAVE LEVELED UP!</level>
+                    <levelUp>YOU HAVE LEVELED UP!</levelUp>
                 </systemMsg>
             <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
                 <unique ans="n"/> I TRULY REALIZE NOW. </bubble>
             <systemMsg type="information">
                 <info>ALARM</info> 
-                <level>YOU HAVE LEVELED UP!</level>
+                <levelUp>YOU HAVE LEVELED UP!</levelUp>
             </systemMsg>
             <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
                 <unique ans="n"/> IF I QUIT HERE, I'LL GET SLAUGHTERED </bubble>
             <systemMsg type="information">
                 <info>ALARM</info> 
-                <level>YOU HAVE LEVELED UP!</level>
+                <levelUp>YOU HAVE LEVELED UP!</levelUp>
             </systemMsg>
         </page>
 
@@ -231,7 +231,7 @@
                 <unique ans="n"/> AHHHHHHHHHH </bubble>
             <systemMsg type="information">
                 <info>ALARM</info> 
-                <level>YOU HAVE LEVELED UP!</level>
+                <levelUp>YOU HAVE LEVELED UP!</levelUp>
             </systemMsg>
         </page>
 
