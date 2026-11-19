@@ -284,27 +284,27 @@
                 <unique ans="y" uniNum="9"/>WHAT IS THIS BASTARD SAYING? </bubble>
             <bubble type="speech" spNum="49" who="Sung Jin-Woo">
                 <unique ans="n"/> IF YOU GUYS ARE HUNTERS, </bubble>
-            <bubble type="speech" spNum="49" who="Sung Jin-Woo">
+            <bubble type="speech" spNum="50" who="Sung Jin-Woo">
                 <unique ans="n"/> I'M SAYING YOU SHOULD BE READY TO BECOME HUNTED. </bubble>
-            <bubble type="speech" spNum="50" who="Goo Jun-Tae">
+            <bubble type="speech" spNum="51" who="Goo Jun-Tae">
                 <unique ans="y" uniNum="10"/> SIR, I'LL TAKE CARE OF HIM. </bubble>
         </page>
 
         <pageBrk/>
 
         <page pageNum="15">
-            <bubble type="speech" spNum="51" who="Goo Jun-Tae">
-                <unique ans="n"/> IT LOOKS LIKE YOU DON'T UNDERSTAND THIS SITUATION VERY WELL. </bubble>
             <bubble type="speech" spNum="52" who="Goo Jun-Tae">
+                <unique ans="n"/> IT LOOKS LIKE YOU DON'T UNDERSTAND THIS SITUATION VERY WELL. </bubble>
+            <bubble type="speech" spNum="53" who="Goo Jun-Tae">
                 <unique ans="n"/> HM? </bubble>
         </page>
 
         <pageBrk/>
 
         <page pageNum="16">
-            <bubble type="speech" spNum="53" who="Goo Jun-Tae">
+            <bubble type="speech" spNum="54" who="Goo Jun-Tae">
                 <unique ans="n"/> AH... </bubble>
-            <bubble type="speech" spNum="54" who="Sung Jin-Woo">
+            <bubble type="speech" spNum="55" who="Sung Jin-Woo">
                 <unique ans="n"/> ONE </bubble>
         </page>
 
@@ -315,17 +315,17 @@
                 <info>ENEMIES REQUIRED TO BE KILLED : 7</info>
                 <info>ENEMIES KILLED : 1</info>
             </systemMsg>
-            <bubble type="speech" spNum="55" who="others">
-                <unique ans="n"/> J-JUN-TAE! </bubble>
             <bubble type="speech" spNum="56" who="others">
-                <unique ans="n"/> W-WHAT? </bubble>
+                <unique ans="n"/> J-JUN-TAE! </bubble>
             <bubble type="speech" spNum="57" who="others">
-                <unique ans="n"/> THAT BASTARD, WHEN DID HE?! </bubble>
+                <unique ans="n"/> W-WHAT? </bubble>
             <bubble type="speech" spNum="58" who="others">
+                <unique ans="n"/> THAT BASTARD, WHEN DID HE?! </bubble>
+            <bubble type="speech" spNum="59" who="others">
                 <unique ans="n"/> WHERE DID HE GET THE KNIFE?! </bubble>
             <bubble type="thought" thtNum="42" who="Hwang Dong-Suk">
                 <unique ans="n"/> NO MATTER HOW UNGUARDED, JUN-TAE WAS STILL A D-RANK. </bubble>
-            <bubble type="thought" thtNum="42" who="Hwang Dong-Suk">
+            <bubble type="thought" thtNum="43" who="Hwang Dong-Suk">
                 <unique ans="n"/> HOW DID AN E-RANKER...?! </bubble>
             <systemMsg type="statSheet">
                 <info>STATUS</info>
@@ -347,7 +347,7 @@
 
     </body>
 </chapter>
-<!-- 17 PAGES, 42 INSTANCES OF THOUGHT, 58 INSTANCES OF SPEECH, AND 10 UNIQUE SPEAKERS -->
+<!-- 17 PAGES, 43 INSTANCES OF THOUGHT, 59 INSTANCES OF SPEECH, AND 10 UNIQUE SPEAKERS -->
 <!-- items gained: none
      stat update: none
      new skills: none

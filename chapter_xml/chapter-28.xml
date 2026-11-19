@@ -236,56 +236,56 @@
                 <unique ans="n"/> IS SOMEBODY FILMING A DRAMA HERE? </bubble>
             <bubble type="speech" spNum="68" who="Prisoner1">
                 <unique ans="n"/> IS SOMEBODY FILMING A DRAMA HERE? </bubble>
-            <bubble type="speech" spNum="68" who="Prisoner1">
+            <bubble type="speech" spNum="69" who="Prisoner1">
                 <unique ans="n"/> OR DO HUNTERS DATE EACHOTHER THESE DAYS? </bubble>
-            <bubble type="speech" spNum="69" who="Gang Tae-Shik">
+            <bubble type="speech" spNum="70" who="Gang Tae-Shik">
                 <unique ans="y" uniNum="6"/> SHUT UP, YOU FOOLS. </bubble>
         </page>
 
         <pageBrk/>
 
         <page pageNum="13">
-            <bubble type="speech" spNum="70" who="Gang Tae-Shik">
+            <bubble type="speech" spNum="71" who="Gang Tae-Shik">
                 <unique ans="n"/> THIS ISN'T A PICNIC. </bubble>
-            <bubble type="speech" spNum="71" who="Prisoner1">
+            <bubble type="speech" spNum="72" who="Prisoner1">
                 <unique ans="n"/> TAKE CARE OF US TODAY. </bubble>
-            <bubble type="speech" spNum="72" who="Song Chi-Yeol">
+            <bubble type="speech" spNum="73" who="Song Chi-Yeol">
                 <unique ans="n"/> WHAT IS THIS... </bubble>
-            <bubble type="speech" spNum="73" who="Clerk">
+            <bubble type="speech" spNum="74" who="Clerk">
                 <unique ans="y" uniNum="7"/> SORRY FOR BEING LATE. YOU TWO ARE THE SUMMONED HUNTERS
                 SUNG JIN-WOO AND SONG CHI-YEOL? WE'LL GO THROUGH THE PROCEDURE FIRST. </bubble>
-            <bubble type="speech" spNum="74" who="Song Chi-Yeol">
+            <bubble type="speech" spNum="75" who="Song Chi-Yeol">
                 <unique ans="n"/> W... WAIT WHAT'S GOING ON HERE? </bubble>
         </page>
 
         <pageBrk/>
 
         <page pageNum="14">
-            <bubble type="speech" spNum="75" who="Clerk">
-                <unique ans="n"/> OH THOSE PEOPLE? </bubble>
             <bubble type="speech" spNum="76" who="Clerk">
+                <unique ans="n"/> OH THOSE PEOPLE? </bubble>
+            <bubble type="speech" spNum="77" who="Clerk">
                 <unique ans="n"/> THEY ARE REHABILITATORS THAT WILL JOIN THE RAID WITH YOU HUNTERS. </bubble>
-            <bubble type="speech" spNum="77" who="Song Chi-Yeol">
+            <bubble type="speech" spNum="78" who="Song Chi-Yeol">
                 <unique ans="n"/> 'REHABILITATORS'?! AER YOU TELLING IS TO GO RAIDING WITH
                 CRIMINALS?! </bubble>
-            <bubble type="speech" spNum="78" who="Clerk">
-                <unique ans="n"/> E... EVEN IF THEY ARE CRIMINALS THEY WERE HUNTERS IN THE PAST... </bubble>
             <bubble type="speech" spNum="79" who="Clerk">
+                <unique ans="n"/> E... EVEN IF THEY ARE CRIMINALS THEY WERE HUNTERS IN THE PAST... </bubble>
+            <bubble type="speech" spNum="80" who="Clerk">
                 <unique ans="n"/> AND IT'S NOT RARE FOR HUNTERS WHO COMMITTED CRIME'S TO 'SERVE
                 TIME' IN DUNGEONS TO REDUCE THEIR SENTENCE. </bubble>
-            <bubble type="speech" spNum="80" who="Song Chi-Yeol">
+            <bubble type="speech" spNum="81" who="Song Chi-Yeol">
                 <unique ans="n"/> MY GOD... </bubble>
-            <bubble type="speech" spNum="81" who="Sung Jin-Woo">
+            <bubble type="speech" spNum="82" who="Sung Jin-Woo">
                 <unique ans="n"/> ...... </bubble>
-            <bubble type="speech" spNum="82" who="Clerk">
+            <bubble type="speech" spNum="83" who="Clerk">
                 <unique ans="n"/> PLEASE UNDERSTAND HUNTERS IN THIS AREAS HAVE DIMINISHED
                 SIGNIFICANTLY, SO WE HAVE TO RESORT TO SUCH MEASURES. </bubble>
-            <bubble type="speech" spNum="83" who="Clerk">
+            <bubble type="speech" spNum="84" who="Clerk">
                 <unique ans="n"/> ALSO THE MONITORING DEPARTMENT'S HUNTER GANG TAE-SHIK WILL
                 PARTICIPATE IN THIS RAID, SO DON'T WORRY. </bubble>
-            <bubble type="speech" spNum="84" who="Clerk">
-                <unique ans="n"/> THE REHABILITATORS ARE ALL C-RANK. HUNTER GANG TAE-SHIK IS B-RANK </bubble>
             <bubble type="speech" spNum="85" who="Clerk">
+                <unique ans="n"/> THE REHABILITATORS ARE ALL C-RANK. HUNTER GANG TAE-SHIK IS B-RANK </bubble>
+            <bubble type="speech" spNum="86" who="Clerk">
                 <unique ans="n"/> APPROXIMATELY 10 C-RANK HUNTERS ARE NEEDED TO BEAT AN AVERAGE
                 B-RANK HUNTER. </bubble>
         </page>
@@ -293,25 +293,25 @@
         <pageBrk/>
 
         <page pageNum="15">
-            <bubble type="speech" spNum="86" who="Sung Jin-Woo">
-                <unique ans="n"/> SOMETHING FEELS OFF. </bubble>
             <bubble type="speech" spNum="87" who="Sung Jin-Woo">
+                <unique ans="n"/> SOMETHING FEELS OFF. </bubble>
+            <bubble type="speech" spNum="88" who="Sung Jin-Woo">
                 <unique ans="n"/> JU-HEE, PLEASE DROP OUT OF THIS RAID. </bubble>
-            <bubble type="speech" spNum="88" who="Lee Joo-Hee">
+            <bubble type="speech" spNum="89" who="Lee Joo-Hee">
                 <unique ans="n"/> WHAT ABOUT YOU? </bubble>
-            <bubble type="speech" spNum="89" who="Sung Jin-Woo">
+            <bubble type="speech" spNum="90" who="Sung Jin-Woo">
                 <unique ans="n"/> I'M GOING. </bubble>
-            <bubble type="speech" spNum="90" who="Lee Joo-Hee">
+            <bubble type="speech" spNum="91" who="Lee Joo-Hee">
                 <unique ans="n"/> THEN I'M GOING TOO. </bubble>
         </page>
 
         <pageBrk/>
 
         <page pageNum="16">
-            <bubble type="speech" spNum="91" who="Song Chi-Yeol">
+            <bubble type="speech" spNum="92" who="Song Chi-Yeol">
                 <unique ans="n"/> ARE THEY REALLY TELLING US TO GO RAIDING WITH THESE GUYS? </bubble>
             <caption type="thought" thtNum="13" who="Song Chi-Yeol">AH... I SEE.</caption>
-            <bubble type="speech" spNum="92" who="Song Chi-Yeol">
+            <bubble type="speech" spNum="93" who="Song Chi-Yeol">
                 <unique ans="n"/> I GUESS WE'RE ALL GOING TOGETHER THEN. </bubble>
             <caption type="thought" thtNum="14" who="Song Chi-Yeol">THIS IS PROBABLY 'FATE' AS
                 WELL.</caption>
@@ -320,12 +320,12 @@
         <pageBrk/>
 
         <page pageNum="17">
-            <bubble type="speech" spNum="93" who="Song Chi-Yeol">
+            <bubble type="speech" spNum="94" who="Song Chi-Yeol">
                 <unique ans="n"/> TO THE DUNGEON. </bubble>
         </page>
     </body>
 </chapter>
-<!-- 17 PAGES, 14 INSTANCES OF THOUGHT, 93 INSTANCES OF SPEECH, 7 UNIQUE SPEAKERS -->
+<!-- 17 PAGES, 14 INSTANCES OF THOUGHT, 94 INSTANCES OF SPEECH, 7 UNIQUE SPEAKERS -->
 <!-- NEW ITEMS: NONE
      STAT UPDATE: NONE
      NEW SKILLS: NONE

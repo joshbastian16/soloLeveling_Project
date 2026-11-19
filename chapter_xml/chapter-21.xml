@@ -96,58 +96,58 @@
                 <unique ans="n"/> SINCE WE MEMORISED THE WAY, GETTING OUT IS A PIECE OF CAKE. </bubble>
             <bubble type="speech" spNum="20" who="Hwang Dong-Suk">
                 <unique ans="n"/> LET'S GO BACK AFTER A REST. </bubble>
-            <bubble type="speech" spNum="22" who="Lee Jae-Hak">
+            <bubble type="speech" spNum="21" who="Lee Jae-Hak">
                 <unique ans="y" uniNum="5"/> HWANG, IS THERRE A NEED TO DO IT THIS WAY? IF WE JUST
                 KILLED THEM BACK THERE... </bubble>
-            <bubble type="speech" spNum="23" who="Hwang Dong-Suk">
+            <bubble type="speech" spNum="22" who="Hwang Dong-Suk">
                 <unique ans="n"/> IDIOT, IF WE FOUGHT THERE AND THE SPIDER WOKE UP, HOW WOULD WE
                 MINE AND MOVE THE MANA CRYSTALS? </bubble>
-            <bubble type="speech" spNum="24" who="Hwang Dong-Suk">
+            <bubble type="speech" spNum="23" who="Hwang Dong-Suk">
                 <unique ans="n"/> WITH THE WORLD'S WEAKEST E-RANK HUNTER, AND A D-RANK HUNTER WITH
                 ABSOLUTELY NO RAID EXPERIENCE IT'S IMPOSSIBLE FOR THEM TO BEAT THE DUNGEON BOSS, NO
                 MATTER HOW HARD THEY TRY. </bubble>
-            <bubble type="speech" spNum="25" who="Hwang Dong-Suk">
+            <bubble type="speech" spNum="24" who="Hwang Dong-Suk">
                 <unique ans="n"/> AFTER THE SPIDER BOSS EATS THEM AND GOES BACK TO SLEEP, WE CAN
                 TAKE ADVANTAGE OF THAT AND MINE THE MANA CRYSTALS. </bubble>
-            <bubble type="speech" spNum="26" who="others">
+            <bubble type="speech" spNum="25" who="others">
                 <unique ans="n"/> IF THAT DOESN'T WORK, WE'LL HAVE TO KILL THE BOSS... </bubble>
-            <bubble type="speech" spNum="27" who="others">
+            <bubble type="speech" spNum="26" who="others">
                 <unique ans="n"/> BUT DID YOU SEE YOO JIN-HO'S EQUIPMENT? </bubble>
-            <bubble type="speech" spNum="28" who="others">
+            <bubble type="speech" spNum="27" who="others">
                 <unique ans="n"/> IT LOOKED LIKE THE SWORD AND SHIELD ALONE WOULD GO FOR MILLIONS OF
                 WON. </bubble>
-            <bubble type="speech" spNum="29" who="others">
+            <bubble type="speech" spNum="28" who="others">
                 <unique ans="n"/> IF WE CAN'T BRING ALL THE MANA CRYSTALS BACK, WE CAN AT LEAST TAKE
                 HIS STUFF. </bubble>
-            <bubble type="speech" spNum="30" who="Hwang Dong-Suk">
+            <bubble type="speech" spNum="29" who="Hwang Dong-Suk">
                 <unique ans="n"/> LET'S FIND OUT WHICH RICH HOUSEHOLD HE'S FROM </bubble>
-            <bubble type="speech" spNum="31" who="Hwang Dong-Suk">
+            <bubble type="speech" spNum="30" who="Hwang Dong-Suk">
                 <unique ans="n"/> WE SHOULD AT LEAST TAKE CARE OF HIS FUNERAL </bubble>
-            <bubble type="speech" spNum="32" who="Jo Gyu-Hwan">
+            <bubble type="speech" spNum="31" who="Jo Gyu-Hwan">
                 <unique ans="y" uniNum="6"/> SINCE THE WALL CAUSED QUITE A STIR, </bubble>
-            <bubble type="speech" spNum="33" who="Jo Gyu-Hwan">
+            <bubble type="speech" spNum="32" who="Jo Gyu-Hwan">
                 <unique ans="n"/> SHOULDN'T THE BOSS BE QUITE ANGRY RIGHT NOW? </bubble>
-            <bubble type="speech" spNum="34" who="Hwang Dong-Suk">
+            <bubble type="speech" spNum="33" who="Hwang Dong-Suk">
                 <unique ans="n"/> GYU-HWAN, </bubble>
-            <bubble type="speech" spNum="35" who="Hwang Dong-Suk">
+            <bubble type="speech" spNum="34" who="Hwang Dong-Suk">
                 <unique ans="n"/> DO YOU HAVE THE CONFIDENCE TO BEAT THAT MONSTER ON YOUR OWN? </bubble>
-            <bubble type="speech" spNum="36" who="Jo Gyu-Hwan">
+            <bubble type="speech" spNum="35" who="Jo Gyu-Hwan">
                 <unique ans="n"/> IMPOSSIBLE </bubble>
-            <bubble type="speech" spNum="37" who="Hwang Dong-Suk">
+            <bubble type="speech" spNum="36" who="Hwang Dong-Suk">
                 <unique ans="n"/> I DON'T HAVE MUCH CONFIDENCE EITHER. </bubble>
-            <bubble type="speech" spNum="38" who="Hwang Dong-Suk">
+            <bubble type="speech" spNum="37" who="Hwang Dong-Suk">
                 <unique ans="n"/> A BOSS IS A BOSS. </bubble>
         </page>
 
         <pageBrk/>
 
         <page pageNum="6">
-            <bubble type="speech" spNum="39" who="Hwang Dong-Suk">
+            <bubble type="speech" spNum="38" who="Hwang Dong-Suk">
                 <unique ans="n"/> NO MATTER HOW HART THEY TRY, TOW LOW-RANK HUNTERS CANNOT MAKE IT
                 OUT ALIVE. </bubble>
-            <bubble type="speech" spNum="40" who="Yoo Jin-Ho">
+            <bubble type="speech" spNum="39" who="Yoo Jin-Ho">
                 <unique ans="n"/> G-GET BEHIND ME. </bubble>
-            <bubble type="speech" spNum="41" who="Yoo Jin-Ho">
+            <bubble type="speech" spNum="40" who="Yoo Jin-Ho">
                 <unique ans="n"/> I-I'LL THINK OF SOMETHING... </bubble>
             <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
                 <unique ans="n"/>MANY EYES. </bubble>
@@ -168,17 +168,17 @@
             <caption type="thought" thtNum="19" who="Sung Jin-Woo">LEVEL?</caption>
             <caption type="thought" thtNum="20" who="Sung Jin-Woo">WHAT IDIOTIC
                 NONSENSE...</caption>
-            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo">
                 <unique ans="n"/> JIN-HO, STAY THERE. </bubble>
-            <bubble type="speech" spNum="43" who="Sung Jin-Woo">
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
                 <unique ans="n"/> THAT'S MINE. </bubble>
-            <bubble type="speech" spNum="44" who="Yoo Jin-Ho">
+            <bubble type="speech" spNum="43" who="Yoo Jin-Ho">
                 <unique ans="n"/> W-WAIT HYUNG! </bubble>
-            <bubble type="speech" spNum="45" who="Yoo Jin-Ho">
+            <bubble type="speech" spNum="44" who="Yoo Jin-Ho">
                 <unique ans="n"/> W-WHAT ARE YOU TRYING TO DO? </bubble>
-            <bubble type="speech" spNum="46" who="Sung Jin-Woo">
+            <bubble type="speech" spNum="45" who="Sung Jin-Woo">
                 <unique ans="n"/> KILL IT. </bubble>
-            <bubble type="speech" spNum="47" who="Yoo Jin-Ho">
+            <bubble type="speech" spNum="46" who="Yoo Jin-Ho">
                 <unique ans="n"/> YOU'RE GOING TO KILL THAT THING? </bubble>
             <bubble type="thought" thtNum="21" who="Yoo Jin-Ho">
                 <unique ans="n"/> HE'S CRAZY!!! </bubble>
@@ -187,12 +187,12 @@
         <pageBrk/>
 
         <page pageNum="8">
-            <bubble type="speech" spNum="48" who="Yoo Jin-Ho">
+            <bubble type="speech" spNum="47" who="Yoo Jin-Ho">
                 <unique ans="n"/> IF YOU PLAN TO BEAT A C-RANK BOSS ON YOUR OWN IT'S IMPOSSIBLE
                 UNLESS YOU'RE IN THE ELITE OF B OR C-RANK! </bubble>
-            <bubble type="speech" spNum="49" who="Yoo Jin-Ho">
+            <bubble type="speech" spNum="48" who="Yoo Jin-Ho">
                 <unique ans="n"/> THEN HOW ARE YOU GOING TO...! </bubble>
-            <bubble type="speech" spNum="50" who="Yoo Jin-Ho">
+            <bubble type="speech" spNum="49" who="Yoo Jin-Ho">
                 <unique ans="n"/> JUST THINK OF A WAY TO ESCAPE INSTEAD! </bubble>
             <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
                 <unique ans="n"/> HE'S RIGHT. </bubble>
@@ -231,7 +231,7 @@
                 <unique ans="n"/> A C-RANK BOSS, </bubble>
             <bubble type="thought" thtNum="34" who="Sung Jin-Woo">
                 <unique ans="n"/> IS DOABLE! </bubble>
-            <bubble type="speech" spNum="51" who="Yoo Jin-Ho">
+            <bubble type="speech" spNum="50" who="Yoo Jin-Ho">
                 <unique ans="n"/> HYEUNG! </bubble>
         </page>
 
@@ -266,7 +266,7 @@
         </page>
     </body>
 </chapter>
-<!-- 14 pages, 40 thoughts, 51 instances of speech, and 6 unique speakers -->
+<!-- 14 pages, 40 thoughts, 50 instances of speech, and 6 unique speakers -->
 <!-- items gained: none
      stats update: none
      new skills: none

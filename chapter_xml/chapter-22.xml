@@ -274,7 +274,7 @@
                 <unique ans="n"/>THERE'S NO WAY!! </bubble>
             <bubble type="thought" thtNum="41" who="Yoo Jin-Ho">
                 <unique ans="n"/>THIS PERSON IS...! </bubble>
-            <bubble type="thought" thtNum="41" who="Yoo Jin-Ho">
+            <bubble type="thought" thtNum="42" who="Yoo Jin-Ho">
                 <unique ans="n"/> DEFINITELY A FALSE RANKER!!! </bubble>
             <bubble type="speech" spNum="20" who="Yoo Jin-Ho">
                 <unique ans="n"/>AH... UM... SIR. </bubble>
@@ -285,7 +285,7 @@
         <pageBrk/>
 
         <page pageNum="20">
-            <bubble type="thought" thtNum="42" who="Sung Jin-Woo">
+            <bubble type="thought" thtNum="43" who="Sung Jin-Woo">
                 <unique ans="n"/> SIR? </bubble>
             <bubble type="speech" spNum="22" who="Yoo Jin-Ho">
                 <unique ans="n"/>SIR, YOU'RE THIRSTY RIGHT? PLEASE HAVE THIS. IT'S WATER </bubble>
@@ -293,9 +293,9 @@
                 <unique ans="n"/>PHEW, THE EQUIPMENT WAS OBVIOUSLY IN THE BAG. WHAT BAD PEOPLE. </bubble>
             <bubble type="speech" spNum="24" who="Yoo Jin-Ho">
                 <unique ans="n"/>I WILL MINE THE MANA CRYSTALS NOW THAT WE'RE HERE. </bubble>
-            <bubble type="thought" thtNum="43" who="Sung Jin-Woo">
-                <unique ans="n"/> WHY'S HE LIKE THIS... </bubble>
             <bubble type="thought" thtNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/> WHY'S HE LIKE THIS... </bubble>
+            <bubble type="thought" thtNum="45" who="Sung Jin-Woo">
                 <unique ans="n"/>WELL I GUES I'M THE SAVIOUR OF HIS LIFE IN HIS PERSPECTIVE?
             </bubble>
         </page>
@@ -343,7 +343,7 @@
         </page>
     </body>
 </chapter>
-<!--21 PAGES, 44 INSTANCES OF THOUGHT, 23 INSTANCES OF SPEECH, AND 2 UNIQUE SPEAKERS-->
+<!--21 PAGES, 45 INSTANCES OF THOUGHT, 23 INSTANCES OF SPEECH, AND 2 UNIQUE SPEAKERS-->
 <!-- items gained: none
      stat update: strength 53, vitality 30, agility 38, intelligence 30, sense 32
      new skills: none

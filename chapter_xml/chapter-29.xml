@@ -220,7 +220,7 @@
                 <unique ans="n"/> IT'S A BORING QUESTION. </bubble>
             <bubble type="speech" spNum="62" who="Gang Tae-Shik">
                 <unique ans="n"/> YOU WILL MEET A HUNDRED CHILDREN IN THIS DUNGEON FROM NOW ON. </bubble>
-            <bubble type="speech" spNum="62" who="Prisoner3">
+            <bubble type="speech" spNum="63" who="Prisoner3">
                 <unique ans="n"/> WHAT ARE YOU SAYING> WHY ARE THERE CHILDREN IN A DUNGEON?
             </bubble>
         </page>
@@ -228,36 +228,36 @@
         <pageBrk/>
 
         <page pageNum="13">
-            <bubble type="speech" spNum="63" who="Gang Tae-Shik">
-                <unique ans="n"/> THE CHILDREN ARE STARVED, SO THEY WILL EAT ALL YOUR FLESH. </bubble>
             <bubble type="speech" spNum="64" who="Gang Tae-Shik">
+                <unique ans="n"/> THE CHILDREN ARE STARVED, SO THEY WILL EAT ALL YOUR FLESH. </bubble>
+            <bubble type="speech" spNum="65" who="Gang Tae-Shik">
                 <unique ans="n"/> CAN YOU KILL THOSE THINGS? </bubble>
-            <bubble type="speech" spNum="65" who="Prisoner3">
+            <bubble type="speech" spNum="66" who="Prisoner3">
                 <unique ans="n"/> OF COURSE. </bubble>
-            <bubble type="speech" spNum="66" who="Prisoner1">
+            <bubble type="speech" spNum="67" who="Prisoner1">
                 <unique ans="n"/> KILL THEM </bubble>
-            <bubble type="speech" spNum="67" who="Prisoner2">
+            <bubble type="speech" spNum="68" who="Prisoner2">
                 <unique ans="n"/> WE CAN KILL THEM </bubble>
-            <bubble type="speech" spNum="68" who="Gang Tae-Shik">
-                <unique ans="n"/> THAT'S RIGHT. </bubble>
             <bubble type="speech" spNum="69" who="Gang Tae-Shik">
-                <unique ans="n"/> THE ANSWER IS THAT YOU HAVE ANYONE TO LIVE. </bubble>
+                <unique ans="n"/> THAT'S RIGHT. </bubble>
             <bubble type="speech" spNum="70" who="Gang Tae-Shik">
-                <unique ans="n"/> I'LL HAVE TI REPORT IT LIKE THIS TO THE HUNTER'S GUILD. </bubble>
+                <unique ans="n"/> THE ANSWER IS THAT YOU HAVE ANYONE TO LIVE. </bubble>
             <bubble type="speech" spNum="71" who="Gang Tae-Shik">
-                <unique ans="n"/> YOU GUYS, </bubble>
+                <unique ans="n"/> I'LL HAVE TI REPORT IT LIKE THIS TO THE HUNTER'S GUILD. </bubble>
             <bubble type="speech" spNum="72" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU GUYS, </bubble>
+            <bubble type="speech" spNum="73" who="Gang Tae-Shik">
                 <unique ans="n"/> HERE, </bubble>
         </page>
 
         <pageBrk/>
 
         <page pageNum="14">
-            <bubble type="speech" spNum="73" who="Gang Tae-Shik">
+            <bubble type="speech" spNum="74" who="Gang Tae-Shik">
                 <unique ans="n"/> MET A HUNDRED GOBLINS, </bubble>
-            <bubble type="speech" spNum="74" who="Kim Sang-Shik">
+            <bubble type="speech" spNum="75" who="Kim Sang-Shik">
                 <unique ans="n"/> IF A GIBLIN IS THIS EASY, IT'S DOABLE. </bubble>
-            <bubble type="speech" spNum="75" who="UnNamed Survivor">
+            <bubble type="speech" spNum="76" who="UnNamed Survivor">
                 <unique ans="y" uniNum="9"/> IT WOULD BE GOOD IF THE RAID ENDED WITH NOTHING MAJOR
                 HAPPENING. </bubble>
         </page>
@@ -265,40 +265,57 @@
         <pageBrk/>
 
         <page pageNum="15">
-            <bubble type="speech" spNum="76" who="Kim Sang-Shik">
-                <unique ans="n"/> I DON'T THINK ANYTHING WILL HAPPEN. </bubble>
             <bubble type="speech" spNum="77" who="Kim Sang-Shik">
+                <unique ans="n"/> I DON'T THINK ANYTHING WILL HAPPEN. </bubble>
+            <bubble type="speech" spNum="78" who="Kim Sang-Shik">
                 <unique ans="n"/> IF THE WEAKEST HUNTER CAMEE IT MEANS THAT THE DUNGEON IS ALSO
                 WEAK. THEY USED TO SAY THAT. </bubble>
-            <bubble type="speech" spNum="78" who="Kim Sang-Shik">
-                <unique ans="n"/> ALTHOUGH IT WASN'T STRICTLY CORRECT. </bubble>
             <bubble type="speech" spNum="79" who="Kim Sang-Shik">
-                <unique ans="n"/> I'VE DECIDED. </bubble>
+                <unique ans="n"/> ALTHOUGH IT WASN'T STRICTLY CORRECT. </bubble>
             <bubble type="speech" spNum="80" who="Kim Sang-Shik">
-                <unique ans="n"/> AFTER THIS RAID I'LL ALSO BOW TO SUNG AND APOLOGIZE. </bubble>
+                <unique ans="n"/> I'VE DECIDED. </bubble>
             <bubble type="speech" spNum="81" who="Kim Sang-Shik">
-                <unique ans="n"/> DON'T YOU ALSO FEEL GUILTY? WE BOTH RAN AWAY. </bubble>
+                <unique ans="n"/> AFTER THIS RAID I'LL ALSO BOW TO SUNG AND APOLOGIZE. </bubble>
             <bubble type="speech" spNum="82" who="Kim Sang-Shik">
+                <unique ans="n"/> DON'T YOU ALSO FEEL GUILTY? WE BOTH RAN AWAY. </bubble>
+            <bubble type="speech" spNum="83" who="Kim Sang-Shik">
                 <unique ans="n"/> US, WHO ARE CALLED HUNTERS... </bubble>
         </page>
 
         <pageBrk/>
 
         <page pageNum="16">
-            <bubble type="speech" spNum="83" who="Kim Sang-Shik">
-                <unique ans="n"/> WE CAN'T JUST ACT NORMALLY AFTER LEAVING A TEAMMATE BEHIND. </bubble>
             <bubble type="speech" spNum="84" who="Kim Sang-Shik">
+                <unique ans="n"/> WE CAN'T JUST ACT NORMALLY AFTER LEAVING A TEAMMATE BEHIND. </bubble>
+            <bubble type="speech" spNum="85" who="Kim Sang-Shik">
                 <unique ans="n"/> IF WE'RE GOING TO CONTINUE BEING HUNTERS, WE HAVE TO GET USED TO
                 SOMETHING AS SMALL AS BOWING OUR HEADS. </bubble>
-            <bubble type="speech" spNum="85" who="Kim Sang-Shik">
-                <unique ans="n"/> ALTHOUGH I DON'T KNOW IF HE'LL FORGIVE US... </bubble>
             <bubble type="speech" spNum="86" who="Kim Sang-Shik">
-                <unique ans="n"/> NO, EVEN IF THERE'S NO WAY HE'LL FORGIVE US, I WILL APOLOGIZE. </bubble>
+                <unique ans="n"/> ALTHOUGH I DON'T KNOW IF HE'LL FORGIVE US... </bubble>
             <bubble type="speech" spNum="87" who="Kim Sang-Shik">
-                <unique ans="n"/> WE HAVE NO TIME, LET'S GO. </bubble>
+                <unique ans="n"/> NO, EVEN IF THERE'S NO WAY HE'LL FORGIVE US, I WILL APOLOGIZE. </bubble>
             <bubble type="speech" spNum="88" who="Kim Sang-Shik">
-                <unique ans="n"/> SINCE IT'S JUST THE TWO OF US WE HAVE TO BE CAREFUL </bubble>
+                <unique ans="n"/> WE HAVE NO TIME, LET'S GO. </bubble>
+            <bubble type="speech" spNum="89" who="Kim Sang-Shik">
+                <unique ans="n"/> SINCE IT'S JUST THE TWO OF US WE HAVE TO BE CAREFUL.</bubble>
+            <bubble type="speech" spNum="90" who="UnNamed Survivor">
+                <unique ans="n"/> Y... YES!</bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="17">
+            <bubble type="speech" spNum="91" who="UnNamed Survivor">
+                <unique ans="n" /> MAYBE THE OTHERS ALREADY FINISHED UP AND LEFT?</bubble>
+            <bubble type="speech" spNum="92" who="UnNamed Survivor">
+                <unique ans="n" /> HM?</bubble>
+            <bubble type="speech" spNum="93" who="Kim Sang-Shik">
+                <unique ans="n" /> W... WHAT?!</bubble>
         </page>
     </body>
-
 </chapter>
+<!-- 17 PAGES, 93 INSTANCES OF SPEECH, 12 INSTANCES OF THOUGHT, 9 UNIQUE SPEAKERS -->
+<!-- NEW ITEMS: NONE
+     STAT UPDATE: NONE
+     NEW SKILLS: NONE
+     lEVELS GAINED: NONE, CURRENT LEVEL: UNKNOWN-->
