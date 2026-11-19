@@ -299,9 +299,9 @@
                 <unique ans="n"/>WELL I GUES I'M THE SAVIOUR OF HIS LIFE IN HIS PERSPECTIVE?
             </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="21">
             <systemMsg type="statSheet">
                 <info>STATUS</info>
@@ -319,7 +319,7 @@
                 <stat>SENSE: 32</stat>
                 <info>REMAINING POINTS: 3</info>
             </systemMsg>
-            
+
             <systemMsg type="skill">
                 <info>SKILLS</info>
                 <info>[PASSIVE]</info>
@@ -333,7 +333,7 @@
                 <info>TYPE: DAGGER</info>
                 <info>ATTACK: +25</info>
                 <info>A DAGGER MADE FROM RASAKA'S FANG.</info>
-                <info>ABLE TO PARALYZE DUE TO LEFTOVER VENOM. GRANTS</info> 
+                <info>ABLE TO PARALYZE DUE TO LEFTOVER VENOM. GRANTS</info>
                 <info>BLEED EFFECT. CAN BE EQUIPED, STORED, OR SOLD</info>
                 <info>-EFFECT 'PARALYZE': ATTACKED FOES HAVE A</info>
                 <info>CHANCE BECOME UNABLE TO MOVE.</info>

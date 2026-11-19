@@ -27,7 +27,7 @@ levelUp = element levelUp{text}
 # the ans attribute is for keeping track of if it's the first time a character is speaking. if it is, then you its equal to "y", if not, it's equal to "n".
 # then you either increase uniNum by one if the answer is "y", or you don't include it and keep it the same if the answer is "n".
 ans = attribute ans {"y" | "n"}
-who = attribute who {"Sung Jin-Woo" | "Yoo Jin-Ho" | "Hwang Dong-Suk"| "Woo Jin-Chul" | "Sung Jin-Ah" | "Song Chi-Yeol" | "Lee Joo-Hee" | "Jo Gyu-Hwan" | "others" | text}
+who = attribute who {"Sung Jin-Woo" | "Yoo Jin-Ho" | "Hwang Dong-Suk"| "Hwang Dong-Soo" | "Woo Jin-Chul" | "Sung Jin-Ah" | "Song Chi-Yeol" | "Lee Joo-Hee" | "Jo Gyu-Hwan" | "Gang Tae-Shik" | "Cha Hae-In" | "Kim Sang-Shik" | "others" | text}
 # caption is for the text boxes or the uncontained text. I included the spNum and thtNum because sometimes its someones thoughts or speech.
 
 

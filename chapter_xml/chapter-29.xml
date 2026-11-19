@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="29">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Prisoner2">
+                <unique ans="y" uniNum="1"/> PHEW~ THAT'S BETTER. </bubble>
+            <bubble type="speech" spNum="2" who="Prisoner2">
+                <unique ans="n"/> ARE YOU ALLOWED TO TREAT US LIKE SLAVES? HUH? </bubble>
+            <bubble type="speech" spNum="3" who="Gang Tae-Shik">
+                <unique ans="y" uniNum="2"/> SHUT IT. </bubble>
+            <bubble type="speech" spNum="4" who="Gang Tae-Shik">
+                <unique ans="n"/> I'M GANG TAE-SHIK FROM THE MONITORING DEPARTMMENT </bubble>
+            <bubble type="speech" spNum="5" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU HEARD THE EXPLANATION.I'LL BE KEEPING A CLOSE EYE ON THEM, SO
+                DON'T WORRY TO MUCH. </bubble>
+            <bubble type="speech" spNum="6" who="Gang Tae-Shik">
+                <unique ans="n"/> WO WILL LEAD THE RAID TOFAY? </bubble>
+            <bubble type="speech" spNum="7" who="Song Chi-Yeol">
+                <unique ans="y" uniNum="3"/> I'LL DO IT </bubble>
+            <bubble type="speech" spNum="8" who="Gang Tae-Shik">
+                <unique ans="n"/> THEN I'LL LEAVE IT TO YOU. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="9" who="Song Chi-Yeol">
+                <unique ans="n"/> ARE YOU OKAY WITH ME BEING THE LEADER? </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="4"/> OF COURSE... </bubble>
+            <bubble type="speech" spNum="11" who="Song Chi-Yeol">
+                <unique ans="n"/> THANK YOU FOR GIVING ME ANOTHER CHANCE, </bubble>
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> M... MISTER? </bubble>
+            <bubble type="speech" spNum="13" who="Song Chi-Yeol">
+                <unique ans="n"/> IF IT WAS MY FAULT THAT 11 PEOPLE DIED, </bubble>
+            <bubble type="speech" spNum="14" who="Song Chi-Yeol">
+                <unique ans="n"/> THEN IT WAS THANKS TO YOU THAT 6 PEOPLE SURVIVED. </bubble>
+            <bubble type="speech" spNum="15" who="Song Chi-Yeol">
+                <unique ans="n"/> MY RESPONSIBILITY WAS THE GREATEST WHEN IT CAME TO NOT BEING ABLE
+                TO PROTECT EVERYONE, WHEN I BOW, I'M THANKING YOU IN THE PLACE OF ALL THE HUNTERS. </bubble>
+            <bubble type="speech" spNum="16" who="Song Chi-Yeol">
+                <unique ans="n"/> SUNG, THANK YOU. </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> MISTER, RAISE YOU HEAD. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="18" who="Song Chi-Yeol">
+                <unique ans="n"/> KIM, YOU HAVE NO COMPLAINTS RIGHT? </bubble>
+            <bubble type="speech" spNum="19" who="Song Chi-Yeol">
+                <unique ans="n"/> EVEN IF I LEAD THIS RAID. </bubble>
+            <bubble type="speech" spNum="20" who="Kim Sang-Shik">
+                <unique ans="y" uniNum="5"/> DO WHATEVER YOU LIKE. </bubble>
+            <bubble type="speech" spNum="21" who="monster">
+                <unique ans="n"/> KIYEE! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="speech" spNum="22" who="Prisoner2">
+                <unique ans="n"/> DO THEY WANT TO GET BEATED UP? </bubble>
+            <bubble type="speech" spNum="23" who="Prisoner3">
+                <unique ans="y" uniNum="6"/> HOW BLAND! </bubble>
+            <bubble type="speech" spNum="24" who="Prisoner3">
+                <unique ans="n"/> TRY COMING AT US IN PACKS!! </bubble>
+            <bubble type="speech" spNum="25" who="Prisoner1">
+                <unique ans="y" uniNum="7"/> HMPH!! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="26" who="Song Chi-Yeol">
+                <unique ans="n"/> I CAN'T SEE WHO'S THE MONSTER AND WHO'S THE HUMAN. </bubble>
+            <bubble type="speech" spNum="27" who="monster">
+                <unique ans="n"/> KIKE! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="speech" spNum="28" who="monster">
+                <unique ans="n"/> KIKI </bubble>
+            <bubble type="speech" spNum="29" who="Song Chi-Yeol">
+                <unique ans="n"/> KIEEE!! </bubble>
+            <bubble type="speech" spNum="30" who="Song Chi-Yeol">
+                <unique ans="n"/> KIEK </bubble>
+            <bubble type="speech" spNum="31" who="Kim Sang-Shik">
+                <unique ans="n"/> SONG CHI-YEOL, THAT MAN... I DON'T THINK HE'S A NORMAL C-RANK... </bubble>
+            <bubble type="speech" spNum="32" who="Song Chi-Yeol">
+                <unique ans="n"/> KIM, IS IT FINE IF A SWORDMAN'S SWING IS WEAK LIKE THAT? </bubble>
+            <bubble type="speech" spNum="33" who="Kim Sang-Shik">
+                <unique ans="n"/> HMPH! IT SEEMS YOU LIKE TO ACT THE LEADER AS ALWAYS. </bubble>
+
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="speech" spNum="34" who="Song Chi-Yeol">
+                <unique ans="n"/> LET'S BE POSITIVE. </bubble>
+            <bubble type="speech" spNum="35" who="Song Chi-Yeol">
+                <unique ans="n"/> ALL THE SURVIVORS FROM THAT INCIDENT ARE NOW REUNITED. </bubble>
+            <bubble type="speech" spNum="36" who="Song Chi-Yeol">
+                <unique ans="n"/> IT SEEMS SUNG HAS IMPROVED A LOT. </bubble>
+            <bubble type="speech" spNum="37" who="Song Chi-Yeol">
+                <unique ans="n"/> WHERE DID YOU GET SUCH A GOOD DAGGER? IT'S STRANGE SEEING THE
+                BAREHANDED SUNG SUDDENLY USE A DAGGER. </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> IS THAT SO? </bubble>
+            <bubble type="speech" spNum="39" who="Lee Joo-Hee">
+                <unique ans="y" uniNum="8"/> THAT'S RIGHT. I DIDN'T NEED TO HEAL YOU EVEN ONCE. ARE
+                YOU SURE YOU DIDN'T TRAIN IN MARTIAL ARTS WHILE YOU WERE GONE? </bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> I JUST DO SOME EXERCISE EVERY DAY. </bubble>
+            <bubble type="thought" thtNum="1" who="Song Chi-Yeol">
+                <unique ans="n"/> I SAID IT AS A JOKE, BUT IT LOOKS LIKE HE'S CHANGED A LOT. </bubble>
+            <bubble type="speech" spNum="41" who="Lee Joo-Hee">
+                <unique ans="n"/> YOU'RE DIFFERENT FROM THE JIN-WOO THAT I USED TO KNOW. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <caption type="thought" thtNum="2" who="Song Chi-Yeol">NOT ONLY HIS APPEARANCE, BUT HIS
+                AURA TOO...</caption>
+            <caption type="thought" thtNum="3" who="Song Chi-Yeol">IS HE REALLY THE SUNG I
+                KNEW?</caption>
+            <caption type="thought" thtNum="4" who="Song Chi-Yeol">HE USED TO HAVE A HOPELESS
+                FEELING TO HIM BUT NOW HE HAS A RELAXED SENSE TO HIM,,, HE'S TRULY BECOME A
+                MAN.</caption>
+            <caption type="thought" thtNum="5" who="Song Chi-Yeol">ON THE OTHER HAND, JU-HEE SEEMS
+                AFRAID.</caption>
+            <caption type="thought" thtNum="6" who="Song Chi-Yeol">TO BE AFRAID OF MERE GOBLINS, HER
+                TRAUMA MUST BE DEEP.</caption>
+            <caption type="thought" thtNum="7" who="Song Chi-Yeol">IT'S UNFORTUNATE, BUT AT THIS
+                RATE SHE'LL HAVE TO RETIRE.</caption>
+            <bubble type="speech" spNum="42" who="others">
+                <unique ans="n"/> DARN, THE PATH BRANCHES INTO THREE, </bubble>
+            <bubble type="speech" spNum="43" who="Gang Tae-Shik">
+                <unique ans="n"/> SINCE THE DIFFICULTY IS RELATIVELY LOW,M HOW BAOUT WE SPLIT UP? </bubble>
+            <bubble type="speech" spNum="44" who="Gang Tae-Shik">
+                <unique ans="n"/> ALTHOUGH THE DANGER MIGHT INCREASE, THE CLEAR TIME WILL
+                SIGNIFICANTLY DECREASE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="speech" spNum="45" who="Song Chi-Yeol">
+                <unique ans="n"/> ...... LET'S SPLIT UP. </bubble>
+            <bubble type="speech" spNum="46" who="Gang Tae-Shik">
+                <unique ans="n"/> I'LL BRING THE CRIMINALS TO THE RIGHT-MOST PATH SO IF YOU
+                PERCHANCE FIND THE BOSS TOOM, YOU CAN COME TELL US QUICKLY. </bubble>
+            <bubble type="speech" spNum="47" who="Sung Jin-Woo">
+                <unique ans="n"/> MISTER SONG CHI-YEOL, LET'S GO TO THE LEFT PATH. </bubble>
+            <bubble type="speech" spNum="48" who="Song Chi-Yeol">
+                <unique ans="n"/> SURE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> THE BOSS IS AT THE END OF THIS PATH. </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE GOBLINS DON'T GIVE ME MUCH EXPERIENCE, I'LL HAVE TO AT LEAST
+                KILL THE BOSS TO OBTAIN SOME MORE, </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT MORE THAN THAT... </bubble>
+            <caption type="thought" thtNum="11" who="Sung Jin-Woo">THAT GUY FROM BEFORE</caption>
+            <caption type="thought" thtNum="12" who="Sung Jin-Woo">HE'S WORRYING ME.</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="speech" spNum="49" who="Gang Tae-Shik">
+                <unique ans="n"/> DID YOU TAKE CARE OF THEM? </bubble>
+            <bubble type="speech" spNum="50" who="Prisoner2">
+                <unique ans="n"/> THIS IS A PIECE OF CAKE. </bubble>
+            <bubble type="speech" spNum="51" who="Prisoner1">
+                <unique ans="n"/> THEY'RE WEAK. MERE GOBLINS DON'T EVEN STAND A CHANCE AGAINST ME, </bubble>
+            <bubble type="speech" spNum="52" who="Gang Tae-Shik">
+                <unique ans="n"/> GOBLINS USUALLY HAVE LOWER STRENGTH AND HEALTH THAN A GROWN MAN,
+                AND THEIR SIZE AND INTELLIGENCE ARE THOSE OF A CHILD'S, BUT THEY ARE ANNOYING FOES
+                WHO USE SNEAK ATTACKS AND SWARM THEIR TARGETS.</bubble>
+            <bubble type="speech" spNum="53" who="Gang Tae-Shik">
+                <unique ans="n"/> OF COURSE, EVEN IF YOU GIVE A WEAPON TO A HUMAN CHILD, THEY WILL
+                BE JUST AS ANNOYING. </bubble>
+            <bubble type="speech" spNum="54" who="Gang Tae-Shik">
+                <unique ans="n"/> BECAUSE EVEN A CHILD CAN KILL A PERSON WITH A WEAPON. </bubble>
+            <bubble type="speech" spNum="55" who="Gang Tae-Shik">
+                <unique ans="n"/> IN REALITY, COUNTLESS CHILD SOLDIERS ARE ARMED AND ATTACK PEOPLE
+                ON THE OTHER SIDE OF THE EARTH. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="speech" spNum="56" who="Gang Tae-Shik">
+                <unique ans="n"/> THERE'S NO DIFFERENCE BETWEEN HUMANS AND MONSTERS, </bubble>
+            <bubble type="speech" spNum="57" who="Gang Tae-Shik">
+                <unique ans="n"/> THEY'RE BOTH INSECTS. </bubble>
+            <bubble type="speech" spNum="58" who="Gang Tae-Shik">
+                <unique ans="n"/> CAN YOU GUYS KILL CHILDREN? </bubble>
+            <bubble type="speech" spNum="59" who="Prisoner3">
+                <unique ans="n"/> WHAT BORING QUESTION ARE YOU ASKING US. </bubble>
+            <bubble type="speech" spNum="60" who="Gang Tae-Shik">
+                <unique ans="n"/> THAT'S RIGHT. </bubble>
+            <bubble type="speech" spNum="61" who="Gang Tae-Shik">
+                <unique ans="n"/> IT'S A BORING QUESTION. </bubble>
+            <bubble type="speech" spNum="62" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU WILL MEET A HUNDRED CHILDREN IN THIS DUNGEON FROM NOW ON. </bubble>
+            <bubble type="speech" spNum="62" who="Prisoner3">
+                <unique ans="n"/> WHAT ARE YOU SAYING> WHY ARE THERE CHILDREN IN A DUNGEON?
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="63" who="Gang Tae-Shik">
+                <unique ans="n"/> THE CHILDREN ARE STARVED, SO THEY WILL EAT ALL YOUR FLESH. </bubble>
+            <bubble type="speech" spNum="64" who="Gang Tae-Shik">
+                <unique ans="n"/> CAN YOU KILL THOSE THINGS? </bubble>
+            <bubble type="speech" spNum="65" who="Prisoner3">
+                <unique ans="n"/> OF COURSE. </bubble>
+            <bubble type="speech" spNum="66" who="Prisoner1">
+                <unique ans="n"/> KILL THEM </bubble>
+            <bubble type="speech" spNum="67" who="Prisoner2">
+                <unique ans="n"/> WE CAN KILL THEM </bubble>
+            <bubble type="speech" spNum="68" who="Gang Tae-Shik">
+                <unique ans="n"/> THAT'S RIGHT. </bubble>
+            <bubble type="speech" spNum="69" who="Gang Tae-Shik">
+                <unique ans="n"/> THE ANSWER IS THAT YOU HAVE ANYONE TO LIVE. </bubble>
+            <bubble type="speech" spNum="70" who="Gang Tae-Shik">
+                <unique ans="n"/> I'LL HAVE TI REPORT IT LIKE THIS TO THE HUNTER'S GUILD. </bubble>
+            <bubble type="speech" spNum="71" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU GUYS, </bubble>
+            <bubble type="speech" spNum="72" who="Gang Tae-Shik">
+                <unique ans="n"/> HERE, </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="speech" spNum="73" who="Gang Tae-Shik">
+                <unique ans="n"/> MET A HUNDRED GOBLINS, </bubble>
+            <bubble type="speech" spNum="74" who="Kim Sang-Shik">
+                <unique ans="n"/> IF A GIBLIN IS THIS EASY, IT'S DOABLE. </bubble>
+            <bubble type="speech" spNum="75" who="UnNamed Survivor">
+                <unique ans="y" uniNum="9"/> IT WOULD BE GOOD IF THE RAID ENDED WITH NOTHING MAJOR
+                HAPPENING. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <bubble type="speech" spNum="76" who="Kim Sang-Shik">
+                <unique ans="n"/> I DON'T THINK ANYTHING WILL HAPPEN. </bubble>
+            <bubble type="speech" spNum="77" who="Kim Sang-Shik">
+                <unique ans="n"/> IF THE WEAKEST HUNTER CAMEE IT MEANS THAT THE DUNGEON IS ALSO
+                WEAK. THEY USED TO SAY THAT. </bubble>
+            <bubble type="speech" spNum="78" who="Kim Sang-Shik">
+                <unique ans="n"/> ALTHOUGH IT WASN'T STRICTLY CORRECT. </bubble>
+            <bubble type="speech" spNum="79" who="Kim Sang-Shik">
+                <unique ans="n"/> I'VE DECIDED. </bubble>
+            <bubble type="speech" spNum="80" who="Kim Sang-Shik">
+                <unique ans="n"/> AFTER THIS RAID I'LL ALSO BOW TO SUNG AND APOLOGIZE. </bubble>
+            <bubble type="speech" spNum="81" who="Kim Sang-Shik">
+                <unique ans="n"/> DON'T YOU ALSO FEEL GUILTY? WE BOTH RAN AWAY. </bubble>
+            <bubble type="speech" spNum="82" who="Kim Sang-Shik">
+                <unique ans="n"/> US, WHO ARE CALLED HUNTERS... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <bubble type="speech" spNum="83" who="Kim Sang-Shik">
+                <unique ans="n"/> WE CAN'T JUST ACT NORMALLY AFTER LEAVING A TEAMMATE BEHIND. </bubble>
+            <bubble type="speech" spNum="84" who="Kim Sang-Shik">
+                <unique ans="n"/> IF WE'RE GOING TO CONTINUE BEING HUNTERS, WE HAVE TO GET USED TO
+                SOMETHING AS SMALL AS BOWING OUR HEADS. </bubble>
+            <bubble type="speech" spNum="85" who="Kim Sang-Shik">
+                <unique ans="n"/> ALTHOUGH I DON'T KNOW IF HE'LL FORGIVE US... </bubble>
+            <bubble type="speech" spNum="86" who="Kim Sang-Shik">
+                <unique ans="n"/> NO, EVEN IF THERE'S NO WAY HE'LL FORGIVE US, I WILL APOLOGIZE. </bubble>
+            <bubble type="speech" spNum="87" who="Kim Sang-Shik">
+                <unique ans="n"/> WE HAVE NO TIME, LET'S GO. </bubble>
+            <bubble type="speech" spNum="88" who="Kim Sang-Shik">
+                <unique ans="n"/> SINCE IT'S JUST THE TWO OF US WE HAVE TO BE CAREFUL </bubble>
+        </page>
+    </body>
+
+</chapter>

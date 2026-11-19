@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="file:/C:/gitHub/soloLeveling_Project/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <chapter num="14">
     <title>Solo Leveling</title>
     <author>Chugong</author>
@@ -108,10 +108,10 @@
             </systemMsg>
             <bubble type="speech" spNum="18" who="Sung Jin-Woo">
                 <unique ans="n"/> LOOKS LIKE NEW PLAYERS CAN'T USE THIS FUNCTION. </bubble>
-           <systemMsg type="information">
-               <info>-WOULD YOU LIKE TO SELL</info>
-               <info>[ITEM: RAIKAN'S FANG]?</info>
-           </systemMsg>
+            <systemMsg type="information">
+                <info>-WOULD YOU LIKE TO SELL</info>
+                <info>[ITEM: RAIKAN'S FANG]?</info>
+            </systemMsg>
             <bubble type="speech" spNum="19" who="Sung Jin-Woo">
                 <unique ans="n"/> YES. </bubble>
             <bubble type="speech" spNum="20" who="Sung Jin-Woo">
@@ -190,21 +190,21 @@
         <pageBrk/>
 
         <page pageNum="11">
-            
-                <systemMsg type="information">
-                    <info>ALARM</info> 
-                    <levelUp>YOU HAVE LEVELED UP!</levelUp>
-                </systemMsg>
+
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <levelUp>YOU HAVE LEVELED UP!</levelUp>
+            </systemMsg>
             <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
                 <unique ans="n"/> I TRULY REALIZE NOW. </bubble>
             <systemMsg type="information">
-                <info>ALARM</info> 
+                <info>ALARM</info>
                 <levelUp>YOU HAVE LEVELED UP!</levelUp>
             </systemMsg>
             <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
                 <unique ans="n"/> IF I QUIT HERE, I'LL GET SLAUGHTERED </bubble>
             <systemMsg type="information">
-                <info>ALARM</info> 
+                <info>ALARM</info>
                 <levelUp>YOU HAVE LEVELED UP!</levelUp>
             </systemMsg>
         </page>
@@ -230,7 +230,7 @@
             <bubble type="speech" spNum="36" who="Sung Jin-Woo">
                 <unique ans="n"/> AHHHHHHHHHH </bubble>
             <systemMsg type="information">
-                <info>ALARM</info> 
+                <info>ALARM</info>
                 <levelUp>YOU HAVE LEVELED UP!</levelUp>
             </systemMsg>
         </page>
@@ -254,7 +254,7 @@
 
         <page pageNum="15">
             <systemMsg type="information">
-                <info>ALARM YOU HAVE LEARNED</info> 
+                <info>ALARM YOU HAVE LEARNED</info>
                 <info>[TITLE: WOLF SLAYER]</info>
             </systemMsg>
         </page>

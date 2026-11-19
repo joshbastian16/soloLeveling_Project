@@ -169,3 +169,28 @@ body {
 .bold-text{
     font-weight: bold;
 }
+
+/* Chapter Statistics Table */
+.statistics-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    background-color: white;
+    text-align: center;
+}
+
+.statistics-table th,
+.statistics-table td {
+    border: 1px solid black;
+    padding: 12px;
+}
+
+.statistics-table th {
+    background-color: #172B4D;
+    color: white;
+    font-weight: bold;
+}
+
+.statistics-table td {
+    font-size: 20px;
+}

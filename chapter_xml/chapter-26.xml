@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="26">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Yoo Jin-Ho">
+                <unique ans="y" uniNum="1"/> THIS... </bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="2"/> WHY ARE YOU SUDDENLY FOLLOWING ME OUT TO EXERCISE?
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="3" who="Sung Jin-Ah">
+                <unique ans="y" uniNum="3"/> YOU SEEM TO BE ON YOUR HIGH HORSE LATELY. IT'S NOT GOOD
+                TO SIT AT A DESK FOR TOO LONG ANYWAY. </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> DON'T FALL BEHIND. </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> JIN-AH. </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> HYPOTHETICALLY, IF YOU SUDDENLT GOT 3,000,000,000 WON, WHAT WOULD
+                YOU DO? </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Ah">
+                <unique ans="n"/> WHY ARE YOU ASKING? </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Ah">
+                <unique ans="n"/> MAYBE DEPOSIT IT? OR MOVE TO A BIGGER HOUSE. </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> AND THE LEFTOVERS? </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Ah">
+                <unique ans="n"/> WELL... I HAVEN'T REALLY THOUGHT OF THAT... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="11" who="Sung Jin-Ah">
+                <unique ans="n"/> AREN'T THE NUMBERS TOO UNREALISTIC? WHY 3 BILLION? </bubble>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S NOT THAT... </bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> ...UNREALISTIC. </bubble>
+            <bubble type="speech" spNum="12" who="Sung Jin-Ah">
+                <unique ans="n"/> HEY...! </bubble>
+            <bubble type="speech" spNum="13" who="Sung Jin-Ah">
+                <unique ans="n"/> BROTHER! </bubble>
+            <bubble type="speech" spNum="14" who="Sung Jin-Ah">
+                <unique ans="n"/> WAIT FOR ME! </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Ah">
+                <unique ans="n"/> WHAT THE HECK!! </bubble>
+            <bubble type="speech" spNum="16" who="Sung Jin-Ah">
+                <unique ans="n"/> A HUNTER IS A HUNTER THOUGH. </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> 3 BILLION?! </bubble>
+            <bubble type="speech" spNum="18" who="Yoo Jin-Ho">
+                <unique ans="n"/> IT'S THE BUILDING WE'RE CONSTRUCTING, AND WE PLAN ON USING IT AS
+                THE GUILD OFFICE. </bubble>
+            <bubble type="speech" spNum="19" who="Yoo Jin-Ho">
+                <unique ans="n"/> THE ESTIMATED PRICE IS 3 BILLION, BUT IT WILL RISE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> A 3,000,000,000 WON BUILDING FOR DOING C-RANK RAIDS NINETEEN
+                TIMES... </bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> SO YOU'RE SAYING IT'S JUST A SMALL INVESTMENT AS LONG AS YOU CAN
+                BECOME A GUILD MASTER? </bubble>
+            <bubble type="speech" spNum="21" who="Yoo Jin-Ho">
+                <unique ans="n"/> THAT IS CORRECT, SIR. </bubble>
+            <caption type="thought" thtNum="4" who="Sung Jin-Woo">WHAT SHOULD I DO?</caption>
+            <caption type="thought" thtNum="5" who="Sung Jin-Woo">3 BILLION.</caption>
+            <caption type="thought" thtNum="6" who="Sung Jin-Woo">NORMALLY THERE WOULD BE NO REASON
+                TO REFUSE BUT...</caption>
+            <caption type="narration">UNIQUE</caption>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> I AM AWARE OF IT. </bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M A SPECIAL CASE EVEN AMONG REAWAKENED. </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE NOBODY HAS HEARD OF A HUNTER THAT CAN LEVEL UP AND GROW
+                STRONGER, </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I CONTINUE TO LEVEL UP LIKE THIS, IT;S POSSIBLE THAT I COULD
+                REACH S-RANK, NO, MAYBE SOMETHING EVEN STRONGER THAN THAT. </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> IF THAT HAPPENS 3 BILLION IS NOTHING. BUT... </bubble>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVE A CONDITION. </bubble>
+            <bubble type="speech" spNum="23" who="Yoo Jin-Ho">
+                <unique ans="n"/> YOU CAN TELL ME ANYTHING, SIR! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU AND ME. </bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> WE TWO, NO ONE ELSE GOES. </bubble>
+            <bubble type="speech" spNum="26" who="Yoo Jin-Ho">
+                <unique ans="n"/> S... SIR, IF I'M NOT MISUNDERSTANDING... WE HAVE TO CLEAR C-RANK
+                DUNGEONS BY OURSELVES, IS THAT WHAT YOU'RE SAYING? </bubble>
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU UNDERSTOOD PERFECTLY. </bubble>
+            <bubble type="speech" spNum="28" who="Yoo Jin-Ho">
+                <unique ans="n"/> B-BUT TO ENTER A C-RANK GATE THERE MUST BE AT LEASST TEN
+                MEMBERS... </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> IF WE OFFER A REWARD JUST FOR FILLING UP THE HEAD COUNT, THERE
+                WILL DEFINITELY BE PEOPLE LINING UP, WE'RE USING THE METHOD THAT HWANG DONG-SUK
+                USED, </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="speech" spNum="30" who="Yoo Jin-Ho">
+                <unique ans="n"/> B-BUT ISN'T IT TOO DANGEROUS SIR? </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU CAN'T PUT TWO AND TWO TOGETHER. </bubble>
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> IN OTHER WORDS, IF WE'RE FINE, THEN NOBODY ELSE WILL GET HURT. </bubble>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> THINK ABOUT IT. SAY WE SUCCESSFULLY COMPLETED NINETEEN RAIDS AFTER
+                CREATING A TASK FORCEM WE BECOME AN ATTACK FORCE THAT CAME OUT SAFELY NINETEEN
+                TIMES. WON'T IT BE HELPFUL TO SHOWING YOUR SKILL TO YOUR FATHER? </bubble>
+            <bubble type="speech" spNum="34" who="Yoo Jin-Ho">
+                <unique ans="n"/> I GET IT...! </bubble>
+            <bubble type="speech" spNum="35" who="Yoo Jin-Ho">
+                <unique ans="n"/> LET'S DO IT THAT WAY, SIR! I WILL RECRUIT OUR TEAMMATES. </bubble>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>-DAILY QUEST:[PREPARING TO BECOME STRONG]</info>
+                <info>HAS BEEN COMPLETED.</info>
+            </systemMsg>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo">
+                <unique ans="n"/> OOPS, I ACCIDENTLY OVERDID ITM BECAUSE I WAS IN THOUGHT. </bubble>
+            <systemMsg type="information">
+                <info>-PUSH-UPS [100/100]</info>
+                <info>-CURL-UPS [100/100]</info>
+                <info>-SQUATS [100/100]</info>
+                <info>-RUNNING [11/10km]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT HAPPENED TO JIN-AH...? </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> WELL, DOES IT MATTER? </bubble>
+            <systemMsg type="information">
+                <info>QUEST DIRECTIONS</info>
+                <info>GOAL</info>
+                <info>-PUSH-UPS [100/100]</info>
+                <info>-CURL-UPS [100/100]</info>
+                <info>-SQUATS [100/100]</info>
+                <info>-RUNNING [11/10km]</info>
+                <info>*WARNING:IF YOU DO NOT COMPLETE THE DAILY QUEST</info>
+                <info>A PENALTY WILL BE GIVEN</info>
+            </systemMsg>
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo">
+                <unique ans="n"/> WHY IS IT REECORDING EVEN WHEN I COMPLETED THE GOAL? </bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVE TO WAIT FOR JION-AH ANYWAY, SO SHOULD I FILL IT UP AS MUCH
+                AS POSSIBLE? </bubble>
+            <caption type="narration">20 MINUTES LATER</caption>
+            <systemMsg type="information">
+                <info>-PUSH-UPS [200/100]</info>
+                <info>-CURL-UPS [200/100]</info>
+                <info>-SQUATS [200/100]</info>
+                <info>-RUNNING [11/10km]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S NOT GOING ABOVE 200. </bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> IS IT THE SAME FOR RUNNING? </bubble>
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE I CAN'T RUN 200KM, LET'S START WITH 20KM. </bubble>
+            <bubble type="speech" spNum="44" who="Sung Jin-Ah">
+                <unique ans="n"/> B-BROTHER! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="speech" spNum="45" who="Sung Jin-Ah">
+                <unique ans="n"/> HEY!! </bubble>
+            <caption type="narration">WAHINGTON, USA</caption>
+            <bubble type="speech" spNum="46" who="Hwang Dong-Soo">
+                <unique ans="y" uniNum="4"/> FAX ME THE INFORMATION OF THE TWO SURVIVORS. THE NUMBER
+                IS... </bubble>
+            <bubble type="speech" spNum="47" who="Lola">
+                <unique ans="y" uniNum="5"/> MISTER HWANG. WHAT ARE YOU DOING AT THIS HOUR? </bubble>
+            <bubble type="speech" spNum="48" who="Hwang Dong-Soo">
+                <unique ans="n"/> LOLA CAN I ASK YOU SOMETHING? </bubble>
+            <bubble type="speech" spNum="49" who="Lola">
+                <unique ans="n"/> YES, ANYTHING, </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="speech" spNum="50" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT HAPPENS IF I KILL SOMEONE IN KOREA? </bubble>
+            <bubble type="speech" spNum="51" who="Lola">
+                <unique ans="n"/> ...... </bubble>
+            <bubble type="speech" spNum="52" who="Lola">
+                <unique ans="n"/> ARE YOU SERIOUS? </bubble>
+            <bubble type="speech" spNum="53" who="Lola">
+                <unique ans="n"/> ...KOREA HAS NOT YET CONCLUDED THE INDIAN TREATY OF CRIMINAL
+                HUNTERS. SINCE YOU ARE A HUNTER FROM AMERICA, YOU WILL RECIEVE A TRIAL IN AMERICA,
+                AND THERE PROBABLY WON'T BE MUCH HASSLE WITH THE GOVERNMENT DUE TO THE NEGOTIATIONS. </bubble>
+            <bubble type="speech" spNum="54" who="Hwang Dong-Soo">
+                <unique ans="n"/> THANK GOODNESS. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="55" who="Hwang Dong-Soo">
+                <unique ans="n"/> SOME BASTARDS KILLED MY BROTHER. </bubble>
+            <bubble type="speech" spNum="56" who="Hwang Dong-Soo">
+                <unique ans="n"/> IF I DON'T AT LEAST CATCH A GLIMPSE OF THEM I WON'T BE
+                SATISFIED...! </bubble>
+            <caption type="narration">S-RANK HUNTER HWANG DONG-SU (SCAVENGER GUILD)</caption>
+            <bubble type="thought" thtNum="12" who="Hwang Dong-Soo">
+                <unique ans="n"/> ...BROTHER'S SEVEN SQUAD MEMBERS ALL DIED AND THE OTHER TWO CAME
+                OUT ALIVE? </bubble>
+            <bubble type="thought" thtNum="13" who="Hwang Dong-Soo">
+                <unique ans="n"/> THE SURVIVOR'S RANKS WERE D AND E. BRO ISN'T THE TYPE OF PERSON TO
+                PUT HIS LIFE IN THE LINE FOR WEAK TEAMMATES. </bubble>
+            <bubble type="thought" thtNum="14" who="Hwang Dong-Soo">
+                <unique ans="n"/> ALSO THEY WERE FILLERS, NOT NORMAL TEAM MEMBERS. </bubble>
+            <bubble type="thought" thtNum="15" who="Hwang Dong-Soo">
+                <unique ans="n"/> THEY MUST HAVE SET UP A TRAP AND KILLED HIM! </bubble>
+            <bubble type="thought" thtNum="16" who="Hwang Dong-Soo">
+                <unique ans="n"/> THAT'S WHY I TOLD YOU THAT YOU CAN'T DO ANYTHING WITHOUT ME... </bubble>
+            <bubble type="speech" spNum="57" who="Hwang Dong-Soo">
+                <unique ans="n"/> I'LL HAVE TO VISIT KOREA FOR A WHILE. CAN YOU EMPTY MY SCHEDULE? </bubble>
+            <bubble type="speech" spNum="58" who="Lola">
+                <unique ans="n"/> BUT MISTER HWANF, IF YOU LEAVE SO SUDDENLY, THE GUILD WILL BECOME
+                PARALYZED. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="speech" spNum="59" who="Hwang Dong-Soo">
+                <unique ans="n"/> WHEN CAN YOU FREE SOME TIME? </bubble>
+            <bubble type="speech" spNum="60" who="Lola">
+                <unique ans="n"/> AROUND 2 WEEKS FROM NOW. </bubble>
+            <bubble type="speech" spNum="61" who="Hwang Dong-Soo">
+                <unique ans="n"/> TWO WEEKS... NOT EVEN ENOUGH TIME FOR A PROPER FUNERAL. </bubble>
+            <bubble type="speech" spNum="62" who="Hwang Dong-Soo">
+                <unique ans="n"/> OKAY. EMPTY MY SCHEDULE AFTER THAT POINT. </bubble>
+            <bubble type="speech" spNum="63" who="Lola">
+                <unique ans="n"/> DO YOU THINK IT'LL BE OKAY? </bubble>
+            <bubble type="speech" spNum="64" who="Hwang Dong-Soo">
+                <unique ans="n"/> MORE THAN ANYTHING... </bubble>
+            <bubble type="speech" spNum="65" who="Hwang Dong-Soo">
+                <unique ans="n"/> I WISH THAT THOSE BASTARDS ARE STILL ALIVE EVEN AFTER TWO WEEKS.
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="speech" spNum="66" who="Hwang Dong-Soo">
+                <unique ans="n"/> D-RANK YOO JIN-HO. </bubble>
+            <bubble type="speech" spNum="67" who="Hwang Dong-Soo">
+                <unique ans="n"/> E-RANK HUNTER SUNG JIN-WOO. </bubble>
+            <systemMsg type="information">
+                <info>-PUSH-UPS [200/100]</info>
+                <info>-CURL-UPS [200/100]</info>
+                <info>-SQUATS [200/100]</info>
+                <info>-RUNNING [20/10km]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="68" who="Sung Jin-Woo">
+                <unique ans="n"/> AFTER COMPLETING THE GOALS TWOFOLD THE DAILY QUEST TURNED INTO A
+                'HIDDEN QUEST', </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <systemMsg type="item">
+                <info>[ITEM: DEMON CASTLE'S KEY]</info>
+                <info>ITEM CLASS: S</info>
+                <info>TYPE: KEY</info>
+                <info>A KEY THAT ALLAOWS YOU TO ENTER DUNGEON:</info>
+                <info>DEMON CASTLE. CAN BE USED IN SONG PA GU TOWER.</info>
+            </systemMsg>
+            <bubble type="speech" spNum="69" who="Sung Jin-Woo">
+                <unique ans="n"/> I EXPECTED THAT I WOULD GET A BETTEWR REWARD THAN USUAL, BUT TO
+                THINK THAT I RECIEVED AN S-CLASS ITEM. </bubble>
+            <bubble type="speech" spNum="70" who="Sung Jin-Woo">
+                <unique ans="n"/> ARE HIDDEN QUESTS ONLY GIVEN WHEN DAILY QUESTS ARAEA DONE IN
+                EXCESS? </bubble>
+            <bubble type="speech" spNum="71" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS A GOOD CHANCE. </bubble>
+            <bubble type="speech" spNum="72" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE I PICKED THE 'BLESSED RANDOM BOX', I WAS NOT ABLE TO OBTAIN
+                THE 'CURSED RANDOM BOX', </bubble>
+            <bubble type="speech" spNum="73" who="Sung Jin-Woo">
+                <unique ans="n"/> ANYWAY, SINCE I OBTAINED A DUNGEON ENTRY KEY I HAVE NO CHOICE BUT
+                TO GO IN. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="thought" thtNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> IF A KEY'S RARITY IS PROPORTIONAL TO THE DUNGEON'S DIFFICULTY... </bubble>
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS DUNGEON IS S-RANK! </bubble>
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> THE CHANCE OF MY SURVIVAL IS ZERO! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> OF COURSE, THERE IS NO INDICATION THAT THE ITEM CLASS IS
+                EQUIVALENT TO THE DUNGEON'S DIFFICULTY. </bubble>
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT ON THE OTHER HAND... AN INSTANT DUNGEON ENTERED WITH A RARITY
+                OF E WAS AS EASY AS AN E-RANK GATE DUNGEON. </bubble>
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> THEN WHAT DO I DO IF THE RARITY REALLY INDICATED THE DIFFICULTY OF
+                THE DUNGEON? </bubble>
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVE THE HEARTHSTONE THAT I DIDN'T USE IN THE ALST DUNGEON, SO
+                IF THINGS GET DANGEROUS I'LL USE IT RIGHT AWAY. </bubble>
+            <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> THE ONLY THING I CAN DO RIGHT NOW IS TO TRY MY BEST. </bubble>
+            <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> FROM NOW ON I HAVE TO CLEAR C-RANK DUNGEONS WITH JIN-HO. </bubble>
+            <bubble type="thought" thtNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> I MUST KNOW MY CURRENT STRENGTH. </bubble>
+            <caption type="thought" thtNum="27" who="Sung Jin-Woo">IF I GIVE UP BECAUSE I'M SCARED,
+                I CAN'T BECOME STRONGER.</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <caption type="information">[HELL'S GATEKEEPER KERBEROS]</caption>
+            <caption type="thought" thtNum="28" who="Sung Jin-Woo">I'LL BECOME MUCH
+                STRONGER,</caption>
+            <bubble type="speech" spNum="74" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN'T LOSE MY LIFE IN A PLACE LIKE THIS. </bubble>
+            <caption type="thought" thtNum="29" who="Sung Jin-Woo">AND LEVEL UP EVEN MORE!</caption>
+        </page>
+    </body>
+</chapter>
+<!-- 16 PAGES, 29 INSTANCES OF THOUGHT, 74 INSTANCES OF SPEECH, 5 UNIQUE SPEAKERS -->
+<!-- NEW ITEMS: DEMON'S CASTLE KEY
+     STAT UPDATE: NONE
+     NEW SKILL: NONE
+     LEVEL UPDATE: NONE, CURRENT LEVEL: UNKNOWN-->

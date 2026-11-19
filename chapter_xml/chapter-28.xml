@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="28">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Cha Hae-In">
+                <unique ans="y" uniNum="1"/> HIYAAA! </bubble>
+            <bubble type="speech" spNum="2" who="others">
+                <unique ans="n"/> HAP </bubble>
+            <bubble type="speech" spNum="3" who="others">
+                <unique ans="n"/> HAP </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="4" who="others">
+                <unique ans="n"/> Hah </bubble>
+            <bubble type="speech" spNum="5" who="others">
+                <unique ans="n"/> Hah </bubble>
+            <bubble type="speech" spNum="6" who="Cha Hae-In">
+                <unique ans="n"/> MASTER, YOU'RE AS SKILLED AS ALWAYS </bubble>
+            <bubble type="speech" spNum="7" who="Song Chi-Yeol">
+                <unique ans="y" uniNum="2"/> WHAT ARE YOU SAYING? THIS OLD BODY WILL BECOME USELESS
+                IF I DON'T TRAIN IT PROPERLY </bubble>
+            <bubble type="speech" spNum="8" who="Song Chi-Yeol">
+                <unique ans="n"/> IT'S OBVIOUS YOU WERE GOING EASY ON ME. </bubble>
+            <bubble type="speech" spNum="9" who="Song Chi-Yeol">
+                <unique ans="n"/> WERE YOU PUTTING LESS STRENGTH IN YOUR THUMN OUT OF CONSIDERATION
+                FOR ME? </bubble>
+            <bubble type="speech" spNum="10" who="Cha Hae-In">
+                <unique ans="n"/> THAT WASN'T EVEN A HANDICAP. IF YOU STILL HAD BOTH OF YOUR ARMS...
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="11" who="Song Chi-Yeol">
+                <unique ans="n"/> STOP... </bubble>
+            <bubble type="speech" spNum="12" who="Song Chi-Yeol">
+                <unique ans="n"/> YOU'RE STILL TALKING ABOUT THAT EVER AFTER IT'S BEEN A FEW MONTHS. </bubble>
+            <caption type="information">RING</caption>
+            <bubble type="speech" spNum="13" who="Song Chi-Yeol">
+                <unique ans="n"/> AN EMERGENCY CALL, </bubble>
+            <bubble type="speech" spNum="14" who="Song Chi-Yeol">
+                <unique ans="n"/> LOW RANK HUNTERS KEEP GETTING THESE KIND OF ANNOYING CALLS. </bubble>
+            <bubble type="speech" spNum="15" who="Song Chi-Yeol">
+                <unique ans="n"/> WE'LL HAVE TO STOP HERE FOR TODAY. </bubble>
+            <bubble type="speech" spNum="16" who="Cha Hae-In">
+                <unique ans="n"/> MASTER, </bubble>
+            <bubble type="speech" spNum="17" who="Cha Hae-In">
+                <unique ans="n"/> ARE YOU REALLY PLANNING ON POSTPONING YOU RETIREMENT? </bubble>
+            <bubble type="speech" spNum="18" who="Song Chi-Yeol">
+                <unique ans="n"/> RETIREMENT? </bubble>
+            <bubble type="speech" spNum="19" who="Song Chi-Yeol">
+                <unique ans="n"/> EVEN IF I LIVE, HOW LONG WILL I? WITH MY REMAINING LIFE, I WANT TO
+                STAY USEFUL TO THIS WORLD. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="speech" spNum="20" who="Song Chi-Yeol">
+                <unique ans="n"/> BUT THIS IS REALLY SUPRISING. </bubble>
+            <bubble type="speech" spNum="21" who="Song Chi-Yeol">
+                <unique ans="n"/> AN S-RANK HUNTER BEING TAUGHT THAT WAY OF THE SWORD BY A LOW RANK
+                LIKE ME. </bubble>
+            <bubble type="speech" spNum="22" who="Cha Hae-In">
+                <unique ans="n"/> BECAUSE EVEN WITH A HIGH RANK, I CAN'T MAKE UP FOR A LACK OF
+                SKILL. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="thought" thtNum="1" who="Song Chi-Yeol">
+                <unique ans="n"/> A D-RANK DUNGEON THIS TIME? </bubble>
+            <caption type="thought" thtNum="2" who="Song Chi-Yeol">SINCE MY AWAKENING DIDN'T AFFECT
+                MY STRENGTH, MY SWORD DOESN'T WORK ON MONSTERS.</caption>
+            <caption type="thought" thtNum="3" who="Song Chi-Yeol">WHY DID A SWORDSMAN LIKE ME GET
+                REAWAKENED AS A MAGIC HUNTER?</caption>
+            <bubble type="thought" thtNum="4" who="Song Chi-Yeol">
+                <unique ans="n"/> THE SWORD SKILLS I'VE LEARNT OVER THE PAST DECADES, I HAVE NO USE
+                FOR THEM IN A DUNGEON... </bubble>
+            <bubble type="thought" thtNum="5" who="Song Chi-Yeol">
+                <unique ans="n"/> THERE MUST BE A REASON FOR THIS. </bubble>
+            <bubble type="speech" spNum="23" who="Song Chi-Yeol">
+                <unique ans="n"/> HUH?! </bubble>
+            <bubble type="speech" spNum="24" who="Song Chi-Yeol">
+                <unique ans="n"/> EXCUSE ME, YOU... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="speech" spNum="25" who="Song Chi-Yeol">
+                <unique ans="n"/> PERHAPS... </bubble>
+            <bubble type="speech" spNum="26" who="Song Chi-Yeol">
+                <unique ans="n"/> !! </bubble>
+            <bubble type="speech" spNum="27" who="Song Chi-Yeol">
+                <unique ans="n"/> ARE YOU MISTER SUNG?! </bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="3"/> MISTER SONG CHI-YEOL? </bubble>
+            <bubble type="speech" spNum="29" who="Song Chi-Yeol">
+                <unique ans="n"/> I DIDN'T RECOGNISE YOU AT ALL! </bubble>
+            <bubble type="speech" spNum="30" who="Song Chi-Yeol">
+                <unique ans="n"/> I CAN'T FIND A TRACE OF YOUR OLD SELF! </bubble>
+            <bubble type="speech" spNum="31" who="Song Chi-Yeol">
+                <unique ans="n"/> YOU CHANGED SO MUCH WITHIN A FEW MONTHS?! </bubble>
+            <bubble type="speech" spNum="32" who="Song Chi-Yeol">
+                <unique ans="n"/> WHAT HAPPENED TO YOU!! </bubble>
+            <bubble type="speech" spNum="33" who="Song Chi-Yeol">
+                <unique ans="n"/> AH! </bubble>
+            <bubble type="speech" spNum="34" who="Song Chi-Yeol">
+                <unique ans="n"/> I SHOULDN'T HAVE SAID THAT. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="speech" spNum="35" who="Song Chi-Yeol">
+                <unique ans="n"/> BUT, HOW... </bubble>
+            <bubble type="speech" spNum="36" who="Song Chi-Yeol">
+                <unique ans="n"/> DID A TORN LEG... </bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> WHEN I CAME TO MY SENSES IT WAS FINE. EVEN I'M NOT SURE WHAT
+                REALLY HAPPENED. </bubble>
+            <systemMsg type="information">
+                <info>-GREAT SPELLCATER KANDIARU'S BLESSING:</info>
+                <info>-TEMPORARY EFFECT WILL TO REHABILITATE:</info>
+                <info>ANY DISMEMBERED BODY PARTS ARE</info>
+                <info>RESTORED.</info>
+            </systemMsg>
+            <bubble type="speech" spNum="38" who="Song Chi-Yeol">
+                <unique ans="n"/> WHAT?! COULD THAT HAVE REALLY HAPPENED?! </bubble>
+            <bubble type="speech" spNum="39" who="Song Chi-Yeol">
+                <unique ans="n"/> IT'S NOT GOOD IF A YOUNG MAN LIKE YOU BECOMES DISABLED! </bubble>
+            <bubble type="speech" spNum="40" who="Song Chi-Yeol">
+                <unique ans="n"/> WHAT A RELIEF! SUCH A RELIEF! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo">
+                <unique ans="n"/> ...... </bubble>
+            <bubble type="speech" spNum="42" who="Song Chi-Yeol">
+                <unique ans="n"/> DON'T WORRY ABOUT THIS! </bubble>
+            <bubble type="speech" spNum="43" who="Song Chi-Yeol">
+                <unique ans="n"/> I'M LUCKY TO HAVE KEPT MY LIFE EVEN WITH THE FEW SKILLS I HAVE! </bubble>
+            <bubble type="speech" spNum="44" who="Song Chi-Yeol">
+                <unique ans="n"/> EVEN THOUGH I HEARD RUMORS THAT YOU WERE SAFE, I CAN'T BELIEVE IT
+                EVEN AFTER SEEING YOU WITH MY OWN EYES! </bubble>
+            <bubble type="speech" spNum="45" who="Sung Jin-Woo">
+                <unique ans="n"/> ARE YOU ALSO GOING BECAUSE OF THE GUILD'S ORDERS? </bubble>
+            <bubble type="speech" spNum="46" who="Song Chi-Yeol">
+                <unique ans="n"/> THAT'S RIGHT. </bubble>
+            <bubble type="speech" spNum="47" who="Song Chi-Yeol">
+                <unique ans="n"/> YOU AS WELL?! </bubble>
+            <bubble type="speech" spNum="48" who="Song Chi-Yeol">
+                <unique ans="n"/> THEY'RE ALREADY HERE. </bubble>
+            <bubble type="speech" spNum="49" who="Song Chi-Yeol">
+                <unique ans="n"/> HAHA... WHAT A DAY THIS IS. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="speech" spNum="50" who="Song Chi-Yeol">
+                <unique ans="n"/> THE MEMBERS OF THAT DAY ARE ALL HERE. </bubble>
+            <bubble type="speech" spNum="51" who="Lee Joo-Hee">
+                <unique ans="y" uniNum="4"/> JIN-WOO?! </bubble>
+            <bubble type="speech" spNum="52" who="Sung Jin-Woo">
+                <unique ans="n"/> JU-HEE </bubble>
+            <bubble type="speech" spNum="53" who="Sung Jin-Woo">
+                <unique ans="n"/> AND... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="54" who="Sung Jin-Woo">
+                <unique ans="n"/> MISTER KIM SANG-SHIK. </bubble>
+            <caption type="thought" thtNum="6" who="Song Chi-Yeol">THAT DAY HE RAN AWAY LEAVING US
+                AND MISTER SUNG BEHIND,</caption>
+            <caption type="thought" thtNum="7" who="Song Chi-Yeol">HE MUST NOT BE HAPPY TO SEE US AS
+                HE EVEN POINTED A SWORD AT ME TO USE ME AS A SACRIFICE</caption>
+            <caption type="thought" thtNum="8" who="Song Chi-Yeol">BUT EVEN I LEFT SUNG IN THE
+                END...</caption>
+            <caption type="thought" thtNum="9" who="Song Chi-Yeol">I DON'T HAVE ANY RIGHT TO
+                SPEAK.</caption>
+            <caption type="thought" thtNum="10" who="Song Chi-Yeol">I SEE I DIDN'T THIN THIS
+                THROUGH.</caption>
+            <caption type="thought" thtNum="11" who="Song Chi-Yeol">WE ALL...</caption>
+            <bubble type="thought" thtNum="12" who="Song Chi-Yeol">
+                <unique ans="n"/> RETURNED ALIVE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="speech" spNum="55" who="Lee Joo-Hee">
+                <unique ans="n"/> JIN-WOO... </bubble>
+            <bubble type="speech" spNum="56" who="Lee Joo-Hee">
+                <unique ans="n"/> ARE YOU REALLY JIN-WOO? </bubble>
+            <bubble type="speech" spNum="57" who="Lee Joo-Hee">
+                <unique ans="n"/> YOU CHANGED SO MUCH, I ALMOST CAN'T RECOGNISE YOU... </bubble>
+            <bubble type="speech" spNum="58" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M A BIT LATE. </bubble>
+            <bubble type="speech" spNum="59" who="Lee Joo-Hee">
+                <unique ans="n"/> WAIT, WHY... </bubble>
+            <bubble type="speech" spNum="60" who="Lee Joo-Hee">
+                <unique ans="n"/> I LOOKED FOR YOU AS HARD AS I COULD... WHY NOW... </bubble>
+            <bubble type="speech" spNum="61" who="Lee Joo-Hee">
+                <unique ans="n"/> WHY DID YOU GROW SO MUCH?! </bubble>
+            <bubble type="speech" spNum="62" who="Lee Joo-Hee">
+                <unique ans="n"/> YOUR LEG SHOULD BE IN A BAD CONDITION... HUH? </bubble>
+            <bubble type="speech" spNum="63" who="Lee Joo-Hee">
+                <unique ans="n"/> YOUR LEG... </bubble>
+            <bubble type="speech" spNum="64" who="Lee Joo-Hee">
+                <unique ans="n"/> WHAT HAPPENED TO IT? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="speech" spNum="65" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT... </bubble>
+            <bubble type="speech" spNum="66" who="Prisoner1">
+                <unique ans="y" uniNum="5"/> WHAT A ROMANTIC ATMOSPHERE. </bubble>
+            <bubble type="speech" spNum="67" who="Prisoner1">
+                <unique ans="n"/> IS SOMEBODY FILMING A DRAMA HERE? </bubble>
+            <bubble type="speech" spNum="68" who="Prisoner1">
+                <unique ans="n"/> IS SOMEBODY FILMING A DRAMA HERE? </bubble>
+            <bubble type="speech" spNum="68" who="Prisoner1">
+                <unique ans="n"/> OR DO HUNTERS DATE EACHOTHER THESE DAYS? </bubble>
+            <bubble type="speech" spNum="69" who="Gang Tae-Shik">
+                <unique ans="y" uniNum="6"/> SHUT UP, YOU FOOLS. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="70" who="Gang Tae-Shik">
+                <unique ans="n"/> THIS ISN'T A PICNIC. </bubble>
+            <bubble type="speech" spNum="71" who="Prisoner1">
+                <unique ans="n"/> TAKE CARE OF US TODAY. </bubble>
+            <bubble type="speech" spNum="72" who="Song Chi-Yeol">
+                <unique ans="n"/> WHAT IS THIS... </bubble>
+            <bubble type="speech" spNum="73" who="Clerk">
+                <unique ans="y" uniNum="7"/> SORRY FOR BEING LATE. YOU TWO ARE THE SUMMONED HUNTERS
+                SUNG JIN-WOO AND SONG CHI-YEOL? WE'LL GO THROUGH THE PROCEDURE FIRST. </bubble>
+            <bubble type="speech" spNum="74" who="Song Chi-Yeol">
+                <unique ans="n"/> W... WAIT WHAT'S GOING ON HERE? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="speech" spNum="75" who="Clerk">
+                <unique ans="n"/> OH THOSE PEOPLE? </bubble>
+            <bubble type="speech" spNum="76" who="Clerk">
+                <unique ans="n"/> THEY ARE REHABILITATORS THAT WILL JOIN THE RAID WITH YOU HUNTERS. </bubble>
+            <bubble type="speech" spNum="77" who="Song Chi-Yeol">
+                <unique ans="n"/> 'REHABILITATORS'?! AER YOU TELLING IS TO GO RAIDING WITH
+                CRIMINALS?! </bubble>
+            <bubble type="speech" spNum="78" who="Clerk">
+                <unique ans="n"/> E... EVEN IF THEY ARE CRIMINALS THEY WERE HUNTERS IN THE PAST... </bubble>
+            <bubble type="speech" spNum="79" who="Clerk">
+                <unique ans="n"/> AND IT'S NOT RARE FOR HUNTERS WHO COMMITTED CRIME'S TO 'SERVE
+                TIME' IN DUNGEONS TO REDUCE THEIR SENTENCE. </bubble>
+            <bubble type="speech" spNum="80" who="Song Chi-Yeol">
+                <unique ans="n"/> MY GOD... </bubble>
+            <bubble type="speech" spNum="81" who="Sung Jin-Woo">
+                <unique ans="n"/> ...... </bubble>
+            <bubble type="speech" spNum="82" who="Clerk">
+                <unique ans="n"/> PLEASE UNDERSTAND HUNTERS IN THIS AREAS HAVE DIMINISHED
+                SIGNIFICANTLY, SO WE HAVE TO RESORT TO SUCH MEASURES. </bubble>
+            <bubble type="speech" spNum="83" who="Clerk">
+                <unique ans="n"/> ALSO THE MONITORING DEPARTMENT'S HUNTER GANG TAE-SHIK WILL
+                PARTICIPATE IN THIS RAID, SO DON'T WORRY. </bubble>
+            <bubble type="speech" spNum="84" who="Clerk">
+                <unique ans="n"/> THE REHABILITATORS ARE ALL C-RANK. HUNTER GANG TAE-SHIK IS B-RANK </bubble>
+            <bubble type="speech" spNum="85" who="Clerk">
+                <unique ans="n"/> APPROXIMATELY 10 C-RANK HUNTERS ARE NEEDED TO BEAT AN AVERAGE
+                B-RANK HUNTER. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <bubble type="speech" spNum="86" who="Sung Jin-Woo">
+                <unique ans="n"/> SOMETHING FEELS OFF. </bubble>
+            <bubble type="speech" spNum="87" who="Sung Jin-Woo">
+                <unique ans="n"/> JU-HEE, PLEASE DROP OUT OF THIS RAID. </bubble>
+            <bubble type="speech" spNum="88" who="Lee Joo-Hee">
+                <unique ans="n"/> WHAT ABOUT YOU? </bubble>
+            <bubble type="speech" spNum="89" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M GOING. </bubble>
+            <bubble type="speech" spNum="90" who="Lee Joo-Hee">
+                <unique ans="n"/> THEN I'M GOING TOO. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <bubble type="speech" spNum="91" who="Song Chi-Yeol">
+                <unique ans="n"/> ARE THEY REALLY TELLING US TO GO RAIDING WITH THESE GUYS? </bubble>
+            <caption type="thought" thtNum="13" who="Song Chi-Yeol">AH... I SEE.</caption>
+            <bubble type="speech" spNum="92" who="Song Chi-Yeol">
+                <unique ans="n"/> I GUESS WE'RE ALL GOING TOGETHER THEN. </bubble>
+            <caption type="thought" thtNum="14" who="Song Chi-Yeol">THIS IS PROBABLY 'FATE' AS
+                WELL.</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="17">
+            <bubble type="speech" spNum="93" who="Song Chi-Yeol">
+                <unique ans="n"/> TO THE DUNGEON. </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 17 PAGES, 14 INSTANCES OF THOUGHT, 93 INSTANCES OF SPEECH, 7 UNIQUE SPEAKERS -->
+<!-- NEW ITEMS: NONE
+     STAT UPDATE: NONE
+     NEW SKILLS: NONE
+     NEW LEVELS: NONE, CURRENT LEVEL: UNKNOWN.-->

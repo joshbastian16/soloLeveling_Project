@@ -25,6 +25,9 @@
                 <div class="container">
                     <h1 class="center large-text-body"> Chapter <xsl:value-of select="/chapter/@num"/> </h1>
                     <xsl:apply-templates select="//page"/> 
+                    
+                    <xsl:call-template name="chapterStatistics"/>
+                    
                     <xsl:apply-templates select="//chapter/@num"></xsl:apply-templates>
                 </div>
                 
@@ -72,6 +75,46 @@
         <p>
             <xsl:apply-templates/>
         </p>
+    </xsl:template>
+    
+    <!-- CHAPTER STATISTICS TEMPLATE -->
+    <xsl:template name="chapterStatistics">
+        
+        <h2 class="center">Chapter Statistics</h2>
+        
+        <table class="statistics-table">
+            
+            <tr>
+                <th>Pages</th>
+                <th>Speech</th>
+                <th>Thought</th>
+                <th>Unique</th>
+            </tr>
+            
+            <tr>
+                <!-- Count all pages -->
+                <td>
+                    <xsl:value-of select="count(//page)"/>
+                </td>
+                
+                <!-- Count speech bubbles -->
+                <td>
+                    <xsl:value-of select="count(//bubble[@type='speech'])"/>
+                </td>
+                
+                <!-- Count thought bubbles and thought captions -->
+                <td>
+                    <xsl:value-of select="count(//bubble[@type='thought'] | //caption[@type='thought'])"/>
+                </td>
+                
+                <!-- Count unique instances -->
+                <td>
+                    <xsl:value-of select="count(//unique[@ans='y'])"/>
+                </td>
+            </tr>
+            
+        </table>
+        
     </xsl:template>
     
     <xsl:template match="page">

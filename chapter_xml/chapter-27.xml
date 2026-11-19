@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="27">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <caption type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/>IF I GIVE UP BECAUSE I'M SCARED, I CAN'T BECOME
+                STRONGER. </caption>
+            <caption type="information">[HELL'S GATEKEEPER CEREBUS]</caption>
+            <caption type="thought" thtNum="2" who="Sung Jin-Woo">I'LL BECOME MUCH
+                STRONGER,</caption>
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/>I CAN'T LOSE MY LIFE IN A PLACE LIKE THIS. </bubble>
+            <caption type="thought" thtNum="3" who="Sung Jin-Woo">AND LEVEL UP EVEN MORE!</caption>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> A KEY THAT ALLOWS YOU TO ENTER THE DEMON CASTLE. </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> THE RARITY IS S-RANK! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> IF THE KEY'S ITEM CLASS INDICATED THE DUNGEON'S DIFFICULTY, THEN
+                MY CHANCES OF SURVIVAL DIMINISH. </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> THE BEST CHOICE IS TO LEVEL UP AS MUCH AS I CAN AND ENTER INSTANT
+                DUNGEONS WHEN I HAVE THE CHANCE IN THE FUTURE. </bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> AFTER B-RANK, THE DIFFICULTY RISES EPXLOSIVELY, LUCKILY THE CHANCE
+                OF HIGHER RANKED GATED OPENING DROPS EVERY LEVEL, SO ONLY A HANDFUL OF S-RANK GATES
+                HAVE EVER OPENED. </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> ONE OF THEM OPENED ON JEJU ISLAND. </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> AFTER AN S-RANK DUNGEON GATE BROKE THERE, IT BECAME A WASTELAND
+                WHERE HUMANS CANNOT LIVE ANYMORE. </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN IF S-RANK HUNTERS CREATED A TEAM, IT'S UNSURE IF THEY COULD
+                CLEAR AN S-RANK GATE OR NOT. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> WITH THE CURRENT STATE OF DEOPLOYAQBLE HUNTERS, CLEARING AN S-RANK
+                GATE IS NEAR IMPOSSIBLE. </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> BECAUSE OF THAT, WITH MY CURRENT LEVEL, I HAD TO ABSTAIN FROM
+                ENTERING S-RANK DUNGEONS. </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN'T COMPATE THE DANGER OF THAT MANY S-RANK MONSTERS TO
+                ANYTHING ELSE. </bubble>
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> TOUGHNESS THAT CANNOT BE PENETRATED. </bubble>
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> STRENGTH THAT WILL RESULT IN INSTANT DEATH. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="thought" thtNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> SO I WONDERED IF MY ATTACKS WOULD WORK ON THOSE MONSTERS OF
+                ANOTHER LEVEL. </bubble>
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> IT WAS SIMPLE CURIOSITY </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>-[TITLE:WOLF SLAYER] BUFF EFFECT</info>
+                <info>IS ACTIVATING.</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>ALARM</info>
+                <info>-[SKILL:SPRINT] WAS ACTIVATED</info>
+                <info>-MOVEMENT SPEED WIL INCREASE BY 30%</info>
+                <info>-1 MANA WILL BE CONSUMED EVERY MINUTE.</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <systemMsg type="skill">
+                <info>ALARM</info>
+                <info>-[SKILL:BLOODLUST] WAS ACTIVATED.</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[THE ENEMY'S RESISTANCE WAS TOO HIGH.</info>
+                <info>THE EFFECT WAS CANCELLED.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S NOT WORKING? </bubble>
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S A GOOD MATCHUP LOOKING AT MY SKILLS, BUT MY ATTACKS AREN'T
+                HAVING EFFECT. </bubble>
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> TO THINK THAT THE DIFFERENCE IS THIS BIG EVEN WITH THE TITLE'S
+                BUFF... </bubble>
+            <systemMsg type="information">
+                <info>[TITLE: WOLF SLAYER]</info>
+                <info>A TITLE GIVEN TO THOSE PROFICIENT IN</info>
+                <info>HUNTING WOLVES. YOUR STATS WILL INCREASE BY</info>
+                <info>40% WHEN FACING A BEAST TYPE MONSTER.</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S NO DOUBT, THIS DUNGEON IS DEFINITELY S-RANK. </bubble>
+            <systemMsg type="skill">
+                <info>ALARM</info>
+                <info>-HELL'S GATEKEEPER CERBERUS</info>
+                <info>IS USING [SKILL:WRATH]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>WRATH WILL LASAT FOR 3 MINUTES.</info>
+                <info>CERBERUS'S STATS WILL BE DOUBLED</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> THE SYSTEM TELLS ME THE GAP BETWEEN MY ENEMIES AND I. </bubble>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>-[CERBERUS DID NOT FEEL ANY PAIN.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9"/>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <systemMsg type="information">
+                <info>[ HP : 1290/3602]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> KU! </bubble>
+            <systemMsg type="information">
+                <info>[ HP : 762/3602]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> HAK! </bubble>
+            <systemMsg type="information">
+                <info>[ HP : 411/3602]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> CONTINUOUS WARNINGS. </bubble>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>-AS YOUR HEALTH IS BELOW 30%,</info>
+                <info>[SKILL:'PERSERVERANCE'] WILL ACTIVATE.</info>
+                <info>-DAMAGE TAKEN WILL BE REDUCED BY 50%.</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN IN A DIRE SITUATION IT WILL HELP AS MUCH AS POSSIBLE TO MAKE
+                SURE THE PLAYER DOES NOT DIE. </bubble>
+            <bubble type="thought" thtNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> BECAUSE IT IS PROBLEMATIC FOT THE IDEAL PLAYER 'SUNG JIN-WOO' TO
+                DIE. </bubble>
+            <bubble type="thought" thtNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN DO IT. </bubble>
+            <bubble type="thought" thtNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS DIFFERENT FROM A NORMAL REAWAKENING. </bubble>
+            <bubble type="thought" thtNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I BECOME SOMEONE'S AVATAR DUE TO THE SYSTEM, </bubble>
+            <bubble type="thought" thtNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> ALL I CAN DO IS TO EXCEED THAT PERSON'S EXPECTATIONS. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <caption type="narration">DEVOUR THE SYSTEM</caption>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> REWARD #1. CONDITION HEALING, ACCEPT. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12"/>
+
+        <pageBrk/>
+
+        <page pageNum="13"/>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU HAVE SLAIN HELL'S</info>
+                <info>GATEKEEPER CERBERUS.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <levelUp>[YOU LEVELLED UP]</levelUp>
+                <levelUp>[YOU LEVELLED UP]</levelUp>
+                <levelUp>[YOU LEVELLED UP]</levelUp>
+                <levelUp>[YOU LEVELLED UP]</levelUp>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> THANKS TO YOU I REALISESD WHAT MY LEVEL IS. </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> I WILL DIE IF I OPEN THE CASTLE'S GATE RIGHT NOW. </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> I WILL RETURN ONCE I HAVE BECOME A BIT STRONGER. </bubble>
+            <systemMsg type="item">
+                <info>[ITEM: WARDEN'S NECKLACE]</info>
+                <info>ITEM CLASS: A</info>
+                <info>TYPE: NECKLACE</info>
+                <info>AGILITY +20, SENSE +20</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[ITEM: CASTLE DOOR KEY]</info>
+                <info>ITEM CLASS: A</info>
+                <info>TYPE: KEY</info>
+                <info>A KEY THAT CAN OPEN THE DEMON CASTLE'S DOOR.</info>
+                <info>OBTAINED BY KILLING THE GATEKEEPER.</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[ITEM: CERBERUS' FANG]</info>
+                <info>ITEM CLASS: NONE</info>
+                <info>TYPE: MATERIAL</info>
+                <info>A FANG THAT CAN BE OBTAINED BY SLAYING CERBERUS.</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <bubble type="thought" thtNum="31" who="Kang Gang Tae-Shik-Shik">
+                <unique ans="y" uniNum="2"/> WHAT BUISNESS' CEO DID HE SAY HE WAS? </bubble>
+            <bubble type="speech" spNum="8" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT JOB REQUIRES YOU TO TALK TO ME? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="17">
+            <bubble type="speech" spNum="9" who="Grieving Father">
+                <unique ans="y" uniNum="3"/> I HEARD THAT EVERYTHING THAT HAPPENS IN A DUNGEON STAYS
+                IN THE DUNGEON. </bubble>
+            <bubble type="speech" spNum="10" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT ARE YOU IMPLYING? </bubble>
+            <bubble type="speech" spNum="11" who="Grieving Father">
+                <unique ans="n"/> HERE'S 20 BILLION. </bubble>
+            <bubble type="speech" spNum="12" who="Grieving Father">
+                <unique ans="n"/> I THINK YOU CAN UNDERSTAND WHAT I'M TRYING TO SAY... </bubble>
+            <bubble type="speech" spNum="13" who="Grieving Father">
+                <unique ans="n"/> PLEASE HUNTER, I BEG YOU... </bubble>
+            <bubble type="speech" spNum="14" who="Grieving Father">
+                <unique ans="n"/> PLEASE KILL THOSE BASTARDS...! </bubble>
+            <bubble type="speech" spNum="15" who="Gang Tae-Shik">
+                <unique ans="n"/> IN ADDITION TO THIS MONEY, 10 BILLION MORE TO TAKE CARE OF THE
+                OTHER HUNTERS. IS THAT POSSIBLE FOR YOU? </bubble>
+            <bubble type="speech" spNum="16" who="Gang Tae-Shik">
+                <unique ans="n"/> IT'S NO PROBLEM FOR ME TO KILL THOSE INSECTS YOU MENTIONED. </bubble>
+            <bubble type="speech" spNum="17" who="Gang Tae-Shik">
+                <unique ans="n"/> BUT THERE ARE ALSO OTHER HUNTERS IN THE DUNGEON ALONG WITH THOSE
+                INSECTS. </bubble>
+            <bubble type="speech" spNum="18" who="Grieving Father">
+                <unique ans="n"/> Y... YOU MEAN! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="18">
+            <bubble type="speech" spNum="19" who="Gang Tae-Shik">
+                <unique ans="n"/> IF YOU BECOME A B-RANK HUNTER, YOU BECOME SEPERATED AS A
+                HIGH-CLASS HUNTER, AND RECIEVE SOME CLASS FROM MAJOR GUILDS. </bubble>
+            <bubble type="speech" spNum="20" who="Gang Tae-Shik">
+                <unique ans="n"/> BUT DO YOU KNOW WHY I ENDURED STARVATION AND ENTERED THE
+                MONITORING DEPARTMENT OF THE HUNTER'S GUILD? </bubble>
+            <bubble type="speech" spNum="21" who="Gang Tae-Shik">
+                <unique ans="n"/> FOR ME, IT'S MUCH MORE FUN TO KILL PEOPLE THAN MONSTERS. </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 18 PAGES, 21 INSTANCES OF SPEECH, 31 INSTANCES OF THOUGHT, 3 UNIQUE SPEAKERS -->
+<!-- NEW ITEMS: WARDERN'S NECKLACE, CASTLE DOOR KEY, CERBURUS' FANG
+     STAT UPDATE: NONE
+     NEW SKILL: NONE
+     NEV LEVELS: 4, CURRENT LEVEL: UNKNOWN-->
