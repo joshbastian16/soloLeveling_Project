@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="35">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-rak</illustrator>
+    <body>
+        <page pageNum="1"/>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="1" who="Lee Joo-Hee">
+                <unique ans="y" uniNum="1"/> JIN-WOO, YOU'VE CHANGED A LOT, </bubble>
+            <bubble type="speech" spNum="2" who="Lee Joo-Hee">
+                <unique ans="n"/> AND I HAVEN'T CHANGED A BIT SINCE THEN... </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="2"/> YOU'VE ALSO EXPERIENCED MANY DIFFERENT HARDSHIPS - </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> CHANGING IS DIFFERENT FOR EVERYONE. </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU'RE RIGHT. </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU KNOW I GET SCARED WAY TOO EASILY TO BE A HUNTER. I TRIED TO
+                OVERCOME MY FEARS, BUT IT WASN'T EASY. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="7" who="Lee Joo-Hee">
+                <unique ans="n"/> IF YOU'RE A B-RANKED HEALER, NORMALLY YOU'D BE JOING A-RANK OR
+                B-RANK DUNGEONS, EVEN C-RANK IF YOU'RE NOT CONDITIONED WELL. </bubble>
+            <bubble type="speech" spNum="8" who="Lee Joo-Hee">
+                <unique ans="n"/> BUT IS TILL JOINED D OR E-RANK RAIDS... </bubble>
+            <bubble type="speech" spNum="9" who="Lee Joo-Hee">
+                <unique ans="n"/> AND THEN I CONSTANTLY MET YOU, JIN-WOO. </bubble>
+            <bubble type="speech" spNum="10" who="Lee Joo-Hee">
+                <unique ans="n"/> I KEPT HEALING THE INJURIES THAT NEVER STOPPED APPEARING ON YOU. </bubble>
+            <bubble type="speech" spNum="11" who="Lee Joo-Hee">
+                <unique ans="n"/> TO BE HONEST, YOU GOT HURT SO MUCH IT BECAME PRETTY ANNOYING. </bubble>
+            <bubble type="speech" spNum="12" who="Lee Joo-Hee">
+                <unique ans="n"/> I THOUGHT YOU WERE STUPID AND VAIN AT TIMES... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="speech" spNum="13" who="Lee Joo-Hee">
+                <unique ans="n"/> BUT... </bubble>
+            <bubble type="speech" spNum="14" who="Lee Joo-Hee">
+                <unique ans="n"/> YOU ALWAYS MMANAGED TO SURVIVEE. </bubble>
+            <bubble type="speech" spNum="15" who="Lee Joo-Hee">
+                <unique ans="n"/> THOSE EYES, BRIMMING WITH LIFE, </bubble>
+            <bubble type="speech" spNum="16" who="Lee Joo-Hee">
+                <unique ans="n"/> SEEMED LIKE THEY WERE SCREAMING FOR SURVIVAL... FOR TOMORROW. </bubble>
+            <bubble type="speech" spNum="17" who="Lee Joo-Hee">
+                <unique ans="n"/> BUT I DON'T THINK I'LL EVER BE ABLE TO HAVE THOSE EYES. </bubble>
+            <bubble type="speech" spNum="18" who="Lee Joo-Hee">
+                <unique ans="n"/> YOU PROMISED WE'D EAT TOGETHER WHEN WE CAM BACK ALIVE, DIDN'T YOU? </bubble>
+            <bubble type="speech" spNum="19" who="Lee Joo-Hee">
+                <unique ans="n"/> I'LL... RETURN THIS. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> WAIT... ARE YOU... </bubble>
+            <bubble type="speech" spNum="21" who="Lee Joo-Hee">
+                <unique ans="n"/> I'M RETIRING. </bubble>
+            <bubble type="speech" spNum="22" who="Lee Joo-Hee">
+                <unique ans="n"/> I'M GONNA HEAD BACK TO MY HOMETOWN, BUSAN. </bubble>
+            <bubble type="speech" spNum="23" who="Lee Joo-Hee">
+                <unique ans="n"/> TELL ME IF YOU EVER VISIT! </bubble>
+            <bubble type="speech" spNum="24" who="Lee Joo-Hee">
+                <unique ans="n"/> I'LL BUT YOU SOME FRESH SASHIMI. </bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> I'F I COME AROUND, I'LL ASK YOU TO GO OUT WITH ME AGAIN. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="speech" spNum="26" who="Lee Joo-Hee">
+                <unique ans="n"/> OK! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> I JUST GOT ANOTHER REASON TO BECOME STRONGER. </bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> S-RANK HUNTER HUANG DONG-SU </bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> I NEED TO GET STRONGER FAST. </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> ONLY THEN WILL I SURVIVE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> LOOK, YOO JIN-HO. </bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT'S ALL THIS? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="speech" spNum="29" who="Yoo Jin-Ho">
+                <unique ans="y" uniNum="3"/> WHAT DO YOU MEAN "ALL THIS"? </bubble>
+            <bubble type="speech" spNum="30" who="Yoo Jin-Ho">
+                <unique ans="n"/> THEY'RE OUR TEAMMATES FOR TODAY! </bubble>
+            <bubble type="speech" spNum="31" who="Yoo Jin-Ho">
+                <unique ans="n"/> THOSE WHO HAVE A HUNTER'S LISCENCE BUT CAN'T ATTEND RAIDS DUE TO
+                VASRIOUS REASONS, </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> INJURED, </bubble>
+            <bubble type="speech" spNum="32" who="Yoo Jin-Ho">
+                <unique ans="n"/> THOSE WHO ARE STRUGGLING IN LIFE BEACAUSE OF VARIOUS RESONS WERE
+                DRAFTED INTO OUR TEAM. </bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> ALCOHOLICS, </bubble>
+            <bubble type="speech" spNum="33" who="Yoo Jin-Ho">
+                <unique ans="n"/> THERE ARE ALSO SOME WHO CAME HERE FOR A QUICK CASH GRAB. </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> ......?? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> IS A KID EVEN ALLOWED TO DO RAIDS? </bubble>
+            <bubble type="speech" spNum="35" who="Sung Jin-Woo">
+                <unique ans="n"/> IF AN UNDERAGED KID IS AWAKENED, THEN THERE'S NO LAW BANNING THEM
+                FROM RAIDS. </bubble>
+            <bubble type="speech" spNum="36" who="Han Song-Yi">
+                <unique ans="y" uniNum="4"/> KID? THAT'S RUDE </bubble>
+            <bubble type="speech" spNum="37" who="Han Song-Yi">
+                <unique ans="n"/> I'M A FULL-FLEDGED HUNTER. </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU'RE A HIGHSCHOOLER, RIGHT? DO YOU HAVE ANY RAID EXPERIENCE? </bubble>
+            <bubble type="speech" spNum="39" who="Han Song-Yi">
+                <unique ans="n"/> N... NONE. </bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> E-RANK I ASSUME? </bubble>
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo">
+                <unique ans="n"/> WELL, IT'S OKAY. YOU DON'T HAVE TO FOLLOW ME INTO THE DUNGEON -
+                JUST WAIT OUTSIDE. </bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> ONLY JIN-HO AND I WILL GO IN. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="speech" spNum="43" who="Yoo Jin-Ho">
+                <unique ans="n"/> WE WERE'NT ALLOWED TO ATTEMPT THE C-RANK DUNGEON WITH JUST THE TWO
+                OF US, SO THAT'S WHY WE BROUGHT YOU GUYS AS WELL. </bubble>
+            <bubble type="speech" spNum="44" who="Yoo Jin-Ho">
+                <unique ans="n"/> BY LAW, A C-RANK RAID NEEDS 10 PEOPLE </bubble>
+            <bubble type="thought" thtNum="8" who="others">
+                <unique ans="n"/> A C-RANK DUNGEON WITH JUST THE TWO OF THEM? </bubble>
+            <bubble type="thought" thtNum="9" who="others">
+                <unique ans="n"/> ARE THEY REALLY THAT STRONG? </bubble>
+            <bubble type="speech" spNum="45" who="Tag Along">
+                <unique ans="y" uniNum="5"/> UM... WILL YOU REALLY GIVE 3,000,000 WON TO EACH OF US,
+                EVEN WHEN WE STAY OUTSIDE? </bubble>
+            <bubble type="speech" spNum="46" who="Yoo Jin-Ho">
+                <unique ans="n"/> YES, OF COURSE. 3 MILLION WON PER RAID FOR EACH OF YOU! </bubble>
+            <bubble type="speech" spNum="47" who="Yoo Jin-Ho">
+                <unique ans="n"/> PRETTY DARN GOOD DEAL, CONSIDERING THAT YOU DON'T HAVE TO LIFT A
+                FINGER. </bubble>
+            <bubble type="speech" spNum="48" who="Yoo Jin-Ho">
+                <unique ans="n"/> ALL YOU HAVE TO DO IS WAIT FOR US OUTSIDE UNTIL WE FINISH. </bubble>
+            <bubble type="speech" spNum="49" who="Yoo Jin-Ho">
+                <unique ans="n"/> HOWEVER, YOU MUST NOT TELL ANYONE WHAT YOU'VE SEEN OR HEARD HERE. </bubble>
+            <bubble type="speech" spNum="50" who="Yoo Jin-Ho">
+                <unique ans="n"/> IF YOU DO, YOU MUST APY BACK 10 TIMES AS MUCH AS YOU EARNED - IT'S
+                ALL WRITTEN IN THE CONTRACT YOU'VE SIGNED. </bubble>
+            <bubble type="speech" spNum="51" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT YOU KNOW, I'VE BEEN WONDERING... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="speech" spNum="52" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT THE HELL ARE YOU WEARING? </bubble>
+            <bubble type="speech" spNum="53" who="Yoo Jin-Ho">
+                <unique ans="n"/> IT'S A FULL SET OF HARDENED ARMOR MADE IN AN ITALIAN ARTISAN
+                GUILD. IF WE'RE GOING TO RAID WITH JUST THE TWO OF US, SHOULDN'T I PREPARE AT LEAST
+                THIS MUCH? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="54" who="Sung Jin-Woo">
+                <unique ans="n"/> JUST TAKE OFF THE ARMOR WHEN I'M ASKING YOU NICELY. </bubble>
+            <bubble type="speech" spNum="55" who="Yoo Jin-Ho">
+                <unique ans="n"/> ...YES </bubble>
+            <bubble type="speech" spNum="56" who="Yoo Jin-Ho">
+                <unique ans="n"/> BROTHER... </bubble>
+            <bubble type="speech" spNum="57" who="Yoo Jin-Ho">
+                <unique ans="n"/> PLEASE HELP ME UP. </bubble>
+            <bubble type="speech" spNum="58" who="Yoo Jin-Ho">
+                <unique ans="n"/> ALRIGHT! LET'S GET GOING BROTHER! </bubble>
+            <bubble type="speech" spNum="59" who="Yoo Jin-Ho">
+                <unique ans="n"/> I'M NERVOUS... </bubble>
+            <bubble type="speech" spNum="60" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT... IS THAT? </bubble>
+            <caption type="speech" spNum="61" who="Sung Jin-Woo">Are you serious?</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="speech" spNum="62" who="Yoo Jin-Ho">
+                <unique ans="n"/> I Brought the helm just in case... </bubble>
+            <bubble type="speech" spNum="63" who="Sung Jin-Woo">
+                <unique ans="n"/> Ha... fine, fine... let's hurry. </bubble>
+            <bubble type="speech" spNum="64" who="otheres">
+                <unique ans="n"/> THEY'RE GOING TO RAID THE C0RANK DUNGEON BY THEMSELVES? </bubble>
+            <bubble type="speech" spNum="65" who="others">
+                <unique ans="n"/> THEY DON'T LOOK THAT STRONG... </bubble>
+            <bubble type="speech" spNum="66" who="Injured Hunter">
+                <unique ans="y" uniNum="6"/> IF THEY'RE STRONG ENOUGH TO CLEAR C-RANK DUNGEONS BY
+                THEMSELVES, THEN WOULDN'T IT BE BETTER TO CLEAR HIGH-RANKED DUNGEONS FROM LARGE
+                GUILDS? </bubble>
+            <bubble type="speech" spNum="67" who="Injured Hunter">
+                <unique ans="n"/> WHAT HAPPENS IF THEY BOTH DIE? </bubble>
+            <bubble type="speech" spNum="68" who="Tag Along">
+                <unique ans="n"/> WELL, WE DID RECIVE OUR MONEY, SO... </bubble>
+            <bubble type="speech" spNum="69" who="Tag Along">
+                <unique ans="n"/> E-RANK HUNTER SUNG JIN-WOO - I KNOW HIM. </bubble>
+            <bubble type="speech" spNum="70" who="Tag Along">
+                <unique ans="n"/> HE'S KNOWN AS THE "WORLD'S WEAKEST HUNTER", </bubble>
+            <bubble type="speech" spNum="71" who="Injured Hunter">
+                <unique ans="n"/> THAT NAME, WHAT... </bubble>
+            <bubble type="speech" spNum="72" who="Tag Along 2">
+                <unique ans="y" uniNum="7"/> AND OUR RAID LEADER'S A D-RANK. </bubble>
+            <bubble type="speech" spNum="73" who="Alcoholic">
+                <unique ans="y" uniNum="8"/> TSK, THEY'RE SHOWING OFF, I GUESS. </bubble>
+            <bubble type="speech" spNum="74" who="Alcoholic">
+                <unique ans="n"/> YOUTHS SHOWING OFF WILL NATURALLY HARM MANY PEOPLE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <bubble type="speech" spNum="75" who="Tag ALong">
+                <unique ans="n"/> OH, YOU CAME BACK ALIVE? </bubble>
+            <bubble type="speech" spNum="76" who="Injured Hunter">
+                <unique ans="n"/> LOOKS LIKE YOU RAN AWAY SUCCESSFULLY! </bubble>
+            <bubble type="speech" spNum="77" who="Alcoholic">
+                <unique ans="n"/> THANK GOD. </bubble>
+            <bubble type="speech" spNum="78" who="Tag Along 3">
+                <unique ans="y" uniNum="9"/> WAIT, HE WASN'T RUNNING AWAY!! </bubble>
+            <bubble type="speech" spNum="79" who="Tag Along 3">
+                <unique ans="n"/> LOOK AT THAT!! </bubble>
+            <bubble type="speech" spNum="80" who="Tag Along 3">
+                <unique ans="n"/> THE G-GATE IS CLOSING! </bubble>
+            <bubble type="speech" spNum="81" who="others">
+                <unique ans="n"/> WHAT?! THEY KILLED THE B-BOSS? </bubble>
+            <bubble type="speech" spNum="82" who="Sung Jin-Woo">
+                <unique ans="n"/> WHERE'S THE NEXT ONE? </bubble>
+            <bubble type="speech" spNum="83" who="Yoo Jin-Ho">
+                <unique ans="n"/> IT'S ABOUT AN HOUR AWAY FROM HERE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <bubble type="speech" spNum="84" who="Yoo Jin-Ho">
+                <unique ans="n"/> ALRIGHT, LET'S MOVE. </bubble>
+            <bubble type="speech" spNum="85" who="Yoo Jin-Ho">
+                <unique ans="n"/> WE HAVE TO CLEAR A TOTAL OF THREE DUNGEONS TODAY. </bubble>
+            <bubble type="speech" spNum="86" who="Yoo Jin-Ho">
+                <unique ans="n"/> I'M ASSUMING YOU'LL ALL GO CONSIDERING IT'S AN EASY 9 MILLION FOR
+                EACH OF YOU? </bubble>
+            <bubble type="speech" spNum="87" who="Tag Along">
+                <unique ans="n"/> AH... AH, YES, OF COURSE... </bubble>
+            <bubble type="thought" thtNum="10" who="Han Song-Yi">
+                <unique ans="n"/> THEY'RE RAIDING AGAIN, AFTER DESTOYING A C-RANK DUNGEON ALL BY
+                THEMSELVES? </bubble>
+            <bubble type="thought" thtNum="11" who="Han Song-Yi">
+                <unique ans="n"/> WHAT ARE THEY?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="17">
+            <caption type="narration">WHITE TIGER GUILD</caption>
+            <bubble type="speech" spNum="88" who="Gee-Chul">
+                <unique ans="y" uniNum="10"/> SIR! L-LOOK AT THIS FOR A MOMENT! </bubble>
+            <bubble type="speech" spNum="89" who="Ahn Sang-Min">
+                <unique ans="y" uniNum="11"/> WHAT?! 200 MILLION AND 5 THOUSAND? SOMEONE ACTUALLY
+                USED 200,005,000 WON TO EARN THE RIGHT TO CLEAR A C-RANK RAID? </bubble>
+            <bubble type="speech" spNum="90" who="Gee-Chul">
+                <unique ans="n"/> RECENTLY A TEAM HAS STARTED TO BUY THE RIGHTS FOR EVERY C-RANK
+                GATE THAT APPAEARS, SO THERE ARE NO MORE GATES FOR OUR LOW-RANK HUNTERS TO RAID! </bubble>
+            <bubble type="speech" spNum="91" who="Gee-Chul">
+                <unique ans="n"/> IT WAS ORIGNALLY 7, BUT EVEN WHEN I INCREAASED IT ALL THE WAY TO
+                100 MILLION, THEY BOUGHT THE RIGHTS FOR 200 MILLION AND 5 THOUSAND. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="18">
+            <bubble type="speech" spNum="92" who="Ahn Sang-Min">
+                <unique ans="n"/> THE TEAM LEADER'S NAME IS YOO JIN-HO? I'VE NEVER HEARD OF HIM. </bubble>
+            <bubble type="speech" spNum="93" who="Gee-Chul">
+                <unique ans="n"/> I BELIEVE HE'S THE SECOND SON OF THE CEO OF YOO-JIN ARCHITECTURES.
+                IT SEEMS LIKE HE'S BUYING GATES WITH THE SUPPORT OF THE COMPANY. </bubble>
+            <bubble type="speech" spNum="94" who="Ahn Sang-Min">
+                <unique ans="n"/> BUT IT'S STILLA LOSS FOR THEM. FOR A FUTURE CEO, AREN'T HIS ANTICS
+                A BIT EXTREME? </bubble>
+            <bubble type="speech" spNum="95" who="Ahn Sang-Min">
+                <unique ans="n"/> ! </bubble>
+            <bubble type="speech" spNum="96" who="Ahn Sang-Min">
+                <unique ans="n"/> GEE-CHUL, WASN;T THERE A SURVIVOR OF THAT DOUBLE LAIR ABOUT TWO OR
+                THREE MONTHS AGO? </bubble>
+            <bubble type="speech" spNum="97" who="Gee-Chul">
+                <unique ans="n"/> YES, HIS NAME WAS... </bubble>
+            <bubble type="speech" spNum="98" who="Ahn Sang-Min">
+                <unique ans="n"/> SUNG JIN-WOO, AM I RIGHT? </bubble>
+            <bubble type="speech" spNum="99" who="Gee-Chul">
+                <unique ans="n"/> YES, THAT'S RIGHT. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="19">
+            <bubble type="thought" thtNum="12" who="Ahn Sang-Min">
+                <unique ans="n"/> THIS, THIS... IT SMELLS LIKE AN OPPORTUNITY. </bubble>
+            <bubble type="speech" spNum="100" who="Ahn Sang-Min">
+                <unique ans="n"/> EVERYONE, STOP WHAT YOU ARE DOING! D-RANK HUNTER YOO JIN-HO AND
+                E-RANK HUNTER SUNG JIN-WOO, </bubble>
+            <bubble type="speech" spNum="101" who="Ahn Sang-Min">
+                <unique ans="n"/> FIND EVERYTHING THERE IS ABOUT THOSE TWO PEOPLE! </bubble>
+            <bubble type="speech" spNum="102" who="Ahn Sang-Min">
+                <unique ans="n"/> RIGHT NOW! </bubble>
+        </page>
+    </body>
+
+</chapter>
+<!-- 19 PAGES, 102 INSTANCES OF SPEECH, 12 INSTANCES OF THOUGHT, 11 UNIQUES SPEAKERS -->
+<!-- NEW ITEMS: NONE
+     STAT UPDATE: NONE
+     NEW SKILLS, NONE
+     LEVELS GAINED, 0, CURRENT LEVEL: UNKNOWN-->

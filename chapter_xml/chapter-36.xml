@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="36">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="thought" thtNum="1" who="Ahn Sang-Min">
+                <unique ans="y" uniNum="1"/> SUNG JIN-WOO HAS MADE IT THROUGH THREE ACCIDENTS SAFELY
+                SO FAR. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="thought" thtNum="2" who="Ahn Sang-Min">
+                <unique ans="n"/> FIRST WAS THE DOUBLE LAIR INCIDENT. </bubble>
+            <bubble type="thought" thtNum="3" who="Ahn Sang-Min">
+                <unique ans="n"/> SECOND WAS THE DEATH OF HWANG DONG-SUK'S ENTIRE PARTY. </bubble>
+            <bubble type="thought" thtNum="4" who="Ahn Sang-Min">
+                <unique ans="n"/> THIRD, THE MOST RECENT CASE, WAS THE GUILD'S MONITORING
+                SUPERVISOR'S MURDER INCIDENT. </bubble>
+            <bubble type="thought" thtNum="5" who="Ahn Sang-Min">
+                <unique ans="n"/> SUNG JIN-WOO AND YOO JIN-HO BECAME ACQUAINTED DURING THE SECOND
+                CASE. </bubble>
+            <bubble type="thought" thtNum="6" who="Ahn Sang-Min">
+                <unique ans="n"/> AND THE MOST IMPORTANT THING ABOUT YOO JIN-HO IS HIS RELATION TO
+                YOO JIN ARCHITECTURES... </bubble>
+            <bubble type="thought" thtNum="7" who="Ahn Sang-Min">
+                <unique ans="n"/> THERE IS A RUMOR GOING AROUND THAT CAHIRMAN YOO MEUNG-HAN IS
+                RECRUITING SKILLED HUNTERS WITH THE INTENT OF FOUNDING A HUILD. </bubble>
+            <bubble type="thought" thtNum="8" who="Ahn Sang-Min">
+                <unique ans="n"/> IF THIS IS TRUE, IT WON'T BE STRANGE FOR YOO JIN-HO TO PROFIT FROM
+                THIS. </bubble>
+            <bubble type="thought" thtNum="9" who="Ahn Sang-Min">
+                <unique ans="n"/> THE RECRUITMENT OF SKILLED HUNTERS. </bubble>
+            <bubble type="thought" thtNum="10" who="Ahn Sang-Min">
+                <unique ans="n"/> E-RANK SUNG JIN-WOO. </bubble>
+            <bubble type="thought" thtNum="11" who="Ahn Sang-Min">
+                <unique ans="n"/> CLEARING C-RANK GATES WITH INSANE SPEED. </bubble>
+            <bubble type="thought" thtNum="12" who="Ahn Sang-Min">
+                <unique ans="n"/> THAT MEANS, </bubble>
+            <bubble type="thought" thtNum="13" who="Ahn Sang-Min">
+                <unique ans="n"/> HUNTER SUNG-JIN WOO COULD BE A REAWAKENED PERSON! </bubble>
+            <bubble type="speech" spNum="1" who="Gee-Chul">
+                <unique ans="y" uniNum="2"/> HUNTER SUNG JIN-WOO IS REAWAKENED?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="2" who="Ahn Sang-Min">
+                <unique ans="n"/> YES, OTHERWISE THERE'S NO WAY HE WOULD HAVE SURVIVED THESE THREE
+                INCIDENTS. EACH TIME, IT WAS A MAJOR ACCIDENT WHERE MANY OF THE PARTICIPANTS DIED. </bubble>
+            <bubble type="speech" spNum="3" who="Ahn Sang-Min">
+                <unique ans="n"/> THERE'S NO OTHER EXPLANATION FOR IT. </bubble>
+            <bubble type="speech" spNum="4" who="Ahn Sang-Min">
+                <unique ans="n"/> IN THE LATEST INCIDENT REPORT, A C-RANK MAGICIAN AND A B-RANK
+                HEALER COMBINED THERE STRENGTH TO STOP THE SUPERVISING HUNTER, BUT THAT'S
+                IMPOSSIBLE. </bubble>
+            <bubble type="speech" spNum="5" who="Ahn Sang-Min">
+                <unique ans="n"/> HE WAS A B-RANK ASSASSING. MAGIC DOESN'T WORK WELL AGAINST
+                ASSASSINS AND HE WASN'T STUPID, SO HE WOULD HAVE TAKEN CARE OF THE HEALER FIRST. IN
+                REALITY, IT WAS A C-RANK MAGICIAN VERSUS A B-RANK ASSASSIN. </bubble>
+            <bubble type="speech" spNum="6" who="Ahn Sang-Min">
+                <unique ans="n"/> THAT ONLY LEAVES THE POSSIBILITY OF SOMEONE ELSE TAKING DOWN THE
+                HUNTER FROM THE MONITORING DEPARTMENT. </bubble>
+            <bubble type="speech" spNum="7" who="Ahn Sang-Min">
+                <unique ans="n"/> BACK THEN, THE ONLY SURVIVORS WERE THE B-RANK HEALER AND THE
+                C-RANK MAGICIAN... AND THE E-RANK HUNTER SUNG JIN-WOO. NOBODY ELSE. </bubble>
+            <bubble type="speech" spNum="8" who="Ahn Sang-Min">
+                <unique ans="n"/> THAT ONLY LEAVES ONE PERSON TO BE SUSPICOUS OF. </bubble>
+            <bubble type="speech" spNum="9" who="Gee-Chul">
+                <unique ans="n"/> SEEMS LIKE IT... BUT CHIEF AHN SANG-MIN, </bubble>
+            <bubble type="speech" spNum="10" who="Gee-Chul">
+                <unique ans="n"/> WHERE ARE WE GOING RIGHT NOW? </bubble>
+            <bubble type="speech" spNum="11" who="Ahn Sang-Min">
+                <unique ans="n"/> WHERE? </bubble>
+            <bubble type="speech" spNum="12" who="Ahn Sang-Min">
+                <unique ans="n"/> WE'LL GO SCOUTING. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="thought" thtNum="14" who="Gee-Chul">
+                <unique ans="n"/> TO THINK THAT THE CHIEF HIMSELF WOULD GO SCOUTING... </bubble>
+            <bubble type="thought" thtNum="15" who="Gee-Chul">
+                <unique ans="n"/> THIS ISN'T A NORMAL OCCURENCE! </bubble>
+            <bubble type="speech" spNum="13" who="Ahn Sang-Min">
+                <unique ans="n"/> LET'S GO. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5"/>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="thought" thtNum="16" who="Yoo Jin-Ho">
+                <unique ans="y" uniNum="3"/> WAS HE ALSO HIDING THAT SKILL ALL THSI TIME? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="thought" thtNum="17" who="Yoo Jin-Ho">
+                <unique ans="n"/> IT SEEMS LIKE HE'S STRONGER THAN BEFORE... </bubble>
+            <systemMsg type="statSheet">
+                <info>NAME: SUNG JIN-WOO</info>
+                <level>39</level>
+                <info>JOB: NONE</info>
+                <info>FATIGUE: 0</info>
+                <info>TITLE: WOLF SLAYER</info>
+                <info>HP: 7229</info>
+                <info>MP: 638</info>
+                <stat>STRENGTH: 97</stat>
+                <stat>VITALITY: 59</stat>
+                <stat>AGILITY: 97</stat>
+                <stat>INTELLIGENCE: 51</stat>
+                <stat>SENSE: 81</stat>
+                <info>PHYSICAL DAMAGE REDUCTION: 20% ACTIVATING</info>
+                <info>REMAINING POINTS: 0</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="4"/> I'VE LEVELED UP QUITE A BIT, AND OBTAINED SOME FUN
+                SKILLS. </bubble>
+            <systemMsg type="statSheet">
+                <info>NAME: SUNG JIN-WOO</info>
+                <level>39</level>
+                <info>JOB: NONE</info>
+                <info>FATIGUE: 0</info>
+                <info>TITLE: WOLF SLAYER</info>
+                <info>HP: 7229</info>
+                <info>MP: 638</info>
+                <stat>STRENGTH: 97</stat>
+                <stat>VITALITY: 59</stat>
+                <stat>AGILITY: 97</stat>
+                <stat>INTELLIGENCE: 51</stat>
+                <stat>SENSE: 81</stat>
+                <info>PHYSICAL DAMAGE REDUCTION: 20% ACTIVATING</info>
+                <info>REMAINING POINTS: 0</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>ALARM</info>
+                <info>[SKILL: SPRINT]</info>
+                <info>HAS LEVELED UP.</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>ALARM</info>
+                <info>[SKILL: VITAL STRIKE LV.1]</info>
+                <info>HAS BEEN LEARNED</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>ALARM</info>
+                <info>[SKILL: ADVANCED DAGGER ARTS LV.1]</info>
+                <info>HAS BEEN LEARNED.</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>SKILLS</info>
+                <info>[ACTIVE]</info>
+                <info>STEALTH Lv.1</info>
+                <info>200 MANA</info>
+                <info>-YOUR APPEARANCE AND ALL TRACES OF YOU WILL BE</info>
+                <info>HIDDEN INSTANTLY</info>
+                <info>-10 MANA WILL BE CONSUMED EVERY SECOND.</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> THE RUNE I OBTAINED FROM GANG TAE-SHIK'S CORPSE HAD HIS SKILL IN
+                IT! </bubble>
+            <systemMsg type="item">
+                <info>[MANA POTION]</info>
+                <info>ITEM CLASS: E</info>
+                <info>TYOE: CONSUMABLE</info>
+                <info>A POTION THAT CAN RESTORE MANA.</info>
+                <info>RESTORES 500 MANA UPON CONSUMPTION.</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M RELUCTANT TO USE IT, BUT IT HAS GREATER EFFICIENCY THAN MY
+                OTHER SKILLS. </bubble>
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> THE PROBLEM IS THE CONTINOUS MANA CONSUMPTION. </bubble>
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> I WASN'T GOING TO INCREASE MY INTELLIGENCE STAT, BUT IT SEEMS LIKE
+                I MIGHT HAVE TO. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <systemMsg type="skill">
+                <info>[PASSIVE]</info>
+                <info>ADVANCED DAGGER ARTS Lv.1</info>
+                <info>DAGGER ONLY</info>
+                <info>BECAUSE YOU'VE USED A DAGGER FOR AN EXTENDED PERIOD OF TIME,</info>
+                <info>YOU CAN NOW USE DAGGERS MORE PROFICIENTLY.</info>
+                <info>WHEN A DAGGER IS USED, THE ATTACKS WITH IT GAIN 33% ADDITIONAL</info>
+                <info>DAMAGE.</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[ACTIVE]</info>
+                <info>VITAL STRIKE LV.1</info>
+                <info>70 MANA</info>
+                <info>DAGGER ONLY</info>
+                <info>-YOU HAVE LEARNED TO ATTACK EFFICIENTLY. YOU NOW DEAL</info>
+                <info>CRITICAL DAMAGE AS YOU ATTACK YOUR FOE'S VITAL AREAS.</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS SEEMS GOOD? </bubble>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <levelUp>[YOU HAVE LEVELED UP!]</levelUp>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>THE [PLAYER] HAS REACHED THE REQUIRED LEVEL.</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> REQUIRED LEVEL? </bubble>
+            <systemMsg type="information">
+                <info>QUEST ALARM</info>
+                <info>A [JOB CHANGE QUEST] HAS ARRIVED.</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>QUEST ALERT</info>
+                <info>WILL YOU ACCEPT THE QUEST?</info>
+                <info>ACCEPT</info>
+                <info>REFUSE</info>
+            </systemMsg>
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> JOB CHANGE? </bubble>
+            <systemMsg type="statSheet">
+                <info>NAME: SUNG JIN-WOO</info>
+                <level>LEVEL: 40</level>
+                <info>JOB: NONE</info>
+                <info>FATIGUE: 0</info>
+            </systemMsg>
+            <bubble type="speech" spNum="15" who="Ahn Sang-Min">
+                <unique ans="n"/> WHAT IS THIS? </bubble>
+            <bubble type="speech" spNum="16" who="Ahn Sang-Min">
+                <unique ans="n"/> IS THIS A PLAYGROUND </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="17" who="Ahn Sang-Min">
+                <unique ans="n"/> WHAT'S GOING ON? </bubble>
+            <bubble type="speech" spNum="18" who="Ahn Sang-Min">
+                <unique ans="n"/> WHY IS EVERYONE WAITING OUTSIDE THE GATE... </bubble>
+            <bubble type="speech" spNum="19" who="Han Song-Yi">
+                <unique ans="y" uniNum="5"/> THIS IS A NO ENTRY ZPNE, WHO ARE YOU TWO? </bubble>
+            <bubble type="thought" thtNum="25" who="Ahn Sang-Min">
+                <unique ans="n"/> WHO'S THIS KID? </bubble>
+            <bubble type="speech" spNum="20" who="Ahn Sang-Min">
+                <unique ans="n"/> KID, DON'T GET IN THE WAY OF AN ADULT'S WORK. </bubble>
+            <bubble type="speech" spNum="21" who="Gee-Chul">
+                <unique ans="n"/> YEAH, THERE'S EVEN A GATE HERE, IT'S DANGEROUS. </bubble>
+            <bubble type="speech" spNum="22" who="Han Song-Yi">
+                <unique ans="n"/> I'M A HUNTER TOO, SO CAN YOU NOT TREAT ME AS A CHILD? </bubble>
+            <bubble type="speech" spNum="23" who="Ahn Sang-Min">
+                <unique ans="n"/> A HUNTER? ARE YOU A MEMBER IF THIS PARTY AS WELL? </bubble>
+            <bubble type="speech" spNum="24" who="Han Song-Yi">
+                <unique ans="n"/> ...... YES. </bubble>
+            <bubble type="thought" thtNum="26" who="Han Song-Yi">
+                <unique ans="n"/> WILL THINGS BECOME AKWARDS IF I SAY THAT. </bubble>
+            <bubble type="thought" thtNum="27" who="Ahn Sang-Min">
+                <unique ans="n"/> THEY DIDN'T EVEN ENTER THE DUNGEON WITH THEIR PARTY MEMBERS?! </bubble>
+            <bubble type="thought" thtNum="28" who="Ahn Sang-Min">
+                <unique ans="n"/> SUNG JIN-WOO! IF MY INTUITION IS CORRECT, YOU'RE A RECRUIT THAT
+                ONLY COMES ONCE IN A LONG TIME! </bubble>
+            <bubble type="thought" thtNum="29" who="Ahn Sang-Min">
+                <unique ans="n"/> YOU'RE SPECIAL! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="speech" spNum="25" who="others">
+                <unique ans="n"/> THE PARTY LEADER IS RETURNING! </bubble>
+            <bubble type="speech" spNum="26" who="others">
+                <unique ans="n"/> GET READY TO MOVE! </bubble>
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT'S THE SCHEDULE FOR TOMORROW? I FORGOT THAT I HAD SOMETHING
+                IMPORTANT TO DO SO LEAVE TOMMOROW'S PLANS EMPTY. </bubble>
+            <bubble type="speech" spNum="28" who="Yoo Jin-Ho">
+                <unique ans="n"/> TOMORROW, SIR? </bubble>
+            <bubble type="speech" spNum="29" who="Yoo Jin-Ho">
+                <unique ans="n"/> I'VE ALREADY RESERVED THE DUNGEON'S, BUT IF IT'S URGENT THEN I
+                WILL CANCEL THEM. </bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> IS THERE REALLY A NEED TO CANCEL? </bubble>
+            <bubble type="speech" spNum="31" who="Yoo Jin-Ho">
+                <unique ans="n"/> SIR, IF YOU RESERVE A GATE AND DON'T ENTER WITHIN TWO DAYS IT
+                CANCELS AUTOMATICALLY. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> HM... THEN LEAVE IT RESERVED FOR NOW. </bubble>
+            <bubble type="speech" spNum="33" who="Ahn Sang-Min">
+                <unique ans="n"/> HUNTER SUNG JIN-WOO. </bubble>
+            <bubble type="speech" spNum="34" who="Ahn Sang-Min">
+                <unique ans="n"/> NICE TO MEET YOU. I'M THE CHIEF OF THE SECOND DEPARTMENT OF
+                MANAGEMENT AT THE WHITE TIGER GUILD. </bubble>
+            <bubble type="speech" spNum="35" who="Sung Jin-Woo">
+                <unique ans="n"/> WHITE TIGER GUILD? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="36" who="Ahn Sang-Min">
+                <unique ans="n"/> HUNTERS, REAPER, KNIGHTS, FAME, AND US, WHITE TIGER. YOU SHOULD'VE
+                HEARD OF THOSE AT LEAST ONCE. </bubble>
+            <bubble type="speech" spNum="37" who="Ahn Sang-Min">
+                <unique ans="n"/> OF COURSE, THE WHITE TIGER GUILD IS ONE OF SOUTH KOREA'S BEST
+                GUILDS </bubble>
+            <bubble type="speech" spNum="38" who="Ahn Sang-Min">
+                <unique ans="n"/> I'LL GET TO THE POINT </bubble>
+            <bubble type="speech" spNum="39" who="Ahn Sang-Min">
+                <unique ans="n"/> WE WANT TO RECRUIT YOU INTO THE WHITE TIGER GUILD FOR TWICE THE
+                AMOUNT YOO JIN ARCHITECTURES OFFERED YOU. </bubble>
+            <bubble type="thought" thtNum="30" who="Ahn Sang-Min">
+                <unique ans="n"/> THERE'S NO NEED TO STALL. GET RIGHT TO THE DECISIVE MOMENT! </bubble>
+            <bubble type="speech" spNum="40" who="Ahn Sang-Min">
+                <unique ans="n"/> IF YOU DO WELL COMPARED TI YOUR ASSUMED SKILL, THE PAY CAN
+                INCREASE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="thought" thtNum="31" who="Ahn Sang-Min">
+                <unique ans="n"/> HOW'S THAT! </bubble>
+            <bubble type="thought" thtNum="32" who="Ahn Sang-Min">
+                <unique ans="n"/> IT SHOULD BE A SURPRISING OFFER FOR A HUNTER WHO WAS E-RANK UNTIL
+                RECENTLY! </bubble>
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo">
+                <unique ans="n"/> HOW MUCH IS THE WHITE TIGER GUILD'S BUILDING PRICE FOR YOU TO MAKE
+                AN OFFER LIKE THIS? </bubble>
+            <bubble type="speech" spNum="42" who="Ahn Sang-Min">
+                <unique ans="n"/> EXCUSE ME? </bubble>
+            <bubble type="thought" thtNum="33" who="Ahn Sang-Min">
+                <unique ans="n"/> WHAT DOES THAT MEAN? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <bubble type="speech" spNum="43" who="Ahn Sang-Min">
+                <unique ans="n"/> WE'RE NOT USING ALL THE FLOORS, BUT IT SHOULD BE AROUND 50
+                BILLION. </bubble>
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/> AND YOU WANT TO HAND THAT OVER TO ME? </bubble>
+            <bubble type="speech" spNum="45" who="Ahn Sang-Min">
+                <unique ans="n"/> EH? I'M NOT SURE WHAT YOU'RE TALKING ABOUT... </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 15 PAGES, 45 INSTANCES OF SPEECH, 33 INSTANCES OF THOUGHT, 5 UNIQUE SPEAKERS -->
+<!-- ITEMS GAINED: MANA POTION
+     STAT UPDATE: STRENGTH 97, VITALITY 59, AGILITY 97, INTELLIGENCE 51, SENSE 81
+     NEW SKILLS: STEALTH, ADVANCED DAGGER ARTS, VITAL STRIKE
+     LEVELS GAINED: 1, CURRENT LEVEL: 40-->

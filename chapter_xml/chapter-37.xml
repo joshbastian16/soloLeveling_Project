@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="37">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> HOW MUCH IS THE WHITE TIGER GUILD'S BUILDING PRICE FOR
+                YOU TO MAKE AN OFFER LIKE THIS? </bubble>
+            <bubble type="speech" spNum="2" who="Ahn Sang-Min">
+                <unique ans="y" uniNum="2"/> EXCUSE ME? </bubble>
+            <bubble type="thought" thtNum="1" who="Ahn Sang-Min">
+                <unique ans="n"/> WHAT DOES THAT MEAN? </bubble>
+            <bubble type="speech" spNum="3" who="Ahn Sang-Min">
+                <unique ans="n"/> WE'RE NOT USING ALL THE FLOORS, BUT IT SHOULD BE AROUND 50
+                BILLION. </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> AND YOU WANT TO HAND THAT OVER TO ME? </bubble>
+            <bubble type="speech" spNum="5" who="Ahn Sang-Min">
+                <unique ans="n"/> EH? I'M NOT SURE WHAT YOU'RE TALKING ABOUT... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="6" who="Ahn Sang-Min">
+                <unique ans="n"/> T-THIRTY BILLION! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> YOO JIN'S OFFERED SUM WAS A 30 BBILLION WON BUILDING. </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> IF YOU'RE OFFERING TWICE THEIR PRICE, DOESN'T THAT MEAN YOU;LL BE
+                OFFERENING YOUR 50 BILLION WON WHITE TIGER GUILD BUILDING? </bubble>
+            <bubble type="thought" thtNum="2" who="Ahn Sang-Min">
+                <unique ans="n"/> JUST HOW GREAT IS HIS ABILITY THAT YOO JIN OFFERED 30 BILLION FOR
+                HIM? THEY HAVEN'T EVEN REVIEWED HIS RANK YET. </bubble>
+            <bubble type="thought" thtNum="3" who="Ahn Sang-Min">
+                <unique ans="n"/> IS-ISN'T HE JUST BLUFFING BECAUSE THERE'S NO WAY TO CONFIRM IT? </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> IF YOU THINK I'M BLUFFING, I CAN CONFIRM IT FOR YOU. </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE HE OFFERED TWICE THE AMOUNT, I THOUGHT HE HAD EVEN HEARD
+                ABOUT MY DEAL WITH JIN-HO, BUT IT DOESN'T LOOK LIKE HE KNOWS ABOUT IT. </bubble>
+            <bubble type="thought" thtNum="5" who="Ahn Sang-Min">
+                <unique ans="n"/> H... HE'S NOT BLUFFING! </bubble>
+            <bubble type="speech" spNum="10" who="Ahn Sang-Min">
+                <unique ans="n"/> U, UM... SUCH A HIGH PRICE GOES PASY MY ABILITIES... IF YOU GIVE
+                ME SOME TIME, I CAN NEOGTIATE WITH THE GUILD'S HIGHER-UP'S... </bubble>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> THEN WE'RE FINISHED HERE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="thought" thtNum="6" who="Ahn Sang-Min">
+                <unique ans="n"/> DID I RUSH IT TOO MUCH... </bubble>
+            <bubble type="thought" thtNum="7" who="Ahn Sang-Min">
+                <unique ans="n"/> IF I HAD JUST FOUND OUT THE DETAILS OF YOO JIN'S OFFER, GOT
+                PERMISSION FROM THE GUILD AND TOOK SMALL AND STEADY STEPS... </bubble>
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> OH RIGHT. </bubble>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> HOW DID YOU OBTAIN THIS INFORMATION ABOUT ME? </bubble>
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> DID YOU RESEARCH MY BACKGROUND? </bubble>
+            <bubble type="speech" spNum="15" who="Ahn Sang-Min">
+                <unique ans="n"/> H, HUH? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="thought" thtNum="8" who="Ahn Sang-Min">
+                <unique ans="n"/> S, STEALTH? </bubble>
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> DON'T TURN AROUND. </bubble>
+            <bubble type="thought" thtNum="9" who="Ahn Sang-Min">
+                <unique ans="n"/> I SEE! IF HE'S A REAWAKENED PERSON WHO CAN EVEN USE STEALTH, THEN
+                IT MAKES SENSE THAT YOO JIN WOULD MAKE SUCH A CARELESS OFFER! </bubble>
+            <bubble type="speech" spNum="17" who="Ahn Sang-Min">
+                <unique ans="n"/> AH, I, I DIDN'T ORDER THE RESEARCH ON PURPOSE. SOMEBODY WORKING IN
+                OUR GUILD NOTICED THAT SOMEBODY WAS CLEARING C-RANK DUNGEONS AT AN EXTREMELY FAST
+                RATE, SO WE DUG INTO IT AND FOUND YOU. </bubble>
+            <bubble type="speech" spNum="18" who="Ahn Sang-Min">
+                <unique ans="n"/> THREE MAJOR ACCIDENTS OCCURED INSIDE GATES RECENTLY. </bubble>
+            <bubble type="speech" spNum="19" who="Ahn Sang-Min">
+                <unique ans="n"/> I HAVE NO EVIDENCE, BUT 3 TIMES IS NOT A COICIDENCE ANYMORE.
+                BECAUSE OF YOUR REAWAKENING, YOU RECIEVED ABILITIES OF A HIGH-RANKED HUNTER, AND
+                OVERCAME ALL THOSE ACCIDENTS. </bubble>
+            <bubble type="speech" spNum="20" who="Ahn Sang-Min">
+                <unique ans="n"/> YOO JIN-HO MUST'VE SEEN YOUR SKILL DURING THE SECOND RAID, AND IS
+                RECIEVING A TEST FROM HIS FATHER'S GUILD SIMILAR TO WHAT YOU BOTH ARE DOING NOW.
+                CONSIDERING ALL THOSE POINTS, EVERYTHING COMES TOGETHER, AND WE ARRIVE TO WHERE WE
+                STAND NOW. </bubble>
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> HOW MANY PEOPLE KNOW ABOUT ME? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="speech" spNum="22" who="Ahn Sang-Min">
+                <unique ans="n"/> JUST ME AND ONE OF MY SUBORDINATES. </bubble>
+            <bubble type="speech" spNum="23" who="Gee-Chul">
+                <unique ans="y" uniNum="3"/> I WONDER HOW CHIEF IS DOING. </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> IT LOOKS LIKE I WAS NOTICED DUE TO CLEARING C-RANK GATES TOO
+                QUICKLY. </bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> I DO NOT WANT THE NUMBER OF PEOPLE WHO KNOW ABOUT ME TO INCREASE. </bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> IF, PERHAPS A RUMOR ABOUT ME STARTS SPREADING, CAN I TAKE IT AS
+                YOUR AND YOUR SUBORDINATE'S RESPONSIBILITY? </bubble>
+            <bubble type="speech" spNum="26" who="Ahn Sang-Min">
+                <unique ans="n"/>I'M REQUIRED TO REPORT TO GUILD MASTER HYEUNG SHIK-SANG... </bubble>
+            <bubble type="speech" spNum="27" who="Ahn Sang-Min">
+                <unique ans="n"/> BUT I DON'T WANT TO DIE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="speech" spNum="28" who="Ahn Sang-Min">
+                <unique ans="n"/> GEE-CHUL... NO, I'LL WARN MY SUBORDINATE PROPERLY AS WELL. </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> THANK YOU. </bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> BECASUE WE CLEARED TOO MANY C-RANK DUNGEONS, IT LOOKS LIKE WE'VE
+                BEEN A NUISANCE TO THE WHITE TIGER GUILD. </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> UNFORTUNATELY, WE DON'T HAVE PLANS TO STOP FOR A WHILE. </bubble>
+            <bubble type="speech" spNum="32" who="Ahn Sang-Min">
+                <unique ans="n"/> THAT'S A PROBLEM. WE'RE RUNNING OUT OF GATES TO TRAIN OUR NEW
+                RECRUITS. </bubble>
+            <bubble type="speech" spNum="33" who="Ahn Sang-Min">
+                <unique ans="n"/> IT'S NOT LIKE WE CAN SEND THEM TO HIGHER-RANKED GATES... </bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> THEN HOW ABOUT WE MAKE A DEAL? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="speech" spNum="35" who="Ahn Sang-Min">
+                <unique ans="n"/> A... DEAL? </bubble>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo">
+                <unique ans="n"/> WE'LL SELL THREE OF OUR C-RANK GATE RESERVATIONS. </bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> OF COURSEM THIS IS A SPECIAL OFFER ONLY FOR TODAY. IF YOU DON;T
+                TAKE THIS CHANCE, IT WILL BE HARD TO RESERCE A C-RANK GATE FOR A WHILE </bubble>
+            <bubble type="thought" thtNum="11" who="Ahn Sang-Min">
+                <unique ans="n"/> ARE YOU A DOOR TO DOOR SALESMAN? SINCE GATES DON'T ONLY SPAWN IN
+                THE METROPOLITAN AREAS, WE CAN TRAIN THE RECRUITS DOWN IN ANOTHER PROVINCE. </bubble>
+            <bubble type="thought" thtNum="12" who="Ahn Sang-Min">
+                <unique ans="n"/> THE ONLY PROBLEM IS THAT IT COULD CREATE CONFLICTS BETWEEN US AND
+                OTHER MAJOR GUILDS... </bubble>
+            <bubble type="speech" spNum="38" who="Ahn Sang-Min">
+                <unique ans="n"/> I ACCEPT, HOW MUCH IS IT IN TOTAL? </bubble>
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo">
+                <unique ans="n"/> LET'S SAY 300 MILLION EACH. </bubble>
+            <bubble type="speech" spNum="40" who="Ahn Sang-Min">
+                <unique ans="n"/> THE MAXIMUM PRICE IN MANA CRYSTALS AND MAGIC CRYSTALS YOU CAN GET
+                FROM A C-RANK DUNGEON IS 200 MILLION! IF YOU'RE SELLING FOR THAT PRICE WE WILL MAKE
+                A LOSS. </bubble>
+            <bubble type="speech" spNum="41" who="Ahn Sang-Min">
+                <unique ans="n"/> 300 MILLINO IS A BIT DIFFICULT FOR US SO HOW ABOUT 200 MILLION...
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> OKAY THEN. </bubble>
+            <caption type="thought" thtNum="13" who="Ahn Sang-Min">HUH?</caption>
+            <bubble type="speech" spNum="43" who="Ahn Sang-Min">
+                <unique ans="n"/> I... IS IT DONE? </bubble>
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/> 3 C-RANK GATES, TOTAL 600 MILLION. PLEASE SEND IT TO MY ACCOUNT. </bubble>
+            <bubble type="speech" spNum="45" who="Sung Jin-Woo">
+                <unique ans="n"/> AH, AND THIS IS A GIFT FROM ME. WOULD YOU PLEASE OPEN YOUR MOUTH? </bubble>
+            <bubble type="speech" spNum="46" who="Ahn Sang-Min">
+                <unique ans="n"/> ? </bubble>
+            <bubble type="thought" thtNum="14" who="Ahn Sang-Min">
+                <unique ans="n"/> W... WHAT, THIS ABILITY?! </bubble>
+            <bubble type="thought" thtNum="15" who="Ahn Sang-Min">
+                <unique ans="n"/> M-MY WOUND?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="47" who="Ahn Sang-Min">
+                <unique ans="n"/> T, THE FACT THAT YOU JUST SHOWED ME YOUR STEALTH AND HEALING
+                ABILITIES... CAN I TAKE THAT AS A SIGN OF YOUR TRUST? </bubble>
+            <bubble type="speech" spNum="48" who="Sung Jin-Woo">
+                <unique ans="n"/> IF IT MEANS THAT YOU WILL AT LEAST KEEP MY SECRET. </bubble>
+            <bubble type="speech" spNum="49" who="Gee-Chul">
+                <unique ans="n"/> CHIEF! </bubble>
+            <bubble type="speech" spNum="50" who="Gee-Chul">
+                <unique ans="n"/> WHAT WAS THAT LIGHT JUST THEN? DID THINGS GO WELL WITH SUNG
+                JIN-WOO> </bubble>
+            <bubble type="speech" spNum="51" who="Ahn Sang-Min">
+                <unique ans="n"/> GEE-CHUL... </bubble>
+            <bubble type="speech" spNum="52" who="Ahn Sang-Min">
+                <unique ans="n"/> I THINK WE'VE MET A MUCH MORE FORMIDABLE PERSON THAN WE THOUGHT. </bubble>
+            <bubble type="speech" spNum="53" who="Yoo Jin-Ho">
+                <unique ans="y" uniNum="4"/> SIR, IT'S BEEN TRANSFERED. </bubble>
+            <bubble type="speech" spNum="54" who="Yoo Jin-Ho">
+                <unique ans="n"/> 600 MILLION, JUST LIKE YOU SAID. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="speech" spNum="55" who="Yoo Jin-Ho">
+                <unique ans="n"/> TO THINK THAT A CANCELLED GATE SOLD FOR THIS MUCH... TO WHOM DID
+                YOU SELL IT? </bubble>
+            <bubble type="speech" spNum="56" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S A TRADE SECRET. </bubble>
+            <bubble type="speech" spNum="57" who="Gee-Chul">
+                <unique ans="n"/> CHIEF! </bubble>
+            <bubble type="speech" spNum="58" who="Gee-Chul">
+                <unique ans="n"/> CHIEF! </bubble>
+            <bubble type="speech" spNum="59" who="Ahn Sang-Min">
+                <unique ans="n"/> WHAT? THERE ARE C-RANK GATES LEFT IN OUR AREA?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="speech" spNum="60" who="Gee-Chul">
+                <unique ans="n"/> YES! AND ALL THE PRICES ARE BELOW 10 MILLION WON. </bubble>
+            <bubble type="speech" spNum="61" who="Ahn Sang-Min">
+                <unique ans="n"/> COULD IT BE... </bubble>
+            <bubble type="speech" spNum="62" who="Gee-Chul">
+                <unique ans="n"/> YOO JIN HO'S TEAM HASN'T RESERVED A SINGLE C-RANK GATE TODAY. </bubble>
+            <bubble type="speech" spNum="63" who="Gee-Chul">
+                <unique ans="n"/> I THINK WE'VE BEEN HAD, CHIEF. YOO JIN-HO'S TEAM HAD NO INTENTION
+                OF RAIDING TOMORROW FROM THE BEGINNING. </bubble>
+            <bubble type="thought" thtNum="16" who="Ahn Sang-Min">
+                <unique ans="n"/> I FAILED TO SCOUT SING JIN-WOO AND EVEN GOT SCAMMED! </bubble>
+            <bubble type="thought" thtNum="17" who="Ahn Sang-Min">
+                <unique ans="n"/> DOES THIS MEAN...! </bubble>
+            <bubble type="thought" thtNum="18" who="Ahn Sang-Min">
+                <unique ans="n"/> HE DID THIS WITHOUT FEAR I MIGHT REVEAL HIS IDENTITY? </bubble>
+            <bubble type="speech" spNum="64" who="Ahn Sang-Min">
+                <unique ans="n"/> AN UNKNOWN NUMBER? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <caption type="speech" spNum="65" who="Sung Jin-Woo"> THIS IS SUNG JIN-WOO. WITH THIS,
+                I'LL PRETEND YOU NEVER DID A BACKGROUND RESEARCH ON ME. </caption>
+            <bubble type="speech" spNum="66" who="Ahn Sang-Min">
+                <unique ans="n"/> UGH... THE DEAL WAS HIS BACKGROUND FOR MONEY... </bubble>
+            <bubble type="speech" spNum="67" who="Ahn Sang-Min">
+                <unique ans="n"/> HE'S A TOUGH ONE, REALLY. </bubble>
+            <bubble type="speech" spNum="68" who="Ahn Sang-Min">
+                <unique ans="n"/> I DIDN'T THINK HE WOULD CONTACT ME. DID HE SEND THE MESSAGE AFTER
+                MEMORIZING THE NUMBER ON MY BUSINESS CARD? </bubble>
+            <bubble type="speech" spNum="69" who="Ahn Sang-Min">
+                <unique ans="n"/> THAT'S ENOUGH, LET'S BE SATISFIED THAT WE FOUND OUT SUNG JIN-WOO'S
+                NUMBER FOR NOW. </bubble>
+            <bubble type="speech" spNum="70" who="Ahn Sang-Min">
+                <unique ans="n"/> SINCE OUR FINAL GOAL IS TO RECRUIT SUNG JIN-WOO. </bubble>
+            <bubble type="speech" spNum="71" who="Ahn Sang-Min">
+                <unique ans="n"/> THE MONEY WE USED TODAY ISN'T MUCH TO THE WHITE TIGER GUILD, I
+                MIGHT GET IN TROUBLE WITH THE GUILD MASTER THOUGH... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="speech" spNum="72" who="Sung Jin-Woo">
+                <unique ans="n"/> WELL~ </bubble>
+            <bubble type="speech" spNum="73" who="Sung Jin-Woo">
+                <unique ans="n"/> LET'S BEGIN. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <bubble type="speech" spNum="74" who="Sung Jin-Woo">
+                <unique ans="n"/> JOB CHANGE, </bubble>
+            <bubble type="speech" spNum="75" who="Sung Jin-Woo">
+                <unique ans="n"/> SEEMS INTERESTING. </bubble>
+            <bubble type="speech" spNum="76" who="Sung Jin-Woo">
+                <unique ans="n"/> I WONDER WHAT KIND OF MONSTERS WILL BE IN THERE. </bubble>
+            <caption type="thought" thtNum="19" who="Sung Jin-Woo">AT LAST THIS GAME</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <caption type="thought" thtNum="20" who="Sung Jin-Woo">SEEMED TO START FOR
+                REAL.</caption>
+        </page>
+    </body>
+</chapter>
+<!-- 16 PAGES, 76 INSTANCES OF SPEECH, 20 INSTANCES OF THOUGHT, 4 UNIQUE SPEAKERS -->
+<!-- NEW ITEMS: NONE
+     STAT UPDATE: NONE
+     NEW SKILLS: NONE
+     LEVELS GAINED: 0, CURRENT LEVEL: 40-->

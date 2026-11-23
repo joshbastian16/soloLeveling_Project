@@ -280,164 +280,135 @@
             <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
                 <unique ans="n"/> I DIDN'T KNOW BEFORE, BUT... </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="15">
             <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
-                <unique ans="n"/> THIS PERSON IS STRONG.
-            </bubble>
+                <unique ans="n"/> THIS PERSON IS STRONG. </bubble>
             <bubble type="speech" spNum="59" who="Woo Jin-Chul">
-                <unique ans="n"/> AS A MEMBER OF THE MONITORING DIVISION, I HAVE A FEW QUESTIONS I WOULD LIKE TO ASK YOU.
-            </bubble>
+                <unique ans="n"/> AS A MEMBER OF THE MONITORING DIVISION, I HAVE A FEW QUESTIONS I
+                WOULD LIKE TO ASK YOU. </bubble>
             <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
-                <unique ans="n"/> HE'S IN A DIFFERENT LEAGUE OF HIS OWN!
-            </bubble>
+                <unique ans="n"/> HE'S IN A DIFFERENT LEAGUE OF HIS OWN! </bubble>
             <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
-                <unique ans="n"/> HE'S AN A-RANK!
-            </bubble>
+                <unique ans="n"/> HE'S AN A-RANK! </bubble>
             <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
-                <unique ans="n"/> I CAN'T HANDLE HIM WITH MY STRENGTH RIGHT NOW.
-            </bubble>
+                <unique ans="n"/> I CAN'T HANDLE HIM WITH MY STRENGTH RIGHT NOW. </bubble>
             <bubble type="speech" spNum="60" who="Woo Jin-Chul">
-                <unique ans="n"/> THINGS WOULD GO SMOOTHLY IF YOU COOPERATED ~ WILL THAT BE OKAY?
-            </bubble>
+                <unique ans="n"/> THINGS WOULD GO SMOOTHLY IF YOU COOPERATED ~ WILL THAT BE OKAY? </bubble>
             <bubble type="speech" spNum="61" who="Sung Jin-Woo">
-                <unique ans="n"/> YES, I'LL COOPERATE.
-            </bubble>
+                <unique ans="n"/> YES, I'LL COOPERATE. </bubble>
             <bubble type="speech" spNum="62" who="Woo Jin-Chul">
-                <unique ans="n"/> THEN LET ME ASK YOU THIS DIRECTLY ~
-            </bubble>
+                <unique ans="n"/> THEN LET ME ASK YOU THIS DIRECTLY ~ </bubble>
             <bubble type="speech" spNum="63" who="Woo Jin-Chul">
-                <unique ans="n"/> WHO KILLED? THE B-RANK HUNTER GANG TAE-SHIK
-            </bubble>
+                <unique ans="n"/> WHO KILLED? THE B-RANK HUNTER GANG TAE-SHIK </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="16">
             <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
-                <unique ans="n"/> I PROBABLY CAN'T HIDE THAT I'VE BEEN REAWAKENED NOW
-            </bubble>
+                <unique ans="n"/> I PROBABLY CAN'T HIDE THAT I'VE BEEN REAWAKENED NOW </bubble>
             <bubble type="thought" thtNum="26" who="Sung Jin-Woo">
-                <unique ans="n"/> LOOKS LIKE I'LL HAVE TO VOID MY CONTRACT WITH JIN-HO,
-            </bubble>
+                <unique ans="n"/> LOOKS LIKE I'LL HAVE TO VOID MY CONTRACT WITH JIN-HO, </bubble>
             <bubble type="thought" thtNum="27" who="Sung Jin-Woo">
-                <unique ans="n"/> SINCE HE WANTS A SKILLFULL YET LOW-RANKED HUNTER.
-            </bubble>
+                <unique ans="n"/> SINCE HE WANTS A SKILLFULL YET LOW-RANKED HUNTER. </bubble>
             <bubble type="speech" spNum="64" who="Song Chi-Yeol">
-                <unique ans="n"/> IT WAS ME.
-            </bubble>
+                <unique ans="n"/> IT WAS ME. </bubble>
             <bubble type="speech" spNum="65" who="Song Chi-Yeol">
-                <unique ans="n"/> I'M THE ONE THAT KILLED GANG TAE-SHIK.
-            </bubble>
+                <unique ans="n"/> I'M THE ONE THAT KILLED GANG TAE-SHIK. </bubble>
             <bubble type="speech" spNum="66" who="Woo Jin-Chul">
-                <unique ans="n"/> IF YOU DON'T MIND, WOULD YOU TELL ME YOUR RANK?
-            </bubble>
+                <unique ans="n"/> IF YOU DON'T MIND, WOULD YOU TELL ME YOUR RANK? </bubble>
             <bubble type="speech" spNum="67" who="Song Chi-Yeol">
-                <unique ans="n"/> C-RANK.
-            </bubble>
+                <unique ans="n"/> C-RANK. </bubble>
             <bubble type="speech" spNum="68" who="Woo Jin-Chul">
-                <unique ans="n"/> HOW COULD YOU BEAT A B-RANK AS A C-RANK...?
-            </bubble>
+                <unique ans="n"/> HOW COULD YOU BEAT A B-RANK AS A C-RANK...? </bubble>
             <bubble type="speech" spNum="69" who="Song Chi-Yeol">
-                <unique ans="n"/> DO YOU NOT SEE WHO'S BEHIND ME?
-            </bubble>
+                <unique ans="n"/> DO YOU NOT SEE WHO'S BEHIND ME? </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="17">
             <bubble type="speech" spNum="70" who="Woo Jin-Chul">
-                <unique ans="n"/> WELL... IF YOU DID RECIEVE SUPPORT FROM A B-RANK, I GUES YOU COULD'VE BAETEN HIM.
-            </bubble>
+                <unique ans="n"/> WELL... IF YOU DID RECIEVE SUPPORT FROM A B-RANK, I GUES YOU
+                COULD'VE BAETEN HIM. </bubble>
             <bubble type="thought" thtNum="28" who="Woo Jin-Chul">
-                <unique ans="n"/> BUT GANG TAE-SHIK... HE WAS SOMEONE THAT COULDN'T BE CONTROLLED EVEN WITHIN THE DIVISION.
-            </bubble>
+                <unique ans="n"/> BUT GANG TAE-SHIK... HE WAS SOMEONE THAT COULDN'T BE CONTROLLED
+                EVEN WITHIN THE DIVISION. </bubble>
             <bubble type="thought" thtNum="29" who="Woo Jin-Chul">
-                <unique ans="n"/> COULD A ONE-ARMED C-RANK REALLY BEAT A SKILLED B-RANK ASSASSIN IN COMBAT?
-            </bubble>
+                <unique ans="n"/> COULD A ONE-ARMED C-RANK REALLY BEAT A SKILLED B-RANK ASSASSIN IN
+                COMBAT? </bubble>
             <bubble type="speech" spNum="71" who="Woo Jin-Chul">
-                <unique ans="n"/> COME WITH ME FOR NOW. I'M AFRIAD I'M GOING TO NNED YOUR HELP FILLING OUT SOME REPORTS.
-            </bubble>
+                <unique ans="n"/> COME WITH ME FOR NOW. I'M AFRIAD I'M GOING TO NNED YOUR HELP
+                FILLING OUT SOME REPORTS. </bubble>
             <bubble type="speech" spNum="72" who="Sung Jin-Woo">
-                <unique ans="n"/> MISTER.
-            </bubble>
+                <unique ans="n"/> MISTER. </bubble>
             <bubble type="speech" spNum="73" who="Sung Jin-Woo">
-                <unique ans="n"/> WHY DID YOU LIE?
-            </bubble>
+                <unique ans="n"/> WHY DID YOU LIE? </bubble>
             <bubble type="speech" spNum="74" who="Song Chi-Yeol">
-                <unique ans="n"/> I JUST ASSUMED YOU HAD ENOUGH REASON TO HIDE YOUR ABILITIES. WHAT, WAS I WRONG TO DO SO?
-            </bubble>
+                <unique ans="n"/> I JUST ASSUMED YOU HAD ENOUGH REASON TO HIDE YOUR ABILITIES. WHAT,
+                WAS I WRONG TO DO SO? </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="18">
             <bubble type="speech" spNum="75" who="Song Chi-Yeol">
-                <unique ans="n"/> YOU CAN'T ESCAPE THE INVESTIGATIONS ANYWAYS.
-            </bubble>
+                <unique ans="n"/> YOU CAN'T ESCAPE THE INVESTIGATIONS ANYWAYS. </bubble>
             <bubble type="speech" spNum="76" who="Song Chi-Yeol">
-                <unique ans="n"/> I CAN'T PAY YOU BACK FOR WHAT YOU'VE DONE, BUT THIS IS THE LEAST THAT I CAN DO.
-            </bubble>
+                <unique ans="n"/> I CAN'T PAY YOU BACK FOR WHAT YOU'VE DONE, BUT THIS IS THE LEAST
+                THAT I CAN DO. </bubble>
             <bubble type="speech" spNum="77" who="Woo Jin-Chul">
-                <unique ans="n"/> HUNTER SUNG JIN-WOO.
-            </bubble>
+                <unique ans="n"/> HUNTER SUNG JIN-WOO. </bubble>
             <bubble type="speech" spNum="78" who="Woo Jin-Chul">
-                <unique ans="n"/> I DON'T THINK AN E-RANK LIKE YOU COULD'VE DEFEATED A B-RANK HUNTER LIKE GANG TAE-SHIK.
-            </bubble>
+                <unique ans="n"/> I DON'T THINK AN E-RANK LIKE YOU COULD'VE DEFEATED A B-RANK HUNTER
+                LIKE GANG TAE-SHIK. </bubble>
             <bubble type="speech" spNum="79" who="Woo Jin-Chul">
-                <unique ans="n"/> I ALSO THINK IT'S UNNECESSARY TO SUSPECT YOU OF RE-AWAKENING AGAIN.
-            </bubble>
+                <unique ans="n"/> I ALSO THINK IT'S UNNECESSARY TO SUSPECT YOU OF RE-AWAKENING
+                AGAIN. </bubble>
             <bubble type="speech" spNum="80" who="Woo Jin-Chul">
-                <unique ans="n"/> HOWEVER, LET ME TELL YOU THIS; AFTER ALL, IF YOU'RE NOT CAREFUL, YOUR LIFE MAY END SOMETIME SOON.
-            </bubble>
+                <unique ans="n"/> HOWEVER, LET ME TELL YOU THIS; AFTER ALL, IF YOU'RE NOT CAREFUL,
+                YOUR LIFE MAY END SOMETIME SOON. </bubble>
             <bubble type="speech" spNum="81" who="Sung Jin-Woo">
-                <unique ans="n"/> WHAT DO YOU MEAN?
-            </bubble>
+                <unique ans="n"/> WHAT DO YOU MEAN? </bubble>
             <bubble type="speech" spNum="82" who="Woo Jin-Chul">
-                <unique ans="n"/> IN THE EXTERMINATION OF HUANG DONG-SUL'S ASSAULT TEM, THE ONLY SURVIVORS WERE A D-RANK AND YOU.
-            </bubble>
+                <unique ans="n"/> IN THE EXTERMINATION OF HUANG DONG-SUL'S ASSAULT TEM, THE ONLY
+                SURVIVORS WERE A D-RANK AND YOU. </bubble>
             <bubble type="speech" spNum="83" who="Woo Jin-Chul">
-                <unique ans="n"/> THE PROBLEM IS THAT HUANG DONG-SUK'S YOUNGER BROTHER HUANG DONG-SU, MAY SEEK REVENGE ON YOU GUYS.
-            </bubble>
+                <unique ans="n"/> THE PROBLEM IS THAT HUANG DONG-SUK'S YOUNGER BROTHER HUANG
+                DONG-SU, MAY SEEK REVENGE ON YOU GUYS. </bubble>
         </page>
-        
-        <pageBrk/> 
-        
+
+        <pageBrk/>
+
         <page pageNum="19">
             <bubble type="speech" spNum="84" who="Sung Jin-Woo">
-                <unique ans="n"/> YOU'RE TALKING ABOUT THE S-RANK HUANG DONG-SU?
-            </bubble>
+                <unique ans="n"/> YOU'RE TALKING ABOUT THE S-RANK HUANG DONG-SU? </bubble>
             <bubble type="speech" spNum="85" who="Woo Jin-Chul">
-                <unique ans="n"/> YES.
-            </bubble>
+                <unique ans="n"/> YES. </bubble>
             <bubble type="speech" spNum="86" who="Woo Jin-Chul">
-                <unique ans="n"/> IT DOESN'T REALLY MATTER WHAT HAPPENED DURING THAT RAID.
-            </bubble>
+                <unique ans="n"/> IT DOESN'T REALLY MATTER WHAT HAPPENED DURING THAT RAID. </bubble>
             <bubble type="speech" spNum="87" who="Woo Jin-Chul">
-                <unique ans="n"/> THE IMPORTANT FACT IS THAT YOU, SUNG JIN-WOO, SURVIVED.
-            </bubble>
+                <unique ans="n"/> THE IMPORTANT FACT IS THAT YOU, SUNG JIN-WOO, SURVIVED. </bubble>
             <bubble type="speech" spNum="88" who="Woo Jin-Chul">
-                <unique ans="n"/> SINCE HE'S AN S-RANK, THE LAW CAN'T REALLY BIND HIM EITHER.
-            </bubble>
+                <unique ans="n"/> SINCE HE'S AN S-RANK, THE LAW CAN'T REALLY BIND HIM EITHER. </bubble>
             <bubble type="speech" spNum="89" who="Woo Jin-Chul">
-                <unique ans="n"/> THEY'RE LIVING MIRACLES AND, AT THE SAME TIME, CALAMITIES.
-            </bubble>
+                <unique ans="n"/> THEY'RE LIVING MIRACLES AND, AT THE SAME TIME, CALAMITIES. </bubble>
             <bubble type="speech" spNum="90" who="Woo Jin-Chul">
-                <unique ans="n"/> IT'D BE IN YOUR INTEREST TO WATCH OUT FOR HIM.
-            </bubble>
+                <unique ans="n"/> IT'D BE IN YOUR INTEREST TO WATCH OUT FOR HIM. </bubble>
             <bubble type="speech" spNum="91" who="Woo Jin-Chul">
                 <unique ans="n"/> BECAUSE YOU MAY BE HUNTED BY SOMEONE WHO EVEN MONSTERS FEAR.
             </bubble>
         </page>
-        
+
         <pageBrk/>
-        
+
         <page pageNum="20">
             <bubble type="speech" spNum="92" who="Woo Jin-Chul">
-                <unique ans="n"/> IF POSSIBLE, LEAVING THE COUNTRY WITH YOUR LOVED ONES ISN'T A BAD IDEA.
-            </bubble>
+                <unique ans="n"/> IF POSSIBLE, LEAVING THE COUNTRY WITH YOUR LOVED ONES ISN'T A BAD
+                IDEA. </bubble>
             <systemMsg type="statSheet">
                 <info>STATUS</info>
                 <info>NAME: SUNG JIN-WOO</info>
@@ -471,17 +442,14 @@
                 <info>AGILITY +20, SENSE +20</info>
             </systemMsg>
             <bubble type="thought" thtNum="30" who="Sung Jin-Woo">
-                <unique ans="n"/> THREE HOURS LATER, DURING THE INVESTIGATION OF GANG TAE-SHIK'S MURDER,
-            </bubble>
+                <unique ans="n"/> THREE HOURS LATER, DURING THE INVESTIGATION OF GANG TAE-SHIK'S
+                MURDER, </bubble>
             <bubble type="thought" thtNum="31" who="Sung Jin-Woo">
-                <unique ans="n"/> THE GOLD BUISNESS'S CEO TURNED HIMSELF IN JUSTIFYING OUR ACTIONS.
-            </bubble>
+                <unique ans="n"/> THE GOLD BUISNESS'S CEO TURNED HIMSELF IN JUSTIFYING OUR ACTIONS. </bubble>
             <bubble type="speech" spNum="93" who="Lee Joo-Hee">
-                <unique ans="n"/> JIN-WOO.
-            </bubble>
+                <unique ans="n"/> JIN-WOO. </bubble>
             <bubble type="speech" spNum="94" who="Lee Joo-Hee">
-                <unique ans="n"/> DO YOU REMEMBER THIS?
-            </bubble>
+                <unique ans="n"/> DO YOU REMEMBER THIS? </bubble>
         </page>
     </body>
 </chapter>
