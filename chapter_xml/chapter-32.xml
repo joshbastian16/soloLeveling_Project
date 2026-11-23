@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="32">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Gang Tae-Shik">
+                <unique ans="y" uniNum="1"/> BY THEIR REACTIONS... YOU'VE BEEN REAWAKENED RECENTLY,
+                HUH. </bubble>
+            <caption type="thought" thtNum="1" who="Gang Tae-Shik">THINKING ABOUT IT, RECENTLY MY
+                BOSS DID GO TO SEE SOMEONE BECAUSE HE THOUGHT THEY REAWAKENED...</caption>
+            <bubble type="speech" spNum="2" who="Gang Tae-Shik">
+                <unique ans="n"/>ANYWAYS, IT SEEMS LIKE YOU HAVE LITTLE EXPERIENCE IN BEING A
+                HUNTER. </bubble>
+            <bubble type="speech" spNum="3" who="Gang Tae-Shik">
+                <unique ans="n"/> IN THAT CASE... </bubble>
+            <bubble type="speech" spNum="4" who="Gang Tae-Shik">
+                <unique ans="n"/> LET ME TEACH YOU A LESSON AS YOUR SUPERIOR </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="2"/> TELL ME, WHY DID YOU DO THIS? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="6" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT, THIS? </bubble>
+            <bubble type="speech" spNum="7" who="Gang Tae-Shik">
+                <unique ans="n"/> KILLING THE PRISONERS? </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> I MEAN EVERYTHING. </bubble>
+            <bubble type="speech" spNum="9" who="Gang Tae-Shik">
+                <unique ans="n"/> HOH~ </bubble>
+            <bubble type="speech" spNum="10" who="Gang Tae-Shik">
+                <unique ans="n"/> THAT'S A PRETTY DAMN SCARRY FACE YOU GOT THERE! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="11" who="Gang Tae-Shik">
+                <unique ans="n"/> LIGHTEN UP, IT'S NOT LIKE I'M DOING THIS FOR FUN. </bubble>
+            <bubble type="speech" spNum="12" who="Grieving Father">
+                <unique ans="y" uniNum="3"/> I HEARD THAT EVERYTHING THAT HAPPENS IN A DUNGEON STAYS
+                IN A DUNGEON. </bubble>
+            <bubble type="speech" spNum="13" who="Grieving Father">
+                <unique ans="n"/> THIS IS 2 BILLION WON. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="speech" spNum="14" who="Grieving Father">
+                <unique ans="n"/> I THINK YOU CAN UNDERSTAND WHAT I'M TRYING TO SAY.. </bubble>
+            <bubble type="speech" spNum="15" who="Grieving Father">
+                <unique ans="n"/> PLEASE, HUNTER, I BEG YOU... </bubble>
+            <bubble type="speech" spNum="16" who="Grieving Father">
+                <unique ans="n"/> PLEASE... KILL THOSE BASTARDS...! </bubble>
+            <bubble type="speech" spNum="17" who="Gang Tae-Shik">
+                <unique ans="n"/> IN ADDITION TO THIS MONEY, 1 BILLION MORE TO TAKE CARE OF THE
+                OTHER HUNTERS. IS THAT POSSIBLE FOR YOU? </bubble>
+            <bubble type="speech" spNum="18" who="Gang Tae-Shik">
+                <unique ans="n"/> BUT WHY ARE YOU DING THIS? </bubble>
+            <bubble type="speech" spNum="19" who="Gang Tae-Shik">
+                <unique ans="n"/> WHEN YOU FIND A PIECE OF TRASH IN THE STREETS, YOU FEEL
+                UNCOMFORTABLE, </bubble>
+            <bubble type="speech" spNum="20" who="Gang Tae-Shik">
+                <unique ans="n"/> BUT YOU DON'T PICK IT UP. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="21" who="Gang Tae-Shik">
+                <unique ans="n"/> WHY PICK THEM UP AND THROW THEM IN THE TRASH, THEN? </bubble>
+            <bubble type="speech" spNum="22" who="Grieving Father">
+                <unique ans="n"/> ONE OF THE PRISONERS YOU ARE RESPONSIBLE FOR TRAUMATIZED MY
+                DAUGHTER. </bubble>
+            <bubble type="speech" spNum="23" who="Grieving Father">
+                <unique ans="n"/> BECASUE OF THE, SHE HUNG HERSELF, </bubble>
+            <bubble type="speech" spNum="24" who="Grieving Father">
+                <unique ans="n"/> AND HER MOTHER IS STILL IN THE HOSPITAL FROM THE SHOCK. </bubble>
+            <bubble type="speech" spNum="25" who="Grieving Father">
+                <unique ans="n"/> THINKING ABOUT HOW THAT ANIMAL WILL FREELY ROAM THE STREETS AFTER
+                A FEW YEARS DESPITE WHAT HE'S DONE... </bubble>
+            <bubble type="speech" spNum="26" who="Grieving Father">
+                <unique ans="n"/> IT DOESN'T LET ME SLEEP AT NIGHT. </bubble>
+            <bubble type="speech" spNum="27" who="Gang Tae-Shik">
+                <unique ans="n"/> I UNDERSTAND. </bubble>
+            <bubble type="speech" spNum="28" who="Gang Tae-Shik">
+                <unique ans="n"/> I WILL PROVIDE AN ADAQUATE SERVICE WORTHY OF 3 BILLION WON, SO
+                DON'T WORRY. </bubble>
+            <bubble type="speech" spNum="29" who="Gang Tae-Shik">
+                <unique ans="n"/> I CAN'T JUST REFUSE A FATHER WHO'S DAUGHTER WAS MANHANDELED BY
+                THESE CRIMINALS. </bubble>
+            <bubble type="speech" spNum="30" who="Gang Tae-Shik">
+                <unique ans="n"/> I TRIED TO REFUSE BY RAISING THE PRICE, BUT HE ACCEPTED IT RIGHT
+                AWAY. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="speech" spNum="31" who="Gang Tae-Shik">
+                <unique ans="n"/> ALTHOUGH THINGS HAVE BECOME LIKE THIS, I DON'T WANT TO HURT YOU
+                GUYS. IF YOU PROMISE TO NOT SPEAK OF TODAY'S INCIDENT, I WILL LET YOU ALL GO. </bubble>
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> DUNNO... YOU MAY SAY THAT, BUT YOUR EXPRESSION TELLS ME THAT YOU
+                WANT TO TEACH US A LESSON AND SHOW US WHO'S SUPERIOR, NO? </bubble>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAD NO INTENTION OF BELIEVING OF YOUR WORDS IN THE FIRST PLACE. </bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S NO REASON TO BELIEVE SOMEONE WHO WAS CREATING RANDOM
+                STORIES ABOUT DEATHS MOMENTS AGO. </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="7">
+            <bubble type="speech" spNum="35" who="Gang Tae-Shik">
+                <unique ans="n"/> HEH, IT DOESN'T MATTER IF YOU BELIEVE ME OR NOT.
+            </bubble>
+            <bubble type="speech" spNum="36" who="Gang Tae-Shik">
+                <unique ans="n"/> IT'S JUST PITIFUL THAT ALL OF YOU WILL DIE ALONGSIDE THOSE INSECTS.
+            </bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> THEN YOU'RE DAMN PITIFUL AS WELL.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="8">
+            <bubble type="speech" spNum="38" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT? 
+            </bubble>
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo">
+                <unique ans="n"/> BECAUSE YOU WILL DIE SOON.
+            </bubble>
+            <bubble type="speech" spNum="40" who="Gang Tae-Shik">
+                <unique ans="n"/> I DON'T KNOW HOW MANY RANKS YOU ROSE SINCE E-RANK, BUT IT WON'T BE AS EASY AS YOU THINK!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="9">
+            <bubble type="speech" spNum="41" who="Gang Tae-Shik">
+                <unique ans="n"/> SLOW.
+            </bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> PRETTY FAST...
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="10">
+            <bubble type="speech" spNum="43" who="Song Chi-Yeol">
+                <unique ans="y" uniNum="4"/> HOW CAN THEY MOVE LIKE THIS...!
+            </bubble>
+            <bubble type="speech" spNum="44" who="Song Chi-Yeol">
+                <unique ans="n"/> HE REALLY IS NO LONGER THE MR. SUNG I KNOW...
+            </bubble>
+            <bubble type="speech" spNum="45" who="Gang Tae-Shik">
+                <unique ans="n"/> HEY, HEY, 3 BILLION WON IS TOO LITTLE FOR THIS JOB NOW!
+            </bubble>
+            <bubble type="speech" spNum="46" who="Gang Tae-Shik">
+                <unique ans="n"/> WHO WOULD'VE THOUGHT I'D MEET A HUNTER AT THIS LEVEL HERE!
+            </bubble>
+            <bubble type="thought" thtNum="2" who="Gang Tae-Shik">
+                <unique ans="n"/> OUR SPEED'S ARE THE SAME!
+            </bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> OUR SPEED'S ARE THE SAME!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="11">
+            <bubble type="speech" spNum="47" who="Gang Tae-Shik">
+                <unique ans="n"/> IS THIS YOUR FASTEST SPEED?!
+            </bubble>
+            <bubble type="speech" spNum="48" who="Gang Tae-Shik">
+                <unique ans="n"/> EVEN IF YOUR EYES CAN CATCH UP, IF YOUR BODY CAN'T, THEN IT'S USELESS!
+            </bubble>
+            <bubble type="speech" spNum="49" who="Lee Joo-Hee">
+                <unique ans="y" uniNum="5"/> JIN-WOO!
+            </bubble>
+            <bubble type="speech" spNum="50" who="Lee Joo-Hee">
+                <unique ans="n"/> STAY STRONG!!
+            </bubble>
+            <caption type="thought" thtNum="4" who="Gang Tae-Shik">HASTE AND BURN BOOSTER.</caption>
+            <caption type="thought" thtNum="5" who="Gang Tae-Shik">I CAN'T PLAY AROUND ANYMORE.</caption>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="12"/>
+        
+        <pageBrk/>
+        
+        <page pageNum="13">
+            <bubble type="thought" thtNum="6" who="Gang Tae-Shik">
+                <unique ans="n"/> EVEN IF WE HAVE SIMILAR SPECS AND SKILLS, OUR DIFFERENCE IN EXPERIENCE IS TOO VAST.
+            </bubble>
+            <bubble type="thought" thtNum="7" who="Gang Tae-Shik">
+                <unique ans="n"/> AND THAT DIFFERENCE WILL LEAD TO YOUR DEFEAT.
+            </bubble>
+            <bubble type="speech" spNum="51" who="Gang Tae-Shik">
+                <unique ans="n"/> IF YOU'RE GONNA PROTECT YOUR HEALER, THEN DO IT RIGHT.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="14">
+            <bubble type="speech" spNum="52" who="Lee Joo-Hee">
+                <unique ans="n"/> JIN-WOO!!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <bubble type="speech" spNum="53" who="Gang Tae-Shik">
+                <unique ans="n"/> HOH~ YOU'RE PRETTY DURABLE, EH?
+            </bubble>
+            <bubble type="speech" spNum="54" who="Sung Jin-Woo">
+                <unique ans="n"/> SORRY, BUT CAN YOU LOWER YOUR KILLING INTENT PLEASE?
+            </bubble>
+            <systemMsg type="information">
+                <info>[AN EMERGENCY QUEST HAS ACTIVATED.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="55" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S SENSITIVE TO KILLING INTENT.
+            </bubble>
+            <bubble type="speech" spNum="56" who="Sung Jin-Woo">
+                <unique ans="n"/> THE SYSTEM ACTIVATED ON IT'S OWN AGAIN.
+            </bubble>
+            <systemMsg type="information">
+                <info>QUEST DIRECTIONS</info>
+                <info>[EMERGENCY QUEST: EXTERMINATION]</info>
+                <info>THERE ARE 'PLAYERS' WHO HAVE KILLING INTENT TOWARDS YOU IN CLOSE PROXIMITY.</info>
+                <info>SLAY THEM AND ENSURE YOUR SAFETY.</info>
+                <info>IF THIS QUEST IS NOT COMPLETED, YOUR HEART WILL STOP.</info>
+                <info>NUMBER OF PALYERS TO KILL: 1</info>
+                <info>NUMBER OF PLAYERS KILLED: 0</info>
+            </systemMsg>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <bubble type="speech" spNum="57" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M COMING.
+            </bubble>
+            <bubble type="thought" thtNum="8" who="Gang Tae-Shik">
+                <unique ans="n"/> I'M HOLDING THE ADVANTAGE...
+            </bubble>
+            <bubble type="thought" thtNum="9" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT IS HE THINKING?
+            </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 16 PAGES, 57 INSTANCES OF SPEECH, 9 INSTANCES OF THOUGHT, 5 UNIQUE SPEAKERS -->
+<!-- NEW ITEMS: NONE
+     STATS UPDATE: NONE
+     NEW SKILLS: NONE
+     LEVEL UPDATE: NONE, CURRENT LEVEL: UNKNOWN-->

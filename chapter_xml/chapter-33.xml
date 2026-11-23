@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="33">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> I'M COMING. </bubble>
+            <bubble type="thought" thtNum="1" who="Gang Tae-Shik">
+                <unique ans="y" uniNum="2"/> I'M HOLDING THE ADVANTAGE... </bubble>
+            <bubble type="thought" thtNum="2" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT IS HE THINKING? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M ACTUALLY THANKFUL FOR THE SYSTEM FOR ONCE. </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S GIVEN ME ANOTHER REASON FOR ME TO KILL YOU. </bubble>
+            <bubble type="speech" spNum="4" who="Gang Tae-Shik">
+                <unique ans="n"/> A CLASS THAT SPECIALIZES IN DAGGERS AND AGILITY. </bubble>
+            <bubble type="speech" spNum="5" who="Gang Tae-Shik">
+                <unique ans="n"/> A CLOSE-RANGED DAMAGE DEALER PRIMED IN ASSASSINATION. </bubble>
+            <bubble type="speech" spNum="6" who="Gang Tae-Shik">
+                <unique ans="n"/> AREN'T I THE BEST COUNTER TO YOU? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> YEAH, I'M CERTAINLY LEARNING A LOT FROM YOU. </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> INCLUDING THE FACT THAT TALKATIVE GUYS IN BATTLE ARE GENERALLY
+                USELESS. </bubble>
+            <systemMsg type="skill">
+                <info>[SKILL: SPRINT ACTIVATED]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>-MOVEMENT SPEED WILL INCREASE BY 30%.</info>
+                <info>-1 MANA WIL BE CONSUMED EVERY MINUTE.</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="3" who="Gang Tae-Shik">
+                <unique ans="n"/> HE BECAME FASTER?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="thought" thtNum="4" who="Gang Tae-Shik">
+                <unique ans="n"/> DOES HE USE SKILLS AS WELL? </bubble>
+            <systemMsg type="information">
+                <info>[EFFECT: PARALYSIS HAS ACTIVATED.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[EFFECT: BLEED HAS ACTIVATED.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOUR HEALTH WILL NOW DECREASE BY 1% PER SECOND.]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="5" who="Gang Tae-Shik">
+                <unique ans="n"/> POISON?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="9" who="Gang Tae-Shik">
+                <unique ans="n"/> I SEE. IT'S YOUR DAGGER. </bubble>
+            <bubble type="speech" spNum="10" who="Gang Tae-Shik">
+                <unique ans="n"/> LOOKS LIKE IT CAN APPLY SOME INTERSTING EFFECTS. </bubble>
+            <systemMsg type="information">
+                <info>[THE ENEMY'S RESISTANCE WAS TOO HIGH,</info>
+                <info>THE EFFECT WAS CANCELLED.]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> THE EFFECT WON'T LAST LONG SINCE THE OPPONENT IS STRONG. </bubble>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> NOT BAD. </bubble>
+            <bubble type="speech" spNum="12" who="Gang Tae-Shik">
+                <unique ans="n"/> ALLOW ME TO SHOW YOU SOMETHING FUN AS WELL. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT? </bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> HIS PRESENCE IS GONE. </bubble>
+            <bubble type="speech" spNum="13" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU ACTUALLY BLOCKED THE ATTACK DESPITE ME HIDING MY PRESENCE. </bubble>
+            <bubble type="speech" spNum="14" who="Gang Tae-Shik">
+                <unique ans="n"/> YOUR SENSE IS PRETTY GREAT. </bubble>
+            <bubble type="speech" spNum="15" who="Gang Tae-Shik">
+                <unique ans="n"/> SKILL: 'CAMOUFLAGE'. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="speech" spNum="16" who="Gang Tae-Shik">
+                <unique ans="n"/> I ERASE MY SHAPE, SMELL, SOUND, AND EVEN MY AURA. </bubble>
+            <bubble type="speech" spNum="17" who="Gang Tae-Shik">
+                <unique ans="n"/> ONLY A MINUSCULE AMOUNT OF ASSASSINS EARN THE RARE SKILL. </bubble>
+            <bubble type="speech" spNum="18" who="Gang Tae-Shik">
+                <unique ans="n"/> THAT BEING SAID, NO ONE ELSE KNOWS THAT I HAVE THIS CAMOUFLAGE
+                SKILL. THE REASON BEING... </bubble>
+            <bubble type="speech" spNum="19" who="Gang Tae-Shik">
+                <unique ans="n"/> NO ONE HAS EVER SURVIVED AFTER SEEING THIS SKILL OF MINE. </bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> GAAAH! </bubble>
+            <bubble type="speech" spNum="21" who="Gang Tae-Shik">
+                <unique ans="n"/> YOUR TENDONS ARE SEVERED. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="speech" spNum="22" who="Gang Tae-Shik">
+                <unique ans="n"/> IT WOULD HEAL QUICKLY IF YOU WERE DIRECTLY HEALED, BUT ONLY BASIC
+                HEALING SPELLS WOULD WORK OVER THIS DISTANCE. </bubble>
+            <bubble type="speech" spNum="23" who="Lee Joo-Hee">
+                <unique ans="y" uniNum="3"/> JIN-WOO!! </bubble>
+            <bubble type="speech" spNum="24" who="Gang Tae-Shik">
+                <unique ans="n"/> DON'T TRY ANYTHING AND STAY WHERE YOU ARE. </bubble>
+            <bubble type="speech" spNum="25" who="Gang Tae-Shik">
+                <unique ans="n"/> I WILL COME WHEN IT'S YOUR TURN. </bubble>
+            <bubble type="thought" thtNum="9" who="Song Chi-Yeol">
+                <unique ans="y" uniNum="4"/> IF IT KEEPS GOING LIKE THIS, MR. SUNG'S STAMINA WILL
+                RUN OUT FIRST. </bubble>
+            <bubble type="speech" spNum="26" who="Song Chi-Yeol">
+                <unique ans="n"/> I CAN'T EVEN ASK FOR OUTSIDE HELP... </bubble>
+            <bubble type="thought" thtNum="10" who="Song Chi-Yeol">
+                <unique ans="n"/> I CAN'T HELP MR. SUNG WITH MY OWN SKILLS, BUT </bubble>
+            <bubble type="thought" thtNum="11" who="Song Chi-Yeol">
+                <unique ans="n"/> I MUST BUT ENOUGH TIME FOR HIM TO GET HEALED...! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="speech" spNum="27" who="Gang Tae-Shik">
+                <unique ans="n"/> CAN YOU EVEN WITHSTAND MY ATTACKS WITH THAT FRAIL BODY OF YOURS?
+                YOU WON'T BE ABLE TO REACH THE SPEED YOU USED TO HAVE, AT LEAST. </bubble>
+            <bubble type="speech" spNum="28" who="Gang Tae-Shik">
+                <unique ans="n"/> HOW MANY MINUTES UNTIL YOUR WOUNDS HEAL? YOUR LEG... </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU. </bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU TALK TO MUCH. </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> STATUS RECOVERY. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="thought" thtNum="12" who="Gang Tae-Shik">
+                <unique ans="n"/> ?! </bubble>
+            <bubble type="thought" thtNum="13" who="Gang Tae-Shik">
+                <unique ans="n"/> HE HEALED INSTANTLY?! </bubble>
+            <bubble type="thought" thtNum="14" who="Gang Tae-Shik">
+                <unique ans="n"/> WAS HE NOT AN ASSASSIN TYPE? </bubble>
+            <bubble type="thought" thtNum="15" who="Gang Tae-Shik">
+                <unique ans="n"/> AN OFFENSE CLASS HUNTER WITH HEALING SPELLS ACTUALLY EXISTS?! </bubble>
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> RELYING ON THIS ALONE DEFINITELY HAS ITS LIMITATIONS... I GOTTA
+                THINK OF OTHER SOLUTIONS AS WELL. </bubble>
+            <bubble type="thought" thtNum="16" who="Gang Tae-Shik">
+                <unique ans="n"/> A TRICK? </bubble>
+            <bubble type="thought" thtNum="17" who="Gang Tae-Shik">
+                <unique ans="n"/> OR PERHAPS FAKED CONFIDENCE? </bubble>
+            <bubble type="thought" thtNum="18" who="Gang Tae-Shik">
+                <unique ans="n"/> HOW MANY TIMES CAN HE USE THAT SPELL? </bubble>
+            <bubble type="thought" thtNum="19" who="Gang Tae-Shik">
+                <unique ans="n"/> I CAN'T TELL. </bubble>
+            <bubble type="thought" thtNum="20" who="Gang Tae-Shik">
+                <unique ans="n"/> HE'S DANGEROUS. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <caption type="thought" thtNum="21" who="Sung Jin-Woo">AGAIN</caption>
+            <caption type="thought" thtNum="22" who="Sung Jin-Woo">ONE OF MY EMOTIONS
+                DIED.</caption>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN ANGER ITSELF IS A WASTE ON THE LIKES OF YOU. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="thought" thtNum="23" who="Gang Tae-Shik">
+                <unique ans="n"/> HE SAW THROUGH MY CAMOUFLAGE AGAIN?! </bubble>
+            <bubble type="speech" spNum="34" who="Gang Tae-Shik">
+                <unique ans="n"/> THERE'S NO HESITATION WHEN YOU AIM FOR MY NECK. </bubble>
+            <bubble type="speech" spNum="35" who="Gang Tae-Shik">
+                <unique ans="n"/> I SEE... </bubble>
+            <bubble type="speech" spNum="36" who="Gang Tae-Shik">
+                <unique ans="n"/> I FINALLY KNOW THE TRUE DIFFERENCE BETWEEN YOU AND THEM. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="37" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU, YOU'VE KILLED BEFORE, HUH? </bubble>
+            <bubble type="speech" spNum="38" who="Gang Tae-Shik">
+                <unique ans="n"/> HAHA, WE'RE FROM THE SAME SPECIES AFTER ALL? </bubble>
+            <bubble type="thought" thtNum="24" who="Song Chi-Yeol">
+                <unique ans="n"/> I SEE. </bubble>
+            <bubble type="thought" thtNum="25" who="Song Chi-Yeol">
+                <unique ans="n"/> THERE ARE MANY WAYS OF LIFE AND DEATH. </bubble>
+            <bubble type="thought" thtNum="26" who="Song Chi-Yeol">
+                <unique ans="n"/> THE DETERMINATION TO CHANGE HIS DESTINY EVEN WITH HIS LIFE... </bubble>
+            <bubble type="thought" thtNum="27" who="Song Chi-Yeol">
+                <unique ans="n"/> HE WAS FORCED TO MAKE A DIFFICULT DECISION IN SUCH A SHORT SPAN OF
+                TIME. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="thought" thtNum="28" who="Song Chi-Yeol">
+                <unique ans="n"/> LOOKS LIKE HIS APPEARNCE WASN'T THE ONLY PART OF HIM THAT CHANGED. </bubble>
+            <bubble type="speech" spNum="39" who="Gang Tae-Shik">
+                <unique ans="n"/> AWAKENING. SUCH AN UNEXPECTED POWER CAHNGED THE RULES OF SOCIETY. </bubble>
+            <bubble type="speech" spNum="40" who="Gang Tae-Shik">
+                <unique ans="n"/> NEW EXCLUSIVE RULERS FOR HUNTERS WERE CREATED. </bubble>
+            <bubble type="speech" spNum="41" who="Gang Tae-Shik">
+                <unique ans="n"/> THERE'S NO NEED TO BE SHACKLED BY LAWS OR MORALS. </bubble>
+            <bubble type="speech" spNum="42" who="Gang Tae-Shik">
+                <unique ans="n"/> THE WORDS OF THE STRONG ARE THE LAW. </bubble>
+            <bubble type="speech" spNum="43" who="Gang Tae-Shik">
+                <unique ans="n"/> AND THEREFORE I'M GOING TO UNLEASH MY FULL POWER. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <bubble type="thought" thtNum="29" who="Gang Tae-Shik">
+                <unique ans="n"/> YEAH. </bubble>
+            <bubble type="thought" thtNum="30" who="Gang Tae-Shik">
+                <unique ans="n"/> I THINK I KNOW HOW HE SAW THROUGH MY CAMOUFLAGE. </bubble>
+            <bubble type="thought" thtNum="31" who="Gang Tae-Shik">
+                <unique ans="n"/> CAMOUFLAGING MAY HIDE MY PRESENCE WHEN ACTIVATED, BUT WHEN I
+                ATTACK WITH HIGH KILLING INTENT, MY PRESENCE IS EXPOSED FOR THE FRACTION OF A
+                SECOND. </bubble>
+            <bubble type="thought" thtNum="32" who="Gang Tae-Shik">
+                <unique ans="n"/> HE'S WAITING FOR THAT MOMENT. </bubble>
+            <bubble type="thought" thtNum="33" who="Gang Tae-Shik">
+                <unique ans="n"/> EVEN THEN, THERE'S NO WAY HE'D KNOE WHERE EXACTLY I'D ATTACK. </bubble>
+            <bubble type="thought" thtNum="34" who="Gang Tae-Shik">
+                <unique ans="n"/> I HAVE TO BREAK THE FLOW. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <systemMsg type="skill">
+                <info>[SKILL: KILLING INENT WAS ACTIVATED.]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="35" who="Gang Tae-Shik">
+                <unique ans="n"/> ?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="17">
+            <bubble type="speech" spNum="44" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT IS TH... </bubble>
+            <bubble type="thought" thtNum="36" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT? </bubble>
+            <bubble type="thought" thtNum="37" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT IS THIS? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="18">
+            <caption type="thought" thtNum="38" who="Gang Tae-Shik">THE DARKNESS THAT COVERS MY
+                EYES...</caption>
+            <caption type="thought" thtNum="39" who="Gang Tae-Shik">IS THAT HIS SHADOW?</caption>
+        </page>
+
+
+        <pageBrk/>
+
+        <page pageNum="19">
+            <bubble type="speech" spNum="45" who="Gang Tae-Shik">
+                <unique ans="n"/> Y... YOU, WHAT...! </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 19 PAGES, 45 INSTANCES OF SPEECH, 39 INSTANCES OF THOUGHT, 4 UNIQUES SPEAKERS-->
+<!-- NEW ITEMS: NONE
+     STAT UPDATE: NONE
+     NEW SKILLS: NONE
+     LEVELS GAINED: NONE, CURRENT LEVEL: UNKNOWN.-->

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="30">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Gang Tae-Shik">
+                <unique ans="y" uniNum="1"/> HMM... </bubble>
+            <bubble type="speech" spNum="2" who="Gang Tae-Shik">
+                <unique ans="n"/> OUR CUTIES MADE A NUISANCE THEMSELVES, HUH? </bubble>
+            <bubble type="speech" spNum="3" who="Gang Tae-Shik">
+                <unique ans="n"/> THE JOB WAS TO KILL WITH AS MUCH PAIN INFLICTED AS POSSIBLE. DID I
+                WRECK THEM TOO QUICKLY...? </bubble>
+            <bubble type="speech" spNum="4" who="Gang Tae-Shik">
+                <unique ans="n"/> WELL, IT WAS FUN WATCHING YOU ALL CRYING FOR HELP WITH YOUR GUTS
+                SEEPING OUT. </bubble>
+            <bubble type="speech" spNum="5" who="Gang Tae-Shik">
+                <unique ans="n"/> BUT WHAT CAN I DO? </bubble>
+            <bubble type="speech" spNum="6" who="Gang Tae-Shik">
+                <unique ans="n"/> THEY'RE TELLING ME TO KILL YOU QUICKLY. </bubble>
+            <bubble type="speech" spNum="7" who="Prisoner2">
+                <unique ans="y" uniNum="2"/> PL... PLEASE DON'T KILL ME... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="8" who="unNamed Survivor">
+                <unique ans="y" uniNum="3"/> THE ONES WHO WENT IN THE OTHER DIRECTION DIDN'T FINISH
+                YET, RIGHT? </bubble>
+            <bubble type="speech" spNum="9" who="unNamed Survivor">
+                <unique ans="n"/> HUH? </bubble>
+            <bubble type="speech" spNum="10" who="Kim Sang-Shik">
+                <unique ans="y" uniNum="4"/> TH... THIS...! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="11" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT? </bubble>
+            <bubble type="speech" spNum="12" who="Gang Tae-Shik">
+                <unique ans="n"/> WHY ARE YOU TWO APPEARING FROM THERE? </bubble>
+            <bubble type="speech" spNum="13" who="Gang Tae-Shik">
+                <unique ans="n"/> SO THE PATHWAYS WERE CONNECTED, HUH. </bubble>
+            <bubble type="speech" spNum="14" who="Gang Tae-Shik">
+                <unique ans="n"/> THAT MEANS THE WAY TO THE BOSS ROOM IS TO THE LEFT. NOW I DON'T
+                HAVE TO ROAM AROUND AIMLESSLY. </bubble>
+            <bubble type="speech" spNum="15" who="Gang Tae-Shik">
+                <unique ans="n"/> MY SCHEDULE'S CAHNGED A LITTLE... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="speech" spNum="16" who="others">
+                <unique ans="n"/> AAAAAAAHHHH </bubble>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="5"/> EXTREME KILLING INTENT?! </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> MR. SONG CHI-YEOL, LETS GO BACK! </bubble>
+            <bubble type="speech" spNum="18" who="Song Chi-Yeol">
+                <unique ans="y" uniNum="6"/> YEAH, LETS GO! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="19" who="Gang Tae-Shik">
+                <unique ans="n"/> HOH. PRETTY FAST, HUH? </bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT ARE YOU DOING? </bubble>
+            <caption type="thought" thtNum="2" who="Gang Tae-Shik">HE BLOCKED MY AMBUSH?</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="thought" thtNum="3" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT KIND OF STRENGTH...?! </bubble>
+            <bubble type="speech" spNum="21" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU ACTUALLY STOPPED THAT? </bubble>
+            <bubble type="speech" spNum="22" who="Gang Tae-Shik">
+                <unique ans="n"/> YOUR SENSES ARE PRETTY SHARP. </bubble>
+            <bubble type="speech" spNum="23" who="Gang Tae-Shik">
+                <unique ans="n"/> EVEN IF MY ORDERS WERE NOT TO GET INTO FIGHTS WITH OTTHERS, IT
+                LOOKED LIKE THAT B-RANK HEALER WAS GOING TO BE A NUISANCE, SO I TRIED TO REMOVE HER
+                FIRST, BUT... I GUESS I'LL HAVE TO CHANGE THE PLAN </bubble>
+            <bubble type="speech" spNum="24" who="Lee Joo-Hee">
+                <unique ans="y" uniNum="7"/> W... WHAT IS THIS? SUDDENLY... </bubble>
+            <bubble type="speech" spNum="25" who="Gang Tae-Shik">
+                <unique ans="n"/> I'M GOING TO KILL YOU ALL. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="speech" spNum="26" who="Gang Tae-Shik">
+                <unique ans="n"/> JUST LIKE THEM. </bubble>
+            <bubble type="speech" spNum="27" who="Song Chi-Yeol">
+                <unique ans="n"/> W-WAIT! WHY IS A GUILD MEMBER DOING THIS?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="speech" spNum="28" who="Mrs. Sang-Shik">
+                <unique ans="y" uniNum="8"/> DEAR </bubble>
+            <bubble type="speech" spNum="29" who="Kim Sang-Shik">
+                <unique ans="n"/> YES? </bubble>
+            <bubble type="speech" spNum="30" who="Mrs. Sang-Shik">
+                <unique ans="n"/> YOU HUNTER JOB... CAN'T YOU QUIT IT? </bubble>
+            <bubble type="speech" spNum="31" who="Kim Sang-Shik">
+                <unique ans="n"/> AGAIN WITH THIS? </bubble>
+            <bubble type="speech" spNum="32" who="Mrs. Sang-Shik">
+                <unique ans="n"/> IT'S TOO DANGEROUS. </bubble>
+            <bubble type="speech" spNum="33" who="Kim Sang-Shik">
+                <unique ans="n"/> BUT WHAT ELSE CAN WE DO IN THIS ERA OF NATIONAL DEPRESSION? </bubble>
+            <bubble type="speech" spNum="34" who="Mrs. Sang-Shik">
+                <unique ans="n"/> HAVEN'T YOU THOUGHT ABOUTTHOSE WAITING FOR SOMEONE WHO MIGHT NEVER
+                RETURN? </bubble>
+            <bubble type="speech" spNum="35" who="Kim Sang-Shik">
+                <unique ans="n"/> ... STILL BETTER THAN EARNING MEAGER AMOUNTS IN SOME CONSTRUCTION
+                SITE. </bubble>
+            <bubble type="speech" spNum="36" who="Kim Sang-Shik">
+                <unique ans="n"/> THE HUNTER'S GUILD WON'T ORDER US LOW-TIERS TO RAID HIGH-LEVELLED
+                DUNGEONS. </bubble>
+            <bubble type="speech" spNum="37" who="Mrs. Sang-Shik">
+                <unique ans="n"/> ... </bubble>
+            <bubble type="speech" spNum="38" who="Mrs. Sang-Shik">
+                <unique ans="n"/> ALRIGHT. CONSIDERING HOW OUR FIRST CHILD WILL GO TO MIDDLE SCHOOL
+                NEXT YEAR AND THE SECOND WILL ATTEND PRESCHOOL... SORRY FOR BRINGING THIS UP AGAIN. </bubble>
+            <bubble type="speech" spNum="39" who="Kim Sang-Shik">
+                <unique ans="n"/> DON'T WORRY. I KNOW~ </bubble>
+            <bubble type="speech" spNum="40" who="Mrs. Sang-Shik">
+                <unique ans="n"/> STAY STRONG FOR A LITTLE WHILE, OKAY? </bubble>
+            <bubble type="speech" spNum="41" who="Kim Sang-Shik">
+                <unique ans="n"/> ALRIGHT, I LOVE YOU. </bubble>
+            <bubble type="speech" spNum="42" who="Little Sang-Shik">
+                <unique ans="y" uniNum="9"/> DAD. </bubble>
+            <bubble type="speech" spNum="43" who="Kim Sang-Shik">
+                <unique ans="n"/> HMM? </bubble>
+            <bubble type="speech" spNum="44" who="Little Sang-Shik">
+                <unique ans="n"/> WHY ARE YOU A HUNTER? </bubble>
+            <bubble type="speech" spNum="45" who="Kim Sang-Shik">
+                <unique ans="n"/> HAHA, OUR SECOND CHILD IS ASKING RANDOM QUEDSTIONS NOW? </bubble>
+            <bubble type="speech" spNum="46" who="Little Sang-Shik">
+                <unique ans="n"/> THE OTHER KIDS ARE ALL FASCINATED ABOUT HOW MY DAD'S A HUNTER.
+                DAD, DOES THAT MEAN YOU'RE STRONGER THAN ALL THE OTHER DADS? </bubble>
+            <bubble type="speech" spNum="47" who="Kim Sang-Shik">
+                <unique ans="n"/> OF COURSE DADDY CAN TAKE DOWN EVEN MONSTERS! </bubble>
+            <bubble type="speech" spNum="48" who="Little Sang-Shik">
+                <unique ans="n"/> WOW, DADDY'S AS POWERFUL AS I THOUGHT! </bubble>
+            <bubble type="speech" spNum="49" who="Kim Sang-Shik">
+                <unique ans="n"/> YEAH, DADDY'S STRONG. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="speech" spNum="50" who="Kim Sang-Shik">
+                <unique ans="n"/> ONLY ONE OUT OF 1000 WERE AWAKENED, AND ONLY ONE OUT OF 5000
+                AWAKENERS WERE ABOVE D-RANK OR HIGHER. MANY LIVES REST ON OUR SHOULDERS... </bubble>
+            <bubble type="speech" spNum="51" who="Kim Sang-Shik">
+                <unique ans="n"/> 1 OUT OF 5000. </bubble>
+            <bubble type="speech" spNum="52" who="Kim Sang-Shik">
+                <unique ans="n"/> EVEN THOUGH I'M A HUNTER... </bubble>
+            <bubble type="speech" spNum="53" who="Kim Sang-Shik">
+                <unique ans="n"/> I ALSO KNOW THAT I'M JUST A HUSBAND TO MY WIFE, AND A FATHER TO MY
+                KIDS. </bubble>
+            <bubble type="speech" spNum="54" who="Kim Sang-Shik">
+                <unique ans="n"/> SO... </bubble>
+            <bubble type="speech" spNum="55" who="Kim Sang-Shik">
+                <unique ans="n"/> I CAN'T DIE TODAY. </bubble>
+            <bubble type="speech" spNum="56" who="Kim Sang-Shik">
+                <unique ans="n"/> AND NOT TOMORROW... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="57" who="Kim Sang-Shik">
+                <unique ans="n"/> I CAN'T... </bubble>
+            <bubble type="speech" spNum="58" who="Kim Sang-Shik">
+                <unique ans="n"/> I CAN'T DIE. </bubble>
+            <bubble type="speech" spNum="59" who="Sung Jin-Woo">
+                <unique ans="n"/> MR. KIM SANG-SHIK...? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="speech" spNum="60" who="Sung Jin-Woo">
+                <unique ans="n"/> MISS JU-HEE, HEAL... </bubble>
+            <bubble type="speech" spNum="61" who="Sung Jin-Woo">
+                <unique ans="n"/> HURRY UP AND HEAL HIM!! </bubble>
+            <bubble type="speech" spNum="62" who="Lee Joo-Hee">
+                <unique ans="n"/> O... OKAY! </bubble>
+            <bubble type="speech" spNum="63" who="Kim Sang-Shik">
+                <unique ans="n"/> KUK! </bubble>
+            <bubble type="speech" spNum="64" who="Kim Sang-Shik">
+                <unique ans="n"/> HUK... </bubble>
+            <bubble type="speech" spNum="65" who="Kim Sang-Shik">
+                <unique ans="n"/> NO... YOU... </bubble>
+            <bubble type="speech" spNum="66" who="Kim Sang-Shik">
+                <unique ans="n"/> CAN'T... </bubble>
+            <bubble type="speech" spNum="67" who="Kim Sang-Shik">
+                <unique ans="n"/> SAVE ME ANYWAYS... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="speech" spNum="68" who="Kim Sang-Shik">
+                <unique ans="n"/> YOU... </bubble>
+            <bubble type="speech" spNum="69" who="Kim Sang-Shik">
+                <unique ans="n"/> CAN STOP... </bubble>
+            <bubble type="speech" spNum="70" who="Kim Sang-Shik">
+                <unique ans="n"/> I.. </bubble>
+            <bubble type="speech" spNum="71" who="Kim Sang-Shik">
+                <unique ans="n"/> LOST... </bubble>
+            <bubble type="speech" spNum="72" who="Kim Sang-Shik">
+                <unique ans="n"/> TOO MUCH BLOOD. </bubble>
+            <bubble type="speech" spNum="73" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU HAVE TO LIVE </bubble>
+            <bubble type="speech" spNum="74" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU SAID YOU HAD TO LIVE FOR YOUR FAMILY! </bubble>
+            <bubble type="speech" spNum="75" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU HAVE TOO... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="76" who="Sung Jin-Woo">
+                <unique ans="n"/> LIVE NO MATTER WHAT... </bubble>
+            <bubble type="speech" spNum="77" who="Sung Jin-Woo">
+                <unique ans="n"/> SO THAT... I CAN HATE YOU... </bubble>
+            <bubble type="speech" spNum="78" who="Kim Sang-Shik">
+                <unique ans="n"/> I'M SORRY... </bubble>
+            <bubble type="speech" spNum="79" who="Kim Sang-Shik">
+                <unique ans="n"/> I REALLY AM. </bubble>
+            <bubble type="speech" spNum="80" who="Kim Sang-Shik">
+                <unique ans="n"/> I... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="speech" spNum="81" who="Kim Sang-Shik">
+                <unique ans="n"/> DIDN'T WANT TO APOLOGISE LIKE THIS. </bubble>
+            <bubble type="speech" spNum="82" who="Kim Sang-Shik">
+                <unique ans="n"/> I WANTED TO APOLOGIZE WITH MY HEAD DOWN... </bubble>
+            <bubble type="speech" spNum="83" who="Kim Sang-Shik">
+                <unique ans="n"/> IF I... </bubble>
+            <bubble type="speech" spNum="84" who="Kim Sang-Shik">
+                <unique ans="n"/> PUT MY HEAD DOWN NOW... </bubble>
+            <bubble type="speech" spNum="85" who="Kim Sang-Shik">
+                <unique ans="n"/> I'D... </bubble>
+            <bubble type="speech" spNum="86" who="Kim Sang-Shik">
+                <unique ans="n"/> DIE... </bubble>
+            <bubble type="speech" spNum="87" who="Kim Sang-Shik">
+                <unique ans="n"/> KUK </bubble>
+            <bubble type="speech" spNum="88" who="Kim Sang-Shik">
+                <unique ans="n"/> HUK </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <bubble type="speech" spNum="89" who="Kim Sang-Shik">
+                <unique ans="n"/> MR SUNG... I'M SORRY. </bubble>
+            <bubble type="speech" spNum="90" who="Kim Sang-Shik">
+                <unique ans="n"/> REALLY SORRY... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <bubble type="speech" spNum="91" who="Sung Jin-Woo">
+                <unique ans="n"/> WHY DID YOU DO THAT TO MR. KIM SANG-SHIK? </bubble>
+            <bubble type="speech" spNum="92" who="Gang Tae-Shik">
+                <unique ans="n"/> DUNNO. </bubble>
+            <bubble type="speech" spNum="93" who="Gang Tae-Shik">
+                <unique ans="n"/> COULD'VE BEEN MONSTERS. </bubble>
+            <bubble type="speech" spNum="94" who="Gang Tae-Shik">
+                <unique ans="n"/> ONE DAY A GATE OPENED AND MONSTERS OVERRAN THE HUNTERS. </bubble>
+            <bubble type="speech" spNum="95" who="Gang Tae-Shik">
+                <unique ans="n"/> IT'S LIKE A NATURAL CATASTROPHE. </bubble>
+            <bubble type="speech" spNum="96" who="Gang Tae-Shik">
+                <unique ans="n"/> I THOUGHT OF A GOOD STORY JUST NOW, </bubble>
+            <bubble type="speech" spNum="97" who="Gang Tae-Shik">
+                <unique ans="n"/> IT USED TO BE A MASSACRE STORY WITH THE GOBLINS, BUT I GUESS I
+                SHOULD CHANGE IT UP A LITTLE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="17">
+            <bubble type="speech" spNum="98" who="Gang Tae-Shik">
+                <unique ans="n"/> THE CRIMINALS BROKE FREE AND TRIED TO ESCAPE. </bubble>
+            <bubble type="speech" spNum="99" who="Gang Tae-Shik">
+                <unique ans="n"/> AFTER KILLING ALL OF YOU, THEY TRIED TO ATTACK ME, WHO WAS BUSY
+                FIGHTING THE BOSS. </bubble>
+            <bubble type="speech" spNum="100" who="Gang Tae-Shik">
+                <unique ans="n"/> BUT IT WAS TOO MUCH FOR THEM TO KILL THE B-RANK HUNTER, GANG
+                TAE-SHIK, AND THEREFORE I WAS THE ONLY ONE WHO SURVIVED THE RAID </bubble>
+            <bubble type="speech" spNum="101" who="Gang Tae-Shik">
+                <unique ans="n"/> HOW ABOUT IT? THE PEOPLE OUTSIDE WOULD BELIEVE THIS STORY, RIGHT? </bubble>
+            <bubble type="speech" spNum="102" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU PIECE OF SHIT... </bubble>
+            <bubble type="speech" spNum="103" who="Song Chi-Yeol">
+                <unique ans="n"/> NO. HE'S NOT SOMEONE YOU CAN BEAT. </bubble>
+            <bubble type="speech" spNum="104" who="Song Chi-Yeol">
+                <unique ans="n"/> I WILL DO IT. </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> HE'S A B-RANK... THERE'S NO WAY HE WOULD BE HIT BY A C-RANK LIKE
+                ME. </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> PLUS HE'S AN ASSASSIN TYPE. I CAN'T BEAT HIM AT SPEED... </bubble>
+            <bubble type="speech" spNum="105" who="Sung Jin-Woo">
+                <unique ans="n"/> MR KIM, I'M BORROWING THIS FOR A WHILE. </bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT HE PROBABLY HAS A WEAK DEFENSE... WHO KNOWS WHAT'LL HAPPEN IF
+                I'M ABLE TO HIT HIM ONCE WITH MAGIC </bubble>
+            <bubble type="speech" spNum="106" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S BEEN A WHILE SINCE I RAISED A SWORD AGAINST A HUMAN.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="18">
+            <bubble type="thought" thtNum="7" who="Song Chi-Yeol">
+                <unique ans="n"/> MISS JU-HEE IS HERE TOO...
+            </bubble>
+            <bubble type="speech" spNum="107" who="Song Chi-Yeol">
+                <unique ans="n"/> MISS JU-HEE CAN YOU GIVE ME A PHYSICAL STRENGTH BUFF?
+            </bubble>
+            <bubble type="speech" spNum="108" who="Lee Joo-Hee">
+                <unique ans="n"/> HUH? Y-YES!
+            </bubble>
+            <bubble type="thought" thtNum="8" who="Lee Joo-Hee">
+                <unique ans="n"/> MR. SONG WITH A SWORD
+            </bubble>
+            <bubble type="thought" thtNum="9" who="Song Chi-Yeol">
+                <unique ans="n"/> LET'S CLOSE THE RANG SO THAT HE CAN'T DOGE!
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="19">
+            <bubble type="speech" spNum="109" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT'S A MAGICIAN LIKE YOU DOING?
+            </bubble>
+            <bubble type="speech" spNum="110" who="Song Chi-Yeol">
+                <unique ans="n"/> PHYSICAL STRENGTH BUFFS ON A MAGICIAN ARE PRETTY USELESS, BUT...
+            </bubble>
+            <bubble type="speech" spNum="111" who="Song Chi-Yeol">
+                <unique ans="n"/> FOR NOW, 
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="20">
+            <bubble type="thought" thtNum="10" who="Song Chi-Yeol">
+                <unique ans="n"/> LET'S DO THIS!!
+            </bubble>
+            <bubble type="speech" spNum="112" who="Song Chi-Yeol">
+                <unique ans="n"/> I'M A SWORDSMAN.
+            </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 20 PAGES, 112 INSATNCES OF SPEECH, 10 INSTANCES OF THOUGHT, 9 UNIQUE SPEAKERS  -->
+<!-- NEW ITEMS: NONE
+     STATE UPDATES: NONE
+     NEW SKILLS: NONE
+     LEVELS GAINED: NONE, CURRENT LEVEL: UNKNOWN-->

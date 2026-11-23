@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/C:/gitHub/soloLeveling_Project/chapter_xml/projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="31">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jand Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Song Chi-Yeol">
+                <unique ans="y" uniNum="1"/> PHYSICAL STRENGTH BUFFS ON A MAGICIAN ARE PRETTY
+                USELESS, BUT... </bubble>
+            <bubble type="speech" spNum="2" who="Song Chi-Yeol">
+                <unique ans="n"/> FOR NOW, </bubble>
+            <bubble type="speech" spNum="3" who="Song Chi-Yeol">
+                <unique ans="n"/> I'M A SWORDSMAN. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="1">
+            <bubble type="thought" thtNum="1" who="Song Chi-Yeol">
+                <unique ans="n"/> SINCE I'M A MAGICIAN, I NEED TO BE AWARE OF THE STRENGTH, STAMINA,
+                AND AGILITY DIFFERENCES BETWEEN HIM AND ME. </bubble>
+            <bubble type="thought" thtNum="2" who="Song Chi-Yeol">
+                <unique ans="n"/> EVEN IF I'M BEING PROTECTED BY MISS JU-HEE, IT'S LIKE INSTALLING A
+                CAR ON A BIKE AND PEDALLING AS HARD AS I COULD. </bubble>
+            <bubble type="thought" thtNum="3" who="Song Chi-Yeol">
+                <unique ans="n"/> IT'S LIKE A STEEP DOWNHILL... </bubble>
+            <bubble type="thought" thtNum="4" who="Song Chi-Yeol">
+                <unique ans="n"/>IF I DON'T CONTROL MY SPEED AND TAKE A HUGE CURVE I WILL PROBABLY
+                DIE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="4" who="Gang Tae-Shik">
+                <unique ans="y" uniNum="2"/> IT'S NORMAL FOR A MAGICIAN TO BE IN A DISADVANTAGE
+                AGIANST AN ASSAIN. </bubble>
+            <bubble type="speech" spNum="5" who="Gang Tae-Shik">
+                <unique ans="n"/> IT MIGHT'VE BEEN A GOOD IDEA TO BRING OUT A WEAPON, </bubble>
+            <bubble type="speech" spNum="6" who="Gang Tae-Shik">
+                <unique ans="n"/> BUT IN THE END, YOU'RE JUST A MAGICIAN. </bubble>
+            <bubble type="speech" spNum="7" who="Gang Tae-Shik">
+                <unique ans="n"/> IF YOUR PHYSICAL LEVEL COULDN'T EVEN REACH D-RANK, WOULD HOLDING A
+                WEAPON EVEN MAKE A DIFFERENCE? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="speech" spNum="8" who="Song Chi-Yeol">
+                <unique ans="n"/> IT CERTAINLY DOES. </bubble>
+            <bubble type="speech" spNum="9" who="Song Chi-Yeol">
+                <unique ans="n"/> YOUR MOVEMENTS ARE GOOD! ALTHOUGH YOU WERE BIFFED, I FEEL A LOT OF
+                PRACTICE IN THOSE MOVEMENTS. </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="3"/> IT WAS ONLY FOR A MOMENT, BUT HE CAUGTH UP WITH HIM. </bubble>
+            <bubble type="thought" thtNum="6" who="Song Chi-Yeol">
+                <unique ans="n"/> IF I CAN GO JUST A LITTLE FASTER... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="10" who="Gang Tae-Shik">
+                <unique ans="n"/> FAST AND PRECISE ~ PRETTY COOL! IT REALLY WAS A GOOD IDEA TO
+                ABANDON MAGIC AND HOLD A WEAPON. </bubble>
+            <bubble type="speech" spNum="11" who="Gang Tae-Shik">
+                <unique ans="n"/> BUT THAT'S JUST IT. </bubble>
+            <bubble type="speech" spNum="12" who="Gang Tae-Shik">
+                <unique ans="n"/> IF YOU THINK A LITTLE, YOU MIGHT REALIZE WHY THERE AREN'T ANY
+                MAGICAL SWORDSMAN UNDER IS THE MASSES OF HUNTERS. </bubble>
+            <caption type="thought" thtNum="7" who="Gang Tae-Shik">THE HEALER'S A PAIN.</caption>
+            <caption type="thought" thtNum="8" who="Gang Tae-Shik">I CAN'T LET THIS BECOME AN
+                ENDURANCE BATTLE.</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="speech" spNum="13" who="Gang Tae-Shik">
+                <unique ans="n"/> I'LL ELIMINATE YOU AS FAST AS I CAN. </bubble>
+            <bubble type="speech" spNum="14" who="Song Chi-Yeol">
+                <unique ans="n"/> HOW DARE YOU TURN YOUR BACK TO A SWORDSMAN. </bubble>
+            <bubble type="speech" spNum="15" who="Song Chi-Yeol">
+                <unique ans="n"/> YOU LOOK DOWN ON ME TO MUCH. </bubble>
+            <bubble type="speech" spNum="16" who="Gang Tae-Shik">
+                <unique ans="n"/> LOOKS LIKE YOU'RE NOT JUST A REGULAR OLD MAN. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="speech" spNum="17" who="Gang Tae-Shik">
+                <unique ans="n"/> I MAY NOT LOOK LIKE IT, BUT I HAVVE AN S-RANK STUDENT. </bubble>
+            <bubble type="speech" spNum="18" who="Gang Tae-Shik">
+                <unique ans="n"/> EVEN IF MY BODY CAN'T KEEP UP, MY SKILLS WILL. </bubble>
+            <bubble type="speech" spNum="19" who="Gang Tae-Shik">
+                <unique ans="n"/> UNFORTUNATELY, THERE'S ALWAYS LIMITS TO ONE'S GIVEN STRENGTH. </bubble>
+            <bubble type="speech" spNum="20" who="Gang Tae-Shik">
+                <unique ans="n"/> DID YOU HONESTLY THINK THAT A MAGICIAN, </bubble>
+            <bubble type="speech" spNum="21" who="Gang Tae-Shik">
+                <unique ans="n"/> CAN FOLLOW AN ASSASSIN'S SPEED? SUCH NAIVETY. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="speech" spNum="22" who="Gang Tae-Shik">
+                <unique ans="n"/> IF IT WAS SOMEONE ELSE, THEN YOU MIGHT'VE WON, </bubble>
+            <bubble type="speech" spNum="23" who="Gang Tae-Shik">
+                <unique ans="n"/> BUT MY RANK ITSELF IS SUPERIOR TO YOURS. </bubble>
+            <bubble type="speech" spNum="24" who="Gang Tae-Shik">
+                <unique ans="n"/> A MAGICIAN PROBABLY CAN'T EVEN SEE MY MOVEMENTS. </bubble>
+            <bubble type="speech" spNum="25" who="Lee Joo-Hee">
+                <unique ans="y" uniNum="4"/> MR. SONG!! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="speech" spNum="26" who="Gang Tae-Shik">
+                <unique ans="n"/> YEAH, THAT'S RIGHT. IT SEEMS LIKE YOU FINALLY REALIZE IT'S ALL
+                FUTILE. </bubble>
+            <bubble type="speech" spNum="27" who="Song Chi-Yeol">
+                <unique ans="n"/> ...... </bubble>
+            <bubble type="speech" spNum="28" who="Gang Tae-Shik">
+                <unique ans="n"/> I'LL KILL YOU PAINLESSLY IN RETURN. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="29" who="Song Chi-Yeol">
+                <unique ans="n"/> DID IT WORK...? </bubble>
+            <bubble type="speech" spNum="30" who="Gang Tae-Shik">
+                <unique ans="n"/> A MAGICIAN LIKE YOU ACTING LIKE A SWORDSMAN TO HIDE HIS MAGICAL
+                SKILLS. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="speech" spNum="31" who="Gang Tae-Shik">
+                <unique ans="n"/> TO UNLEASH YOUR MAGICAL POWER AS SOON AS A SWORD IS HURTLING
+                TOWAARDS YOU. </bubble>
+            <bubble type="speech" spNum="32" who="Gang Tae-Shik">
+                <unique ans="n"/> NOT A BAD PLAN AT ALL... YOU SLY OLD FOX. </bubble>
+            <bubble type="thought" thtNum="9" who="Song Chi-Yeol">
+                <unique ans="n"/> OF COURSE... IS THIS IT...? </bubble>
+            <bubble type="speech" spNum="33" who="Gang Tae-Shik">
+                <unique ans="n"/> DIE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="speech" spNum="34" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU AGAIN. </bubble>
+            <bubble type="speech" spNum="35" who="Gang Tae-Shik">
+                <unique ans="n"/> WHO ARE YOU? </bubble>
+            <bubble type="speech" spNum="36" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT'S YOUR RANK? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> SUNG JIN-WOO. </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> E-RANK. </bubble>
+            <bubble type="speech" spNum="39" who="Gang Tae-Shik">
+                <unique ans="n"/> AN E-RANK? </bubble>
+            <bubble type="speech" spNum="40" who="Gang Tae-Shik">
+                <unique ans="n"/> HEH... THAT CAN'T BE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="speech" spNum="41" who="Song Chi-Yeol">
+                <unique ans="n"/> SUNG... HOW DID YOU?! </bubble>
+            <bubble type="speech" spNum="42" who="Gang Tae-Shik">
+                <unique ans="n"/> IF YOU WERE A POWER TYPE, THEN UNLEASHING THAT KIND'VE STRNGTH
+                WOULD'VE BEEN POSSIBLE FOR EVEN AN E-RANK. HOWEVER, SEEING YOUR REACTION SPEED JUST
+                NOW... YOU'RE NOT NORMAL. </bubble>
+            <bubble type="speech" spNum="43" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU DID BLOCK MY ATTACKS TWO TIMES AFTER ALL. </bubble>
+            <bubble type="speech" spNum="44" who="Gang Tae-Shik">
+                <unique ans="n"/> THEN ARE YOU AN ASSASIN TYPE> NO, THAT'S NOT IT EITHER. </bubble>
+            <bubble type="speech" spNum="45" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU'VE BEEN HIDING YOUR STRENGTH, HAVEN'T YOU? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <bubble type="speech" spNum="46" who="Gang Tae-Shik">
+                <unique ans="n"/> A FAKE RANKER? NO, IT LOOKS LIKE YOU'VE KNOWN THEM FOR A LONG TIME
+                SO THAT CAN'T BE IT. </bubble>
+            <bubble type="speech" spNum="47" who="Gang Tae-Shik">
+                <unique ans="n"/> THERE'S NO WAY A FAKE RANKER WOULD LET ANYONE WHO SAAW THEIR REAL
+                POWER LLIVE. </bubble>
+            <bubble type="speech" spNum="48" who="Gang Tae-Shik">
+                <unique ans="n"/> THEN THERE'S ONLY ONE ANSWER~ </bubble>
+            <bubble type="speech" spNum="49" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU'VE BEEN REAWAKENED. </bubble>
+            <bubble type="speech" spNum="50" who="Song Chi-Yeol">
+                <unique ans="n"/> MR. SUNG?! </bubble>
+            <bubble type="speech" spNum="51" who="Lee Joo-Hee">
+                <unique ans="n"/> REAWAKENED?? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <bubble type="speech" spNum="52" who="Gang Tae-Shik">
+                <unique ans="n"/> BY THEIR REACTIONS... YOU'VE BEEN REAWAKENED RECENTLY, HUH. </bubble>
+            <caption type="thought" thtNum="10" who="Gang Tae-Shik">THINKING ABOUT IT, RECENTLY MY
+                BOSS DID GO TO SEE SOMEONE BECAUSE HE THOUGHT THEY REAWAKENED...</caption>
+            <bubble type="speech" spNum="53" who="Gang Tae-Shik">
+                <unique ans="n"/>ANYWAYS, IT SEEMS LIKE YOU HAVE LITTLE EXPERIENCE IN BEING A
+                HUNTER. </bubble>
+            <bubble type="speech" spNum="54" who="Gang Tae-Shik">
+                <unique ans="n"/> IN THAT CASE... </bubble>
+            <bubble type="speech" spNum="55" who="Gang Tae-Shik">
+                <unique ans="n"/> LET ME TEACH YOU A LESSON AS YOUR SUPERIOR </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 16 PAGES, 55 INSTANCES OF SPEECH, 10 INSTANCES OF THOUGHT, 4 UNIQUE SPEAKERS -->
+<!-- NEW ITEMS: NONE
+     STAT UPDATES: NONE
+     NEW SKILLS: NONE
+     LEVELS GAINED: NONE, CURRENT LEVEL: UNKNOWN-->

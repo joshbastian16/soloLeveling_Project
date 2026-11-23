@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<chapter num="34">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <caption type="narration">HE WHO FIGHTS WITH MONSTERS</caption>
+            <caption type="narration">SHOULD LOOK TO IT THAT HE HIMSELF DOES NOT BECOME A
+                MONSTER.</caption>
+            <caption type="narration">AND IF YOU GAZE LONG INTO AN ABYSS,</caption>
+            <caption type="narration">THE ABYSS</caption>
+            <caption type="narration">ALSO GAZES INTO YOU</caption>
+            <caption type="narration">-FREIEDRICH NIETZSCHE</caption>
+            <bubble type="speech" spNum="1" who="Gang Tae-Shik">
+                <unique ans="y" uniNum="1"/> HUNTERS ARE THOSE WHO WITNESS COUNTLESS DEATHS AS WELL
+                AS TAKE LIVES THEMSELVES </bubble>
+            <bubble type="speech" spNum="2" who="Gang Tae-Shik">
+                <unique ans="n"/> BECAUSE IT'S USUALLY A LIFE OR DEATH SITUATION, THEY NOT ONLY
+                FIGHT AGAINST MONSTERS, BUT AMONGST THEMSELVES AS WELL. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="3" who="Gang Tae-Shik">
+                <unique ans="n"/> WE ARE ALREADY 'PERFECT' KILLING MACHINES. </bubble>
+            <bubble type="speech" spNum="4" who="Gang Tae-Shik">
+                <unique ans="n"/> SAME GOES FOR YOU. </bubble>
+            <bubble type="speech" spNum="5" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU WOULDN'T LUMP HUNTERS AND ORDINARY HUMANS INTO THE ASME
+                CATEGORY, WOULD YOU? </bubble>
+            <bubble type="speech" spNum="6" who="Gang Tae-Shik">
+                <unique ans="n"/> SO... </bubble>
+            <bubble type="speech" spNum="7" who="Gang Tae-Shik">
+                <unique ans="n"/> I'LL DIE BECAUSE I LOST. IT'S ONLY NATURAL. </bubble>
+            <bubble type="speech" spNum="8" who="Gang Tae-Shik">
+                <unique ans="n"/> ...LET ME ASK YOU JUST ONE QUESTION. </bubble>
+            <bubble type="speech" spNum="9" who="Gang Tae-Shik">
+                <unique ans="n"/> WHAT ARE YOU? </bubble>
+            <bubble type="speech" spNum="10" who="Gang Tae-Shik">
+                <unique ans="n"/> AN ASSASSIN CLASS WITH HEALING MAGIC... AND EVEN DEBUFF ABILITIES
+                ~ I'VE NEVER HEARD OF ANYTHING LIKE IT. </bubble>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="2"/> HM. I'M NOT SURE EITHER. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="12" who="Gang Tae-Shik">
+                <unique ans="n"/> A BABBLE MOUTH MAY BE USELESS... BUT HAVING A LOT OF SECRETS ISN'T
+                THAT GREAT EITHER. </bubble>
+            <bubble type="speech" spNum="13" who="Gang Tae-Shik">
+                <unique ans="n"/> KUK! </bubble>
+            <systemMsg type="information">
+                <info>[EFFECT: PARALYSIS WAS ACTIVATED.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[EFFECT: BLEED WAS ACTIVATED.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="14" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU WON'T BE ABLE TO HIDE YOUR SKILLS ANYMORE SINCE YOU KILLED ME. </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> ...... </bubble>
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> LET'S SAY I'M A HUNTER THAT GROWS STRONGER FROM EACH FIGHT. </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> HOW STRONG DO YOU THINK I CAN GET? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="speech" spNum="18" who="Gang Tae-Shik">
+                <unique ans="n"/> HUH... </bubble>
+            <bubble type="speech" spNum="19" who="Gang Tae-Shik">
+                <unique ans="n"/> YOUR SHADOW... </bubble>
+            <bubble type="speech" spNum="20" who="Gang Tae-Shik">
+                <unique ans="n"/> IS CONNECTED TO THE DARKNESS. </bubble>
+            <bubble type="speech" spNum="21" who="Gang Tae-Shik">
+                <unique ans="n"/> YOU WILL BECOME... </bubble>
+            <bubble type="speech" spNum="22" who="Gang Tae-Shik">
+                <unique ans="n"/> AS STRONG AS YOUR SHADOW'S DEPTH IN THE DARK. </bubble>
+            <systemMsg type="information">
+                <info>QUEST COMPLETE</info>
+                <info>YOU HAVE COMPLETED</info>
+                <info>[EMERGENCY QUEST: KILL THE ENEMIES!].</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>QUEST REWARDS</info>
+                <info>SELECT YOUR REWARDS.</info>
+                <info>[YOU MAY CHOOSE FROM THE REWARDS BELOW.]</info>
+                <info>REWARD #1. STAT POINTS +5</info>
+                <info>WILL YOU ACCEPT YOUR REWARDS?</info>
+                <info>ACCEPT</info>
+                <info>REFUSE</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> I CERTAINLY GOT MUCH, MUCH STRONGER THAN BEFORE. </bubble>
+            <caption type="thought" thtNum="2" who="Sung Jin-Woo">BUT FOR SOME REASON...</caption>
+            <caption type="thought" thtNum="3" who="Sung Jin-Woo">I FEEL LIKE SOMETHING WITHIN ME IS
+                LOST EVERY TIME I GET STRONGER</caption>
+            <bubble type="speech" spNum="23" who="Lee Joo-Hee">
+                <unique ans="y" uniNum="3"/> JIN-WOO... </bubble>
+            <bubble type="speech" spNum="24" who="Lee Joo-Hee">
+                <unique ans="n"/> THANK YOU. </bubble>
+            <bubble type="speech" spNum="25" who="Song Chi-Yeol">
+                <unique ans="y" uniNum="4"/> THANKS MR. SUNG. </bubble>
+            <bubble type="speech" spNum="26" who="Song Chi-Yeol">
+                <unique ans="n"/> WE WOULD'VE DIED IF YOU WEREN'T HERE. </bubble>
+            <bubble type="speech" spNum="27" who="Song Chi-Yeol">
+                <unique ans="n"/> NOW WHAT SHOULD WE DO ABOUT THIS SITUATION... </bubble>
+            <bubble type="speech" spNum="28" who="Lee Joo-Hee">
+                <unique ans="n"/> SHOULDN'T WE LEAVE AND REPORT TO THE GUILD? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> WE SHOULD CLOSE THE DUNGEON GATES FIRST. </bubble>
+            <bubble type="speech" spNum="30" who="Song Chi-Yeol">
+                <unique ans="n"/> MR. SUNG, DON'T TELL THAT YOU'RE GOING TO SOLO THE BOSS ALO- </bubble>
+            <bubble type="speech" spNum="31" who="Song Chi-Yeol">
+                <unique ans="n"/> ...NO, I'VE SEEN YOUR SKILL, SO I WON'T TRY TO STOP YOU. </bubble>
+            <bubble type="speech" spNum="32" who="Song Chi-Yeol">
+                <unique ans="n"/> I DO WANT TO GIVE THEM A PROPER BURIAL, BUT... </bubble>
+            <bubble type="speech" spNum="33" who="Song Chi-Yeol">
+                <unique ans="n"/> SUCH A PITY. </bubble>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>-YOU HAVE RECIEVED [RUNE: STEALTH]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <systemMsg type="information">
+                <info>[RUNE: STEALTH]</info>
+                <info>TYPE: RUNE</info>
+                <info>A SKILL CAN BE OBTAINED BY BREAKING THE RUNE.</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN OBTAIN HIS SKILL AFTER KILLING HIM? </bubble>
+            <bubble type="speech" spNum="34" who="Song Chi-Yeol">
+                <unique ans="n"/> WE'LL GO FIRST AND REPORT TO THE GUILD. </bubble>
+            <bubble type="speech" spNum="35" who="Lee Joo-Hee">
+                <unique ans="n"/> HURRY, WE'LL BE WAITING OUTSIDE. </bubble>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo">
+                <unique ans="n"/> DON'T WORRY, IT WON'T TAKE LONG. </bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> I KNOW YOU'RE ALIVE. </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> GET UP. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo">
+                <unique ans="n"/> WHY DID YOU TRY TO ACT DEAD? </bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU TRYING TO RUN WITHOUT ANYONE KNOWING? </bubble>
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo">
+                <unique ans="n"/> AH, YOU CAN'T TALK. GANG TAE-SHIK WAS PRETTY BRUTAL. </bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> HE PRECISELY CUT ONLY THE VOCAL CORDS... </bubble>
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo">
+                <unique ans="n"/> PROBABLY WOULD'VE KILLED YOU IN THE MOST PAINFUL WAY POSSIBLE
+                AFTER ENSURING YOU WOULDN'T BE ABLE TO SCREAM. </bubble>
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/> AT THIS RATE, YOU'LL DIE OF BLOOD LOSS. </bubble>
+            <bubble type="speech" spNum="45" who="Sung Jin-Woo">
+                <unique ans="n"/> IF WE ASK MISS JU-HEE, YOU'D PROBABLY LIVE. </bubble>
+            <bubble type="thought" thtNum="5" who="Prisoner1">
+                <unique ans="y" uniNum="5"/> YE... YES, I'M SAVED. </bubble>
+            <bubble type="thought" thtNum="6" who="Prisoner1">
+                <unique ans="n"/> WAIT... THIS WAY IS... </bubble>
+            <bubble type="speech" spNum="46" who="Sung Jin-Woo">
+                <unique ans="n"/> STAY STILL </bubble>
+            <bubble type="thought" thtNum="7" who="Prisoner1">
+                <unique ans="n"/> THIS ISN'T THE WAY OUT! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="thought" thtNum="8" who="Prisoner1">
+                <unique ans="n"/> TH... THIS PLACE IS! </bubble>
+            <bubble type="speech" spNum="47" who="Sung Jin-Woo">
+                <unique ans="n"/> DO YOU REMEMBER THE FACES OF ALL YOUR VICTIMS? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="48" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU'TRE TRASH EVEN BEYOND GANG TAE-SHIK. </bubble>
+            <bubble type="speech" spNum="49" who="Sung Jin-Woo">
+                <unique ans="n"/> NO WAY I'D TAKE A MONSTER LIKE YOU OUTSIDE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <caption type="narration">AND A SILENT WAIL ECHOED THROUGHOUT THE DISTANCE...</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> DEFEATING THE HOBGOBLIN WASN'T TOO DIFFICULT OF A TASK. </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> AFTER LEAVING THE DUNGEON, MR. SONG CHI-YUL AND MISS JU-HEE
+                EXPLAINED TO THE GUILD EMPLOYEE WHAT HAPPENED. </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> THE EMPLOYEE REALIZED THE SITUATION WAS TRULY MASSIVE AND
+                HURRIEDLY CONTACTED HER SUPERIORS. </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> AND ONE OF THE ELITES ARRIVED QUICKLY ON THE SCENE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="50" who="Woo Jin-Chul">
+                <unique ans="y" uniNum="6"/> HOW MANY MINUTES HAVE PASSED SINCE THE DUNGEON WAS
+                CLEARED? </bubble>
+            <bubble type="speech" spNum="51" who="Clerk">
+                <unique ans="y" uniNum="7"/> IT'S BEEN ABOUT 40 MINUTES, SIR. </bubble>
+            <bubble type="speech" spNum="52" who="Woo Jin-Chul">
+                <unique ans="n"/> ONLY 20 MINUTES LEFT, THEN... IT'S BEEN TOO LONG. TRY AND RECOVER
+                THE VICTIM'S BODIES WITHIN 8 MINUTES, IF IMPOSSIBLE, QUIT AND RETURN BACK. </bubble>
+            <bubble type="speech" spNum="53" who="Woo Jin-Chul">
+                <unique ans="n"/> DID THE SURVIVORS CLEAR THE DUNGEONS THEMSELVES? </bubble>
+            <bubble type="speech" spNum="54" who="Clerk">
+                <unique ans="n"/> YES, SIR. </bubble>
+            <bubble type="thought" thtNum="13" who="Woo Jin-Chul">
+                <unique ans="n"/> GANG TAE-SHIK TRIED TO KILL THE REMAINING HUNTERS DURING A
+                CONTRACT ASSASSINATION, HUH... </bubble>
+            <bubble type="thought" thtNum="14" who="Woo Jin-Chul">
+                <unique ans="n"/> IF THAT'S TRUE, THE HE WOULD'VE INTENTIONALLY LEFT BEHIND THE
+                CORPSES BUT HE DELIBERATELY CLOSED OFF THE DUNGEON...? </bubble>
+            <bubble type="thought" thtNum="15" who="Woo Jin-Chul">
+                <unique ans="n"/> THIS MEANS HE HAD SOMETHING TO HIDE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="thought" thtNum="16" who="Woo Jin-Chul">
+                <unique ans="n"/> HUNTER SUNG JIN-WOO? </bubble>
+            <bubble type="thought" thtNum="17" who="Woo Jin-Chul">
+                <unique ans="n"/> IS THAT HUNTER SUNG JIN-WOO FROM LAST TIME? </bubble>
+            <bubble type="thought" thtNum="18" who="Woo Jin-Chul">
+                <unique ans="n"/> I COULDN'T EVEN RECOGNIZE HIM AT FIRST. </bubble>
+            <bubble type="speech" spNum="55" who="Woo Jin-Chul">
+                <unique ans="n"/> WE MEET AGAIN, HUNTER. </bubble>
+            <bubble type="speech" spNum="56" who="Sung Jin-Woo">
+                <unique ans="n"/> AH, YOU'RE THE ONE FROM THE MONITORING DIVISION... </bubble>
+            <bubble type="speech" spNum="57" who="Woo Jin-Chul">
+                <unique ans="n"/> MY NAME IS WOO JIN-CHUL, HEAD OF THE MONITORING DIVISION. </bubble>
+            <bubble type="speech" spNum="58" who="Woo Jin-Chul">
+                <unique ans="n"/> IT SEEMS LIKE ONE OF OUR EMPLOYEES CAUSED GREAT HARM. WE'LL HAND
+                YOU OUR OFFICIAL APOLOGIES AFTER THE CASE HAS BEEN RESOLVED, AND THE INVESTIGATION
+                DIVISION WILL HANDLE THE CASE INSTEAD OF US. </bubble>
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S NOT THE TIME TO BE FULL OF MYSELF JUST BECAUSE I KILLED THE
+                B-RANK HUNTER GANG TAE-SHIK. </bubble>
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> I DIDN'T KNOW BEFORE, BUT... </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="15">
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS PERSON IS STRONG.
+            </bubble>
+            <bubble type="speech" spNum="59" who="Woo Jin-Chul">
+                <unique ans="n"/> AS A MEMBER OF THE MONITORING DIVISION, I HAVE A FEW QUESTIONS I WOULD LIKE TO ASK YOU.
+            </bubble>
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> HE'S IN A DIFFERENT LEAGUE OF HIS OWN!
+            </bubble>
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> HE'S AN A-RANK!
+            </bubble>
+            <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN'T HANDLE HIM WITH MY STRENGTH RIGHT NOW.
+            </bubble>
+            <bubble type="speech" spNum="60" who="Woo Jin-Chul">
+                <unique ans="n"/> THINGS WOULD GO SMOOTHLY IF YOU COOPERATED ~ WILL THAT BE OKAY?
+            </bubble>
+            <bubble type="speech" spNum="61" who="Sung Jin-Woo">
+                <unique ans="n"/> YES, I'LL COOPERATE.
+            </bubble>
+            <bubble type="speech" spNum="62" who="Woo Jin-Chul">
+                <unique ans="n"/> THEN LET ME ASK YOU THIS DIRECTLY ~
+            </bubble>
+            <bubble type="speech" spNum="63" who="Woo Jin-Chul">
+                <unique ans="n"/> WHO KILLED? THE B-RANK HUNTER GANG TAE-SHIK
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="16">
+            <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> I PROBABLY CAN'T HIDE THAT I'VE BEEN REAWAKENED NOW
+            </bubble>
+            <bubble type="thought" thtNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> LOOKS LIKE I'LL HAVE TO VOID MY CONTRACT WITH JIN-HO,
+            </bubble>
+            <bubble type="thought" thtNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE HE WANTS A SKILLFULL YET LOW-RANKED HUNTER.
+            </bubble>
+            <bubble type="speech" spNum="64" who="Song Chi-Yeol">
+                <unique ans="n"/> IT WAS ME.
+            </bubble>
+            <bubble type="speech" spNum="65" who="Song Chi-Yeol">
+                <unique ans="n"/> I'M THE ONE THAT KILLED GANG TAE-SHIK.
+            </bubble>
+            <bubble type="speech" spNum="66" who="Woo Jin-Chul">
+                <unique ans="n"/> IF YOU DON'T MIND, WOULD YOU TELL ME YOUR RANK?
+            </bubble>
+            <bubble type="speech" spNum="67" who="Song Chi-Yeol">
+                <unique ans="n"/> C-RANK.
+            </bubble>
+            <bubble type="speech" spNum="68" who="Woo Jin-Chul">
+                <unique ans="n"/> HOW COULD YOU BEAT A B-RANK AS A C-RANK...?
+            </bubble>
+            <bubble type="speech" spNum="69" who="Song Chi-Yeol">
+                <unique ans="n"/> DO YOU NOT SEE WHO'S BEHIND ME?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="17">
+            <bubble type="speech" spNum="70" who="Woo Jin-Chul">
+                <unique ans="n"/> WELL... IF YOU DID RECIEVE SUPPORT FROM A B-RANK, I GUES YOU COULD'VE BAETEN HIM.
+            </bubble>
+            <bubble type="thought" thtNum="28" who="Woo Jin-Chul">
+                <unique ans="n"/> BUT GANG TAE-SHIK... HE WAS SOMEONE THAT COULDN'T BE CONTROLLED EVEN WITHIN THE DIVISION.
+            </bubble>
+            <bubble type="thought" thtNum="29" who="Woo Jin-Chul">
+                <unique ans="n"/> COULD A ONE-ARMED C-RANK REALLY BEAT A SKILLED B-RANK ASSASSIN IN COMBAT?
+            </bubble>
+            <bubble type="speech" spNum="71" who="Woo Jin-Chul">
+                <unique ans="n"/> COME WITH ME FOR NOW. I'M AFRIAD I'M GOING TO NNED YOUR HELP FILLING OUT SOME REPORTS.
+            </bubble>
+            <bubble type="speech" spNum="72" who="Sung Jin-Woo">
+                <unique ans="n"/> MISTER.
+            </bubble>
+            <bubble type="speech" spNum="73" who="Sung Jin-Woo">
+                <unique ans="n"/> WHY DID YOU LIE?
+            </bubble>
+            <bubble type="speech" spNum="74" who="Song Chi-Yeol">
+                <unique ans="n"/> I JUST ASSUMED YOU HAD ENOUGH REASON TO HIDE YOUR ABILITIES. WHAT, WAS I WRONG TO DO SO?
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="18">
+            <bubble type="speech" spNum="75" who="Song Chi-Yeol">
+                <unique ans="n"/> YOU CAN'T ESCAPE THE INVESTIGATIONS ANYWAYS.
+            </bubble>
+            <bubble type="speech" spNum="76" who="Song Chi-Yeol">
+                <unique ans="n"/> I CAN'T PAY YOU BACK FOR WHAT YOU'VE DONE, BUT THIS IS THE LEAST THAT I CAN DO.
+            </bubble>
+            <bubble type="speech" spNum="77" who="Woo Jin-Chul">
+                <unique ans="n"/> HUNTER SUNG JIN-WOO.
+            </bubble>
+            <bubble type="speech" spNum="78" who="Woo Jin-Chul">
+                <unique ans="n"/> I DON'T THINK AN E-RANK LIKE YOU COULD'VE DEFEATED A B-RANK HUNTER LIKE GANG TAE-SHIK.
+            </bubble>
+            <bubble type="speech" spNum="79" who="Woo Jin-Chul">
+                <unique ans="n"/> I ALSO THINK IT'S UNNECESSARY TO SUSPECT YOU OF RE-AWAKENING AGAIN.
+            </bubble>
+            <bubble type="speech" spNum="80" who="Woo Jin-Chul">
+                <unique ans="n"/> HOWEVER, LET ME TELL YOU THIS; AFTER ALL, IF YOU'RE NOT CAREFUL, YOUR LIFE MAY END SOMETIME SOON.
+            </bubble>
+            <bubble type="speech" spNum="81" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT DO YOU MEAN?
+            </bubble>
+            <bubble type="speech" spNum="82" who="Woo Jin-Chul">
+                <unique ans="n"/> IN THE EXTERMINATION OF HUANG DONG-SUL'S ASSAULT TEM, THE ONLY SURVIVORS WERE A D-RANK AND YOU.
+            </bubble>
+            <bubble type="speech" spNum="83" who="Woo Jin-Chul">
+                <unique ans="n"/> THE PROBLEM IS THAT HUANG DONG-SUK'S YOUNGER BROTHER HUANG DONG-SU, MAY SEEK REVENGE ON YOU GUYS.
+            </bubble>
+        </page>
+        
+        <pageBrk/> 
+        
+        <page pageNum="19">
+            <bubble type="speech" spNum="84" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU'RE TALKING ABOUT THE S-RANK HUANG DONG-SU?
+            </bubble>
+            <bubble type="speech" spNum="85" who="Woo Jin-Chul">
+                <unique ans="n"/> YES.
+            </bubble>
+            <bubble type="speech" spNum="86" who="Woo Jin-Chul">
+                <unique ans="n"/> IT DOESN'T REALLY MATTER WHAT HAPPENED DURING THAT RAID.
+            </bubble>
+            <bubble type="speech" spNum="87" who="Woo Jin-Chul">
+                <unique ans="n"/> THE IMPORTANT FACT IS THAT YOU, SUNG JIN-WOO, SURVIVED.
+            </bubble>
+            <bubble type="speech" spNum="88" who="Woo Jin-Chul">
+                <unique ans="n"/> SINCE HE'S AN S-RANK, THE LAW CAN'T REALLY BIND HIM EITHER.
+            </bubble>
+            <bubble type="speech" spNum="89" who="Woo Jin-Chul">
+                <unique ans="n"/> THEY'RE LIVING MIRACLES AND, AT THE SAME TIME, CALAMITIES.
+            </bubble>
+            <bubble type="speech" spNum="90" who="Woo Jin-Chul">
+                <unique ans="n"/> IT'D BE IN YOUR INTEREST TO WATCH OUT FOR HIM.
+            </bubble>
+            <bubble type="speech" spNum="91" who="Woo Jin-Chul">
+                <unique ans="n"/> BECAUSE YOU MAY BE HUNTED BY SOMEONE WHO EVEN MONSTERS FEAR.
+            </bubble>
+        </page>
+        
+        <pageBrk/>
+        
+        <page pageNum="20">
+            <bubble type="speech" spNum="92" who="Woo Jin-Chul">
+                <unique ans="n"/> IF POSSIBLE, LEAVING THE COUNTRY WITH YOUR LOVED ONES ISN'T A BAD IDEA.
+            </bubble>
+            <systemMsg type="statSheet">
+                <info>STATUS</info>
+                <info>NAME: SUNG JIN-WOO</info>
+                <level>LEVEL: 27</level>
+                <info>JOB: NONE</info>
+                <info>FATIGUE: 0</info>
+                <info>TITLE: WOLF SLAYER</info>
+                <info>HP: 5114</info>
+                <info>MP: 548</info>
+                <stat>STRENGTH: 72</stat>
+                <stat>VITALITY: 43</stat>
+                <stat>AGILITY: 82</stat>
+                <stat>INTELLIGENCE: 39</stat>
+                <stat>SENSE: 69</stat>
+                <info>PHYSICAL DAMAGE REDUCTION: 20% ACTIVE</info>
+                <info>REMAINING POINTS: 5</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>SKILLS</info>
+                <info>[PASSIVE]</info>
+                <info>(UNKNOWN) MAX</info>
+                <info>MUSCULARITY Lv.1</info>
+                <info>[ACTIVE]</info>
+                <info>SPRINT Lv.1</info>
+                <info>BLOODLUST Lv.1</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[ITEM: WARDEN'S NECKLACE]</info>
+                <info>ITEM CLASS: A</info>
+                <info>TYPE: NECKLACE</info>
+                <info>AGILITY +20, SENSE +20</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> THREE HOURS LATER, DURING THE INVESTIGATION OF GANG TAE-SHIK'S MURDER,
+            </bubble>
+            <bubble type="thought" thtNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> THE GOLD BUISNESS'S CEO TURNED HIMSELF IN JUSTIFYING OUR ACTIONS.
+            </bubble>
+            <bubble type="speech" spNum="93" who="Lee Joo-Hee">
+                <unique ans="n"/> JIN-WOO.
+            </bubble>
+            <bubble type="speech" spNum="94" who="Lee Joo-Hee">
+                <unique ans="n"/> DO YOU REMEMBER THIS?
+            </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 20 PAGES, 94 INSTANCES OF THOUGHT, 31 INSTANCES OF THOUGHT, 7 UNIQUE SPEAKERS -->
+<!-- NEW ITEMS: NONE
+     STAT UPDATE: STRENGTH: 72, VITALITY: 43, AGILITY: 82, INTELLIGENCE: 39, SENSE: 69
+     NEW SKILLS: NONE
+     NEW LEVELS: NONE, CURRENT LEVEL: 27-->
