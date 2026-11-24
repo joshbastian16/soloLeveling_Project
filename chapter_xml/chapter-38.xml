@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="38">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1"/>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <systemMsg type="skill">
+                <info>[ACTIVE]</info>
+                <info>VITAL STRIKE Lv.1</info>
+                <info>70 MANA</info>
+                <info>DAGGER ONLY</info>
+                <info>-YOU HAVE LEARNED TO ATTACK EFFICENTLY. NOW YOU DEAL</info>
+                <info>CRITICAL DAMAGE AS YOU ATTACK YOUR FOE'S VITAL AREAS.</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>ALARM</info>
+                <info>-[SKILL: SPRINT] WAS ACTIVATED.</info>
+                <info>-MOVEMENT SPEED WILL INCREASE BY 30%</info>
+                <info>-1 MANA WILL BE CONSUMED EVERY MINUTE.</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> MY ATTACKS AREN'T DEALING DAMAGE AT ALL! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> HE'S NOT THAT STRONG. </bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S JUST THAT HIS ARMOR IS TOO THICK FOR MY DAGGER TO PENETRATE. </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> HIS MOVEMENTS ARE DULL AND HIS ATTACKS DON'T HAVE MUCH FORCE. </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> HIS ONLY GOOD POINT IS DEFENSE. </bubble>
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> HE HAS NO SKILL. DOESN'T HE KNOW THAT THE BIGGER THE MOTION, THE
+                BIGGER THE OPENING? </bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> I ALREADY HAVE EXPERIENCE AGAINST AN OPPONET WITH ARMOR SO THICK
+                THAT MY DAGGER WON'T WORK ON IT! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU HAVE SLAIN A KNIGHT!]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS TYPE OF MONSTER IS WEAK AGAINST DRAWN OUT BATLLES. CAN YOU
+                EVEN CALL IT A PROPER MONSTER? </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> A DOLL-TYPE MONSTER... IT'S GOING TO BE ANNOYING IF MORE OF THESE
+                GUYS SHOW UP IN THE FUTURE. </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE I'M USING A TORCH INSTEAD OF A LUMINOUS STONE, IT'S PRETTY
+                DARK HERE. </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> LIKE AN INSTANT DUNGEON, I CAN'T EXIT UNTIL I CLEAR IT, SO I HAVE
+                TO CONSERVE MY MANA AS MUCH AS POSSIBLE. </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> THE MOST ANNOYING THING IS THAT DAMAGE ACCUMULATES. </bubble>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU CANNOT LEAVE THIS DUNGEON</info>
+                <info>UNTIL YOU HAVE CLEARED IT]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[IN THIS AREA, YOUR POTION AND SHOP</info>
+                <info>ABLIITY IS RESTRICTED. ON LEVEL UP, YOU DO</info>
+                <info>NOT RECIEVE STATUS HEALING.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> STEALTH AND WITAL STRIKE HAVE GOOD EFFICIENCY, BUT THEY ALSO
+                CONSUME A LOT OF MANA, SO... </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I KNEW THIS WOULD HAPPEN, I WOULD PUT SOME POINTS INTO
+                INTELLIGENCE </bubble>
+            <systemMsg type="skill">
+                <info>[ACTIVE]</info>
+                <info>STEALTH Lv.1</info>
+                <info>200 MANA</info>
+                <info>-YOUR APPEARANCE AND ALL TRACES OF YOU</info>
+                <info>WILL BE HIDDEN INSTANTLY.</info>
+                <info>-10 MANA WILL BE CONSUMED EVERY SECOND.</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[ACTIVE]</info>
+                <info>VITAL STRIKE Lv.1</info>
+                <info>70 MANA</info>
+                <info>DAGGER ONLY</info>
+                <info>-YOU HAVE LEARNED TO ATTACK EFFICENTLY. NOW YOU DEAL</info>
+                <info>CRITICAL DAMAGE AS YOU ATTACK YOUR FOE'S VITAL AREAS.</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> UNKNOWN DIFICUKLTY, NO HEALING, NO RETREAT. THIS DUNGEON IS TOO
+                RISKY. </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS JOB CHANGE QUEST... I CAN'T UNDERESTIMATE IT. I DON'T KNOW
+                HOW MANY HOURS... NO HOW MANY WEEKS IT WILL TAKE ME TO CLEAR THE QUEST. SO IT'S BAD
+                THAT I CAN'T HEAL... </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> WAIT, DID I DO MY DAILY QUEST TODAY? </bubble>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> I THOUGHT THIS WOULD BE OVER QUICKLY AND I COULD FINISH IT IN ONE
+                NIGHT. </bubble>
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I TAKE LONGER THAN 12 HOURS, I MIGHT BECOME CENTIPEDE PREY LIKE
+                LAST TIME... </bubble>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS ISN'T GOOD. I BETTER GET A JOB QUICKLY AND FINISH MY DAILY
+                QUEST. </bubble>
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> WAIT, </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> I RAN AWAY LIKE HELL LAST TIME, BUT IF I'D FACE IT RIGHT NOW,
+                COULD I BEAT THE CENTIPEDE? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> BEFORE THAT... </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL HAVE TO TAKE CARE OF THESE ,USCLE HEADS WHO ONLY TRUST THEIR
+                DEFENSE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7"/>
+
+        <pageBrk/>
+
+        <page pageNum="8"/>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I CAN'T CUT THEM, I CAN JUST TARGET WHERE THEIR BONES WOULD BE. </bubble>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU HAVE SLAIN A KNIGHT!]</info>
+                <info>[YOU HAVE SLAIN A KNIGHT!]</info>
+                <info>[YOU HAVE SLAIN A KNIGHT!]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S A FEW THAT DROP SOME DECENT ITEMS. </bubble>
+            <systemMsg type="item">
+                <info>[ITEM: LEATHER POUCH]</info>
+                <info>TYPE: CONTAIANER</info>
+                <info>A PUCH MADE TO CARRY MONEY.</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[ITEM: HIGH KNIGHT'S CHESTPLATE]</info>
+                <info>ITEM CLASS: B</info>
+                <info>TYPE: ARMOR</info>
+                <info>+7% PHYSICAL DAMAGE REDUCTION</info>
+                <info>(SLOWS MOVEMENT SPEED IF YOU STRENGTH</info>
+                <info>IS BELOW 80.)</info>
+            </systemMsg>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S GREAT THAT ARMOR-TYPE ITEMS DON'T FORCE YOU TO SHOW THEIR
+                DESIGN. IF SOMEONE LOOKED AT ME, I WOULD BECOME A LAUGHING STOCK. </bubble>
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> WILL IT REALLY DEFEND ME EVEN IF IT'S MANIFESTED IN REALITY? </bubble>
+            <systemMsg type="item">
+                <info>[ITEM: LEATHER POUCH]</info>
+                <info>HAS BEEN OPENED.</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>YOU HAVE RECIEVED [30,000 GOLD].</info>
+            </systemMsg>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S AN ITEM THAT CONTAINS GOLD. 30,000 IN FACT. </bubble>
+            <systemMsg type="information">
+                <info>[TOTAL GOLD: 863,4006]</info>
+            </systemMsg>
+            <caption type="thought" thtNum="8" who="Sung Jin-Woo">!</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU HAVE SLAIN A KNIGHT]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> STEALTH? </bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE ARE EVEN MONSTERS WITH STEALTH? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> A MAGICIAN THIS TIME? MOREOVER, IT USES BLAZE MAGIC. </bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> STEALTH, AND THE SAME TYPE OF MAGIC THAT JO GYU-HWAN USED. WHAT'S
+                GOING ON HERE? </bubble>
+            <caption type="thought" thtNum="10" who="Sung Jin-Woo">IT'S AS IF...</caption>
+            <caption type="thought" thtNum="11" who="Sung Jin-Woo">IT'S REPLAYING THE FIGHT FROM
+                LAST TIME.</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS PLACE IS HARDER THAN I THOUGHT. </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE THERE ARE DIVERSE TYPES OF MONSTERS, I NEED TO UTILIZE
+                DIFFERENT STATS FOR EACH OF THEM. </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> STRENGTH FOR KNIGHTS. SENSE FOR ASSASSINS, AGILITY FOR ARCHERS AND
+                VITALITY FOR MAGICIANS. </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I DROP POINTS FROM STRENGTH, I CAN'T BREAK THE KINGHTS' ARMOR, </bubble>
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> AND I HAVE LOW SENSE, I'LLL HAVE A LOT OF TROUBLE WITH ASSASSINS. </bubble>
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> BECAUSE I DIDN'T PUT ANY POINTS INTO INTELLIGENCE, I HAVE TO SAVE
+                AS MUCH MANA AS POSSIBLE, AND STOP USING SKILLS ALTOGETHER. </bubble>
+            <systemMsg type="information">
+                <info>[FATIGUE: 66]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> MY FATIGUE IS ACCUMULATING. I HAVE TO FINISH THIS AS FAST AS
+                POSSIBLE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> THE LONGER THIS GPES ON, THE WORSE IT GETS FOR ME. </bubble>
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL HAVE TO CLOSE MY EYES FOR A WHILE AND LOWER MY FATIGUE... </bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> DARN IT... THEY'RE NOT GIVING ME A CHANCE TO REST. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <systemMsg type="item">
+                <info>[ITEM: LEATHER POUCH]</info>
+                <info>HAS BEEN OPENED</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[20,000 GOLD]</info>
+                <info>[WATER BOTTLE FILLED WITH LUKEWARM WATER]</info>
+                <info>HAS BEEN OBTAINED.</info>
+            </systemMsg>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> I LEVELED UP QUITE A BIT, AND GATHERED A LOT OF ITEMS. I ALSO
+                LOWERED MY FATIGUE, SO I SHOULD START HEADING TO THE NEXT STAGE. </bubble>
+            <systemMsg type="item">
+                <info>WARDEN'S NECKLACE (A)</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>HIGH KNIGHT'S CHESTPLATE (B)</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>HIGH KNIGHT'S GAUNTLEET (B)</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>ARCHER'S GLOVES (C)</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>HIGH MAGICIAN'S RING (B)</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>ASSASSIN'S BOOTS (B)</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN AFTER I LEVELED UP THIS MUCH, I CAN'T COMPREHEND IT. </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> THE SKILL OF THE THING BEHIND THIS DOOR. </bubble>
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> BOSS ROOM...! </bubble>
+            <caption type="thought" thtNum="20">A CHILLINESS THAT MAKES YOUR SPIRIT
+                SHIVER...</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="17">
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> A KING'S THRONE ROOM? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="18">
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> EYES... </bubble>
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> EARS... </bubble>
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> FINGERTIPS... </bubble>
+            <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> I REMEMBER THIS SENSATION. </bubble>
+            <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S THE SAME AS IN THE DOUBLE LAIR. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="19">
+            <caption type="thought" thtNum="26" who="Sung Jin-Woo">THIS CHILLY FEELING.</caption>
+            <bubble type="thought" thtNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> IT LOOKS LIKE THIS STRONG ENERGY COMES FROM THIS GUY... </bubble>
+            <systemMsg type="statSheet">
+                <info>NAME: SUNG JIN-WOO</info>
+                <level>LEVEL: 45</level>
+                <info>JOB: NONE</info>
+                <info>FATIGUE: 43</info>
+                <info>TITLE: WOLF SLAYER</info>
+                <info>HP: 4511 / 8330</info>
+                <info>MP: 660 / 790</info>
+            </systemMsg>
+        </page>
+    </body>
+</chapter>
+<!-- 19 PAGES, 32 INSTANCES OF SPEECH, 27 INSTANCES OF THOUGHT, 1 UNIQUE SPEAKER -->
+<!-- NEW ITEMS: HIGH KNIGHT'S CHESTPLATE, HIGH KNIGHT'S GAUNTLET, ARCHER'S GLOVE, HIGH MAGICIAN'S RING, ASSASSIN'S BOOTS, LEATHER POUCHES
+     SKILL UPDATE: NONE
+     NEW SKILL: NONE
+     LEVELS GAINED: 5, CURRENT LEVEL, 45-->
