@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="41">
+    <title>Solo leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> IF A HEARTHSTONE WAS DROPPED... </bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> PERHAPS... </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> DOES THAT MEAN THE QUEST IS NOT OVER YET? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <systemMsg type="information">
+                <info>THE JOB CHANGE QUEST WILL BEGIN.</info>
+            </systemMsg>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> I KNEW IT! THERE'S NO WAY THAT WAS THE END! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <systemMsg type="information">
+                <info>THE LONGER YOU LAST, THE MORE</info>
+                <info>POINTS YOU CAN COLLECT THAT WILL</info>
+                <info>PLACE TOY INTO A HIGHER-TIER JOB</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>00:00:00</info>
+            </systemMsg>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> POINTS?! THE LONGER I LAST?! </bubble>
+            <systemMsg type="information">
+                <info>[GOOD LUCK.]</info>
+                <info>[00:0:01]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>00:00:02</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN TAKE THESE GUYS ON EVEN WITH MY CURRENT CONDITION! </bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> IF THEY WERE ON THE LEVEL OF IGRIS, THE FIRST ENEMIES WOULD HAVE
+                BEEN IMPOSSIBLE TO BEAT! </bubble>
+            <caption type="thought" thtNum="3" who="Sung Jin-Woo">EVERY SECOND MEANS MORE
+                POINTS!</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> SO THE CHANCE OF OBTAINING A HIDDEN CLASS GOES UP THE LONGER THE
+                TIMER GOES ON...? </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> BEFITTING FOR A JOB CHANGE QUEST. </bubble>
+            <systemMsg type="information">
+                <info>00:00:14</info>
+            </systemMsg>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> MY REMAINING MANA IS 390 </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> STEALTH REQUIRES 200 MANA ON USE... </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL STILL HAVE 190 MANA LEFT! </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> TO MAINTAI STEALTH, 1 MANA IS CONSUMED EVERY SECOND. </bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT MEANS I CAN BUY 3 MINUTES OF TIME WITH STEALTH. </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> I STILL HAVE ENOUGH HP, AND MP! I'LL TRY TO LAST AS LONG AS
+                POSSIBLE! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <systemMsg type="skill">
+                <info>MAGICIAN IS USING</info>
+                <info>'SKILL: DETECTION'.</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> IT DETECTED ME THROUGH MY STEALTH?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7"/>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <systemMsg type="skill">
+                <info>[SKILL: 'BLOODLUST' WAS ACTIVATED.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[THE TARGET'S STATS WILL</info>
+                <info>DECREASE BY 50% FOR 1 MINUTE.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> BLOODLUST'S MANA CONSUMPTINO IS 100. I ONLY GET ONE CHANCE! </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVE TO DEAL WITH AS MANY AS POSSIBLEDURING THIS WINDOW!
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> GAAAH </bubble>
+            <systemMsg type="information">
+                <info>[HP: 1036/10278]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> THEY COME OUT OF THE GATES FASTER THAN I CAN DEAL WITH THEM! </bubble>
+            <systemMsg type="skill">
+                <info>[PASSIVE SKILL PERSERVERANCE IS ACTIVATING.]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> DAMMIT... I TOOK THIS TOO LIGHTLY! </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> I USED TOO MUCH MANA ON STEALTH! </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> AT THIS RATE, I WON'T BE ABLE TO USE ANY SKILLS SOON! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> SHOULD I USE THE HEARTHSTONE? </bubble>
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M NOT SURE WHAT I GAIN FROM OBTAINING A JOB, BUT... </bubble>
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> AT MY CURRENT LEVEL... THE DIFICULTY IS TOO HIGH! </bubble>
+            <caption type="thought" thtNum="17" who="Sung Jin-Woo">IF I USE THE
+                HEARTHSTONE...</caption>
+            <caption type="thought" thtNum="18" who="Sung Jin-Woo">IT MEANS I GIVE UP THE
+                QUEST!</caption>
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> THE TIME?! </bubble>
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S ONLY BEEN 5 MINUTES?! </bubble>
+            <systemMsg type="information">
+                <info>00:05:08</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S NO WAY! </bubble>
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> ...I HAVE TO LEAVE! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12"/>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> IT CAN'T END LIKE THIS. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> SUCH A PRECIOUS CHANCE! </bubble>
+            <caption type="thought" thtNum="23" who="Sung Jin-Woo">BECAUSE I WAS AT ROCK
+                BOTTOM,</caption>
+            <caption type="thought" thtNum="24" who="Sung Jin-Woo">I LONGED FOR THE HIGHEST
+                PLACE.</caption>
+            <caption type="thought" thtNum="25" who="Sung Jin-Woo">I KNOW THE SADNESS OF BEING WEAK
+                MORE THAN ANYONE.</caption>
+            <bubble type="speech" spNum="14" who="others">
+                <unique ans="n"/> HOW MUCH HELP CAN AN E-RANK BE... </bubble>
+            <bubble type="speech" spNum="15" who="others">
+                <unique ans="n"/> EVEN THE GUILD IS THE SAME. WE HAVE TO SEND PEOPLE WHO HAVE
+                POTENTIAL. THAT GUY... WHEW. </bubble>
+            <bubble type="speech" spNum="16" who="others">
+                <unique ans="n"/> DOESN'T THAT GUY ALWAYS HIDE BEHIND TEAMATES TO STAY ALIVE? </bubble>
+            <bubble type="speech" spNum="17" who="others">
+                <unique ans="n"/> TO THINK THAT SOMEONE WHO CAN'T EVEN KILL ONE MONSTER PROPERLY IS
+                A HUNTER, TSK... </bubble>
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> AAAAAH </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <bubble type="speech" spNum="19" who="others">
+                <unique ans="n"/> HIS KNICKNAME IS 'THE WORLD'S WEAKEST'. </bubble>
+            <bubble type="speech" spNum="20" who="others">
+                <unique ans="n"/> THE WORLD'S WEAKES? NOT THE STRONGEST? </bubble>
+            <bubble type="speech" spNum="21" who="others">
+                <unique ans="n"/> BRO, THAT'S WHAT WE CALL S-RANK HUNTERS. SUNG IS CONSIDERED TO BE
+                THE WEAKEST. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <bubble type="speech" spNum="22" who="Kim Sang-Shik">
+                <unique ans="y" uniNum="2"/> I MEAN, HE'S WEAK ENOUGH TO GET HURT IN AN E-RANK
+                DUNGEON... </bubble>
+            <bubble type="speech" spNum="23" who="Park Beom-Shik">
+                <unique ans="y" uniNum="3"/> IS HE ACTUALLY THE WEAKEST? </bubble>
+            <bubble type="speech" spNum="24" who="Kim Sang-Shik">
+                <unique ans="n"/> YEAH, HE'S PROBABLY THE WEAKEST OF US ALL/ </bubble>
+            <bubble type="speech" spNum="25" who="Park Beom-Shik">
+                <unique ans="n"/> HE'S ACTUALLY THAT WEAK? </bubble>
+            <bubble type="speech" spNum="26" who="Kim Sang-Shik">
+                <unique ans="n"/> SO THAT MEANS OUR DUNGEONS WILL BE WEAK AS WELL SINCE HE CAME. </bubble>
+            <bubble type="speech" spNum="27" who="Park Beom-Shik">
+                <unique ans="n"/> AH... I SEE. </bubble>
+            <bubble type="speech" spNum="28" who="Kim Sang-Shik">
+                <unique ans="n"/> HEY, HE MIGHT HEAR US. LET'S END IT FOR NOW FU FU... </bubble>
+            <bubble type="speech" spNum="29" who="Song Chi-Yeol">
+                <unique ans="y" uniNum="4"/> SUNG, YOU'VE DONE WHAT YOU CAN. HOW ABOUT GETTING SOME
+                REST? </bubble>
+            <bubble type="speech" spNum="30" who="Lee Joo-Hee">
+                <unique ans="y" uniNum="5"/> JIN-WOO, PLEASE GET SOME REST NOW. </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> WASN'T THAT ALL YOUR FAULT? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="17">
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> WHY DO YOU ALWAYS MOVE AWAY FROM THE SAFE ROAD AND DANCE WITH
+                DEATH ON EVERY OCCASION? </bubble>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> ISN'T IT A GREAT FORTUNE THAT AN E-RANK HUNTER LIKE YOU WAS ABLE
+                TO GROW THIS MUCH? </bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> ISN'T THAT RIGHT? </bubble>
+            <bubble type="speech" spNum="35" who="Sung Jin-Woo">
+                <unique ans="n"/> SUNG JIN-WOO. </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 17 PAGES, 35 INSTANCES OF SPEECH, 25 INSTANCES OF THOUGHT, 5 UNIQUE SPEAKERS -->
+<!-- NEW ITEMS: NONE
+     STAT UPDATE: NONE
+     NEW SKILLS: NONE
+     LEVEL UPDATE: NONE, CURRENT LEVEL: UNKNOWN-->

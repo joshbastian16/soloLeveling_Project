@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="45">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <systemMsg type="information">
+                <info>[YOUR DESIRE FOR STRENGTH BURNS STRONG</info>
+                <info>ENOUGH TO CALL THOSE WHO WANDER THE VALLEY</info>
+                <info>OF DEATH, AND THE ARMY OF THE DEAD WHO FOLLOWS</info>
+                <info>YOUR COMMANDS SHALL CREATE A PATH WHERE YOUR</info>
+                <info>THREAD WILL BE THE LAW AND YOU WOULD NEVER</info>
+                <info>NEED ANOTHER'S HELP AGAIN.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> ...ARMY OF THE DEAD? </bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> WAIT. </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT'S THIS... </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS... </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> ...MY JOB? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <systemMsg type="information">
+                <info>[YOUR JOB IS "NECROMANCER".]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOUR JOB IS "NECROMANCER".]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> ...WHAT? </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVEN'T EVEN TOUCHED THE INTELLIGENCE STAT ONCE SO WHY...! </bubble>
+            <caption type="thought" thtNum="1" who="Sung Jin-Woo">MAG SUB-CLASS
+                NECROMANCER:</caption>
+            <caption type="thought" thtNum="2" who="Sung Jin-Woo">A GRIM MAGICIAN AND THE UNDEAD
+                ARMY THAT FOLLOWS</caption>
+            <caption type="thought" thtNum="3" who="Sung Jin-Woo">I DON'T KNOW IF THERE ARE
+                NECROMANCEERS AMONG HUNTERS, BUT IN GAMES AND STORIES THAY ARE THE TYPE OF CLASS TO
+                LEAVE MOST OF THE FIGHTING TO THEIR MINIONS.</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> I WAS A FIGHTING TYPE SINCE I REGISTERED AS AN E-RANK. </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> FROM THE BEGINNING, I ONLY USED SWORDS AND DAGGERS, AND THE SKILLS
+                I LEARNED ALL RESEMBELED THOSE OF AN ASSASSIN'S, SO WHY WAS THIS CLASS CHOSEN? </bubble>
+            <systemMsg type="skill">
+                <info>[SKILLS]</info>
+                <info>PASSIVE SKILLS:</info>
+                <info>(UNKNOWN) LV.MAX, PERSERVERANCE LV.1, ADVANCED DAGGER ARTS LV.1</info>
+                <info>ACTIVE SKILLS:</info>
+                <info>SPRINT LV.2, BLOODLUST LV.1, VITAL STRIKE LV.1</info>
+                <info>DAGGER THROW LV.1, STEALTH LV.1</info>
+                <info>[CLASS SKILLS]</info>
+                <info>ACTIVE SKILLS: SHADOW EXTRACTION LV.1, SAVE SHADOW LV.1</info>
+            </systemMsg>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> ...STAY CALM. </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I HAD TO PICK OUT THE PROS OF NECROMANCERS... PROBABLY THE FACT
+                THAT YOU CAN MAKE YOUR OWN ARMY LIKE THE SYSTEM SAID? </bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT SUCH 'SLAVES' CANNOT BECOME STRONGER! </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S POSSIBLE THAT MY STATS MIGHT BECOME USELESS! </bubble>
+            <systemMsg type="statSheet">
+                <info>[STATS]</info>
+                <stat>STRENGTH: 132</stat>
+                <stat>VITALITY: 91</stat>
+                <stat>AGILITY: 111</stat>
+                <stat>INTELLIGENCE: 70</stat>
+                <stat>SENSE: 93</stat>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[WILL YOU ACCEPT YOUR JOB?]</info>
+                <info>ACCEPT</info>
+                <info>REFUSE</info>
+            </systemMsg>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT, I HAVE A CHOICE? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I DECLINE, I HOPE THAT I CAN STILL EARN A JOB... </bubble>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL REFUSE. </bubble>
+            <systemMsg type="information">
+                <info>[NECROMANCE IS A 'HIDDEN CLASS'.</info>
+                <info>DO YOU STILL WISH TO REFUSE?]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> HIDDEN... CLASS? </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> A HUNTER THAT CAN CREATE POWERFUL SHIELDS. A HUNTER THAT CAN GIVE
+                TARGETED BUFFS EVEN THOUGH THEY AREN'T A HEALER. </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> WHITE TIGER GUILD'S MASTER, S-RANK BAEK YUN-HO IS RUMORED TO BE
+                ABLE TO TRANSFORM INTO A MONSTER. ALL THE HUNTERS WITH THOSE UNIQQUE ABILITIES ARE
+                EMPLOYED BY MAJOR GUILDS AND HAVE A LOT OF POWER. </bubble>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> DOES HIDDEN CLASS MEAN A UNIQUE ABILITY LIKE THE ONES THOSE
+                HUNTERS HAVE? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S NO NEED FOR ME TO THINK SO DEEPLY IF I'M ABLE TO
+                EXPERIENCE HAVING A NECROMANCER AS A JOB FIRST HAND. </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> AH... </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> RIGHT, THESE MAGICIANS CAN BE SAID TO AHVE A SIMILAR ABILITY TO
+                THAT OF A NECROMANCER'S </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S AS IF SOMEBODY WANTED TO SHOW ME A SAMPLE OF THE SKILL! </bubble>
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> I DON'T KNOW WHO CREATED IT, BUT IT'S A FUN PLOT. </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> I HAVE FIGHTING ABILITIES AS WELL. </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> THESE MAGICIANS DID NOT. </bubble>
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> IF A MAGICIAN THAT HAD CLOSE COMBAT ABILITIES AND COULD CREATE HIS
+                OWN ARMY... </bubble>
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> HE WOULD EVEN BE ABLE TO CLEAR B OR EVEN HIGHER RANKED DUNGEONS BY
+                THEMSELF! </bubble>
+            <bubble type="thought" thtNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> IN THIS GAME, YOUR ABILITY IS DEPENDENT ON SKILLS, LEVELS AND
+                STATS! </bubble>
+            <bubble type="thought" thtNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT MEANS THAT THE SUMMONED CAN ALSO BECOME STRONGER! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="thought" thtNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS ISN'T SOLO LEVLEING ANYMORE </bubble>
+            <systemMsg type="information">
+                <info>[YOUR JOB HAS BEEN CHOSEN.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>BASED ON THE AMOUNT OF POINTS YOU</info>
+                <info>OBTAINED, YOU WILL BE GIVEN A CHANCE TO</info>
+                <info>PROMOTE TO A SUPERIOR CLASS.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOU HAVE EXCEEDED THE EXPECTED PLAY TIME.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[POINTS WILL BE ADDED.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOU DID NOT USE A HEARTHSTONE.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[POINTS WILL BE ADDED.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOUR HEALTH IS ABOVE 50%.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[POINTS WILL BE ADDED.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[ALL ENEMIES HAVE BEEN SLAIN.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[POINTS WILL BE ADDED.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[THE TOTAL POINTS HACE EXCEEDED THE FEAT LIMIT.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <systemMsg type="information">
+                <info>[YOU HAVE BEEN PROMOTED FROM</info>
+                <info>'NECROMANCER' TO 'SHADOW LORD'.]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> SHADOW LORD? </bubble>
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> A PROMOTION! </bubble>
+            <systemMsg type="information">
+                <info>[YOU HAVE LEARNED A JOB EXCLUSIVE SKILL.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOU HAVE OBTAINED BONUS STATS.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOU HAVE OBTAINED THE TITLE 'THE ONE WHO OVERCAME ADVERSARY'.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="thought" thtNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> AN INSTANT PROMOTION! </bubble>
+            <bubble type="thought" thtNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> I PROBABLY GAINED THE RIGHTS TO PROMOTE BECAUSE OF ACCUMULATED
+                POINTS. </bubble>
+            <caption type="narration">WARRIOR->BERSERKER</caption>
+            <caption type="narration">KNIGHT->SWRODMASTER</caption>
+            <caption type="narration">MAGICIAN->GRAND MAGICIAN</caption>
+            <caption type="narration">NECROMANCER->SHADOW LORD</caption>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I DIDN'T OBTAIN ALL THOSE BONUS POINTS, I PROBABLY WOULD'VE HAD
+                TO STAY AS A NECROMANCER FOR A WHILE. </bubble>
+            <bubble type="thought" thtNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN HEAR SOME SORT OF SCREAM. </bubble>
+            <bubble type="thought" thtNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> A SCREAM OF PAIN. </bubble>
+            <systemMsg type="information">
+                <info>[SHADOW EXTRACTION CAN BE USED ON THIS TARGET.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[SHADOW EXTRACTION CAN BE USED ON THIS TARGET.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[SHADOW EXTRACTION CAN BE USED ON THIS TARGET.]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> OF COURSE. THIS IS A NECROMANCER'S ABILITY! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="thought" thtNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> SHADOW EXTRACTION IS DEFINETELY A SKILL THAT IS USED FOR TURNING
+                CORPSES INTO SUMMONABLE BEINGS. </bubble>
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> IF A NECROMANCER IS A COMMAND TYPE JOB... </bubble>
+            <systemMsg type="information">
+                <info>[PLEASE SSELECT YOUR COMMAND PHRASE</info>
+                <info>FOR SHADOW EXTRACTION.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> COMAND PHRASE... </bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> ..... </bubble>
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> ARISE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> HA... </bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS PRETTY COOL. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <systemMsg type="skill">
+                <info>[SKILL: SHADOW EXTRACTION LV.1]</info>
+                <info>JOB-SPECIFIC SKILL</info>
+                <info>NO MANA REQUIRED</info>
+                <info>A SHADOW SOLDIER IS CREATED FROM A BODY WITHOUT</info>
+                <info>LIFE BY TAKING OUT ITS MANA.</info>
+                <info>THE CHANCE OF FAILURE INCREASES THE HIGHER THE</info>
+                <info>TARGET'S STATS ARE. AND THE MROE THE TIME PASSED SINCE</info>
+                <info>THE TARGET'S DEATH</info>
+                <info>SHADOWS ABLE TO BE EXTRACED: 30/30</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[SKILL: SAVE SHADOW LV.1]</info>
+                <info>JOB-SPECIFIC SKILL</info>
+                <info>NO MANA REQUIRED</info>
+                <info>YOU ABSORB CREATED SHADAOW SOLDIERS AND SAVE THEM.</info>
+                <info>SAVED SOLDIERS CAN BE SUMMONED AND REABSORBED</info>
+                <info>WHENEVER AND WHEREVER THE ANIMATOR DESIRES.</info>
+                <info>SAVED SHADOWS: 0/20</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> DOES THAT MEAN I CAN TURN ALL THE DEAD GUYS INTO SUMMONABLE
+                BEINGS? </bubble>
+            <systemMsg type="information">
+                <info>[SHADOW INFANTRY LV.1]</info>
+                <info>RANK: NORMAL</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[SHADOW MAGICIAN LV.1]</info>
+                <info>RANK: ELITE</info>
+            </systemMsg>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> 27 INFANTRY AND 3 MAGICIANS. </bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN CREATE UP TO 30 SHADOW SOLDIERS BUT ONLY SAVE 20 OF THEM. </bubble>
+            <systemMsg type="information">
+                <info>[YOU HAVE REACHED THE SHADOW EXTRACTION LIMIT.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[SHADOWS ABLE TO BE EXTRACTED: 30/30]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT IF I OBTAIN THE SHADOW OF AN A OR S-RANK HUNTER? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="thought" thtNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> MY ARESENAL NOW CONTAINS TWO BEINGS WITH A-RANK OR STRONG SKILLS! </bubble>
+            <systemMsg type="information">
+                <info>[SHADOW EXTRACTION CAN BE USED ON THIS TARGET.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[IF YOU WANT TO USE SHADOW EXTRACTION AGAIN,</info>
+                <info>YOU MUST SEND ONE OR MORE SHADOW SOLDIERS TO THE</info>
+                <info>WORLD OF NOTHINGNESS THROUGH 'EXTRACTION CANCEL'.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL HAVE TO REMOVE THE WEAKEST ELEVEN. </bubble>
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M SORRY... EVEN THOUGH I CALLED YOU. </bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> CANCEL EXTRACTION ON ELEVEN INFANTRY UNITS. </bubble>
+            <systemMsg type="information">
+                <info>[YOU CANNOT RECALL SHADOWS SOLIERS </info>
+                <info>THAT HAVE BEEN SENT TO NOTHINGNESS.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> ...BLOOD-RED COMMANDER IGRIS. </bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I HAVE THIS GUY AS MY SERVANT... </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> ARISE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <systemMsg type="information">
+                <info>[YOU FAILED TO EXTRACT THE SHADOW.]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT?! </bubble>
+            <systemMsg type="information">
+                <info>[YOU STILL HACVE TWO CHANCES REMAINING]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S NOT EASY </bubble>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> THE EXTRACTION RATE IS BASED ON THE TARGET'S STRENGTH AND THE TIME
+                AFTER DEATH. THIS GUY IS A BOSS MONSTER, AND IT'S BEEN OVER 4 HOURS SINCE ITS DEATH,
+                SO OF COURSE IT WILL BE DIFFICULT. </bubble>
+            <systemMsg type="skill">
+                <info>[SKILL: SHADOW EXTRACTION LV.1]</info>
+                <info>JOB-SPECIFIC SKILL</info>
+                <info>NO MANA REQUIRED</info>
+                <info>A SHADOW SOLDIER IS CREATED FROM A BODY WITHOUT</info>
+                <info>LIFE BY TAKING OUT ITS MANA.</info>
+                <info>THE CHANCE OF FAILURE INCREASES THE HIGHER THE</info>
+                <info>TARGET'S STATS ARE. AND THE MROE THE TIME PASSED SINCE</info>
+                <info>THE TARGET'S DEATH</info>
+                <info>SHADOWS ABLE TO BE EXTRACED: 30/30</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> TWO CHANCES REMAINING! </bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> ARISE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <systemMsg type="information">
+                <info>[YOU FAILED TO EXTRACT THE SHADOW.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOU STILL HAVE ONE CHANCE REMAINING.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="35" who="Sung Jin-Woo">
+                <unique ans="n"/> THRONE... </bubble>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo">
+                <unique ans="n"/> STOP PROTECTING THE SEAT OF SOMEONE WHO HAS ALREADY LEFT... </bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> AND TRY PROTECTING ME, WHO IS IN FRONT OF YOU. </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> ARISE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="16"/>
+
+        <pageBrk/>
+
+        <page pageNum="17">
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo">
+                <unique ans="n"/> BLOOD-RED IGRIS... </bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> NO, THAT'S TOO EDGY... </bubble>
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo">
+                <unique ans="n"/> SIMPLY </bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> IGRIS. </bubble>
+            <systemMsg type="information">
+                <info>[YOU HAVE UPGRADED THE SHADOW.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[SHADOWS LEVEL WILL BE 7.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[SHADOWS HIGHER THAN RANK</info>
+                <info>KNIGHT CAN BE NAMED.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU ARE NOW </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="18">
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/> ''IGRIS'. </bubble>
+            <systemMsg type="information">
+                <info>[IGRIS LV.7]</info>
+                <info>RANK:KNIGHT</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOU HACE SUCCESFULLY EXTRACTED THE SHADOW.]</info>
+            </systemMsg>
+            <systemMsg type="statSheet">
+                <info>NAME: SUNG JIN-WOO</info>
+                <level>51</level>
+                <info>JOB: SHADOW LORD</info>
+                <info>FATIGUE: 0</info>
+                <info>TITLE: WOLF SLAYER (+1 MORE)</info>
+                <info>HP:11035</info>
+                <info>MP:1022</info>
+                <stat>STRENGTH: 132</stat>
+                <stat>VITALITY: 91</stat>
+                <stat>AGILITY: 111</stat>
+                <stat>INTELLIGENCE: 70</stat>
+                <stat>SENSE: 93</stat>
+                <info>PHYSICAL DAMAGE REDUCTION: 46% EQUIPPED</info>
+                <info>REMAINING POINTS: 10</info>
+                <info>[SKILLS]</info>
+                <info>[PASSIVE SKILLS]</info>
+                <info>(UNKNOWN) LV.MAX, PERSERVERANCE LV.1, ADVANCED DAGGER ARTS LV.1</info>
+                <info>[ACTIVE SKILLS]</info>
+                <info>SPRINT LV.2, BLOODLUST LV.1, VITAL STRIKE LV.2</info>
+                <info>DAGGER THROW LV.1, STEALTH LV.1</info>
+                <info>[CLASS SKILLS]</info>
+                <info>ACTIVE SKILLS: SHADOW EXTRACTION LV.1, SHADOW SAVE LV.1</info>
+                <info>[EQUIPPED ITEMS]</info>
+                <info>RED KNIGHT'S HELMET(S), WARDEN'S NECKLACE(A)</info>
+                <info>HIGH KNIGHT'S CHESTPLATE(B), HIGH KNIGHT'S GAUNTLET(B)</info>
+                <info>HIGH MAGICAN'S RING(B), ASSASSIN'S BOOTS(C)</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[TITLE: THE ONE WHO OVERCAME ADVERSARY]</info>
+                <info>A TITLE GIVEN TO THOSE WHO OVERCAME</info>
+                <info>ADVERSARY HEROICALLY</info>
+                <info>YOUR STATS INCREASE PROPORTIONALLY TO </info>
+                <info>YOUR MISSING HEALTH.</info>
+                <info>(1% STAT INCREASE EVERY 1% HP MISSING)</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="19">
+            <bubble type="speech" spNum="45" who="Sung Jin-Woo">
+                <unique ans="n"/> TAKE GOOD CARE OF ME. </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 19 PAGES, 45 INSTANCES OF SPEECH, 32 INSTANCES OF THOUGHT, 1 UNIQUE SPEAKER -->
+<!-- NEW ITEMS, NONE
+     STAT UPDATE: STRENGTH 132, VITALITY 91, AGILITY 111, INTELLIGENCE 70, SENSE 93
+     NEW SKILL: SHADOW CANCEL, SHADOW EXTRACTION, SAVE SHADOW
+     LEVELS GAINED: NONE, CURRENT LEVEL 51-->

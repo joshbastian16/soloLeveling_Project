@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="42">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> WHY DO YOU ALWAYS MOVE AWAY FROM THE SAFE ROAD AND
+                DANCE WITH DEATH ON EVERY OCCASION? </bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> ISN'T IT A GREAT FORTUNE THAT AN E-RANK HUNTER LIKE YOU WAS ABLE
+                TO GROW THIS MUCH? </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> ISN'T THAT RIGHT? </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> SUNG JIN-WOO. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> WOW, IS THIS REALLY ME? </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN'T BELIEVE THAT WE'RE THE SAME PERSON. </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU'RE TALLER, GAINED A LOT OF MUSCLE, AND LOOK SHARPER. </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU LOOK QUITE STRONG AS WELL? </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT THE ONLY THING THAT CHANGED WAS YOUR APPEARANCE. </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU'RE STILL A WEAKLING. </bubble>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT'S THE DIFFERNCE BETWEEN YOU AND ME? </bubble>
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU GOT YOURSELF IN A SITUATION WHERE YOU'RE IN FRONT OF DEATH
+                ONCE MORE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> E-RANK HUNTER SUNG JIN-WOO. </bubble>
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> IN THE END, THAT'S ALL YOU ARE </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> IF YOU DON'T KNOW HOW TO CONTROL YOURSELF, YOUR COURAGE BECOMES
+                RECKLESSNESS. </bubble>
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> ...... </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> SHUT UP. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> ?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5"/>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU HAVE A LONG WAY TO GO. </bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> FROM NOW ON YOU HAVE TO KILL MORE PEOPLE, </bubble>
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> AND SACRIFICE OR LEAVE BEHIND A LOT OF PEOPLE. </bubble>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> INCLUDING FRIENDS AND FAMILY. </bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU WILL BE THE ONE TO BRING ABOUT YOUR OWN DEMISE. </bubble>
+            <caption type="thought" thtNum="1" who="Sung Jin-Woo">WHAT...</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <caption type="thought" thtNum="2" who="Sung Jin-Woo">IT'S THE SAME AS BACK
+                THEN.</caption>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT WHAT HAPPENED... </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> AFTER THAT? </bubble>
+            <caption type="thought" thtNum="5" who="Sung Jin-Woo">I CAN'T REMEMBER.</caption>
+            <systemMsg type="information">
+                <info>QUEST DIRECTIONS</info>
+                <info>DAILY QUEST - GETTING READY TO BECOME POWERFUL.</info>
+                <info>GOAL</info>
+                <info>-PUSH-UPS [0/100]</info>
+                <info>-CURL-UPS [0/100]</info>
+                <info>-SQUATS [0/100]</info>
+                <info>-RUNNUNG [0/10KM]</info>
+                <info>WARNING- FAILING TO COMPLETE THIS DAILY QUEST</info>
+                <info>WILL BRING A PUNISHMENT ASSOSCIATED WITH THIS QUEST.</info>
+            </systemMsg>
+            <caption type="thought" thtNum="6" who="Sung Jin-Woo">WHAT?</caption>
+            <systemMsg type="information">
+                <info>[8 SECONDS LEFT]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[7 SECONDS LEFT]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[6 SECONDS LEFT]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[5 SECONDS LEFT]</info>
+            </systemMsg>
+            <caption type="thought" thtNum="7" who="Sung Jin-Woo">IS THE DAILY QUEST
+                ENDING?</caption>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> THEY SAY THAT LUCK IS ALSO A SKILL. </bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> IT LOOKS LIKE LEAVING YOU TO DIE HERE IS TOO MUCH OF A WASTE FOR
+                IT. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> SEE YOU. </bubble>
+            <systemMsg type="information">
+                <info>[1 SECOND LEFT]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[0 SECONDS LEFT]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU HAVE FAILED TO COMPLETE THE DAILY QUEST.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[YOU ARE BEING MOVED TO THE PENALTY ZONE.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="27" who="monster">
+                <unique ans="n"/> ?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS... </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> ...THE PENALTY ZONE? </bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> LOOKING BACK, I REALLY DIDN'T DO TODAY'S DAILY QUEST. </bubble>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> SO THE TIME RAN OUT... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT GOOD TIMING. TO THINK THAT I WOULD COME OUT ALIVE FROM THAT
+                SITUATION. </bubble>
+            <systemMsg type="information">
+                <info>[HP: 93/10278]</info>
+                <info>[MP: 202/850]</info>
+                <info>[FATIGUE: 91]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> "GOOD LUCK" </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> WAS THE QUEST SO HARD THAT IT HAD TO WISH ME LUCK? </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> OR DID IT MEAN TO ENCOURAGE ME TO GET A HIGH AMOUNT OF POINTS? </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> LUCK, COINCIDENCE... CALL IT WHATEVER YOU LIKE. </bubble>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> STORE. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <systemMsg type="information">
+                <info>[FATIGUE: 91]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> I THINK IT'S THE FIRST TIME THAT MY FATIGUE WENT ABOVE 90. </bubble>
+            <systemMsg type="information">
+                <info>NORMAL RESORATION POTION 1.000G</info>
+                <info>HEROIC RESTORATION POTION 2.000G</info>
+                <info>LEGENDARY RESTORATION POTION 5.000G</info>
+                <info>MYTHICAL RESTORATION POTION 10.000G</info>
+            </systemMsg>
+            <bubble type="speech" spNum="35" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE I'M STACKED WITH GOLD, I SHOULD USE THE HIGHEST GRADE
+                POTION. </bubble>
+            <systemMsg type="information">
+                <info>[YOUR FATIGUE IS BEING RESTORED.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOUR FATIGUE IS BEING RESTORED.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOUR FATIGUE IS BEING RESTORED.]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> WHILE MY FATIGUE CAN BE RESTORED, MY HEALTH CANNOT. </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> LOOKS LIKE POTIONS DON'T RESTORE HP IF I'M SERIOUSLY WOUNDED. IT
+                LOOKS LIKE THE ONLY WAY IS TO WAIT UNTIL IT NATURALLY RESTORES ITSELF. </bubble>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo">
+                <unique ans="n"/> I DON'T KNOW ABOUT THE JOB CHANGE QUEST'S DUNGEON ZONE, BUT MAYBE
+                I'LL ABLE TO HEAL MY HP THROUGH LEVELING UP IN HERE? </bubble>
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN IF I MIGHT DIE IN ONE HIT, </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> I'VE NEVER FELT BETTER. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo">
+                <unique ans="n"/> THE QUESTION IS IF THE MONSTERS WILL HELP ME LEVEL UP... </bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT I SHOULDN'T HAVE WORRIED ABOUT THAT. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <caption type="thought" thtNum="14" who="Sung Jin-Woo">SEE YOU?</caption>
+            <caption type="thought" thtNum="15" who="Sung Jin-Woo">SURE.</caption>
+            <caption type="thought" thtNum="16" who="Sung Jin-Woo">IF WE CAN SURVIVE UNTIL THE
+                END.</caption>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>[PENALTY QUEST: SURVIVE]</info>
+                <info>GOAL: SURVIVE UNTIL THE TIME RUNS OUT.</info>
+                <info>TIME REQUIRED: 4 HOURS</info>
+                <info>REMAINING TIME: 4 H 0 MIN 0 SEC</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15">
+            <caption type="thought" thtNum="17" who="Sung Jin-Woo">IF THE PAIN DOESN'T KILL
+                ME</caption>
+            <caption type="thought" thtNum="18" who="Sung Jin-Woo">IT WILL ONLY MAKE ME
+                STRONGER.</caption>
+            <systemMsg type="information">
+                <info>REMAINING TIME: 4 H 0 MIN 0 SEC</info>
+            </systemMsg>
+        </page>
+    </body>
+</chapter>
+<!-- 15 PAGES, 40 INSTANCES OF SPEECH, 18 INSTANCES OF THOUGHT, 1 UNIQUE SPEAKER -->
+<!-- NEW ITEMS: NONE
+     STAT UPDATE: NONE
+     NEW SKILLS: NONE
+     NEW LEVELS: NONE, CURRENT LEVEL: UNKNOWN-->

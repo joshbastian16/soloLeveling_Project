@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="40">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> HA... </bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> HA... </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> HAAH... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2"/>
+
+        <pageBrk/>
+
+        <page pageNum="3"/>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <systemMsg type="item">
+                <info>[ITEM: HIGH KIGHT'S GAUNTLET]</info>
+                <info>ITEM CLASS: B</info>
+                <info>TYPE: ARMOR</info>
+                <info>+3% PHYSICAL DAMAGE REDUCTION</info>
+                <info>ADDITIONAL EFFECTl PREVENTS HAND INJURIES.</info>
+                <info>(YOUR MOVEMENT SPEED WILL DECREASE IF YOUR</info>
+                <info>STRENGTH IS BELOW 80.)</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> I... </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> HAVEN'T...! </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> LOST YET!! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6"/>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> I WON'T HAND THIS ITEM OVER TO ANYONE ELSE. </bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN TAKE BACK MY STOLEN DAGGER! </bubble>
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> AND CALL IT AGAIN!! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S SHALLOW! A BIT MORE!! </bubble>
+            <systemMsg type="skill">
+                <info>[ACTIVE]</info>
+                <info>VITAL STRIKE Lv.1</info>
+                <info>70 MANA</info>
+                <info>DAGGER ONLY</info>
+                <info>-YOU HAVE LEARNED TO ATTACK EFFICIENTLY. YOU NOW DEAL</info>
+                <info>CRITICAL DAMAGE AS YOU ATTACK YOUR FOE'S VITAL AREAS.</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[ACTIVE]</info>
+                <info>VITAL STRIKE Lv.1</info>
+                <info>70 MANA</info>
+                <info>DAGGER ONLY</info>
+                <info>-YOU HAVE LEARNED TO ATTACK EFFICIENTLY. YOU NOW DEAL</info>
+                <info>CRITICAL DAMAGE AS YOU ATTACK YOUR FOE'S VITAL AREAS.</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[ACTIVE]</info>
+                <info>VITAL STRIKE Lv.1</info>
+                <info>70 MANA</info>
+                <info>DAGGER ONLY</info>
+                <info>-YOU HAVE LEARNED TO ATTACK EFFICIENTLY. YOU NOW DEAL</info>
+                <info>CRITICAL DAMAGE AS YOU ATTACK YOUR FOE'S VITAL AREAS.</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[ACTIVE]</info>
+                <info>VITAL STRIKE Lv.1</info>
+                <info>70 MANA</info>
+                <info>DAGGER ONLY</info>
+                <info>-YOU HAVE LEARNED TO ATTACK EFFICIENTLY. YOU NOW DEAL</info>
+                <info>CRITICAL DAMAGE AS YOU ATTACK YOUR FOE'S VITAL AREAS.</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> HAAAAAAAAAAAAAAAAAA </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <info>YOU HAVE SLAIN</info>
+                <info>[BLOOD-RED COMMANDER IGRIS].</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>ALARM</info>
+                <levelUp>[YOU HAVE LEVELED UP!]</levelUp>
+                <levelUp>[YOU HAVE LEVELED UP!]</levelUp>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> DID I... </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> ...WIN? </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT WAS REALLY CLOSE. </bubble>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> ABILITY, TECHNIQUE, SKILL, EXPERIENCE. I WASN'T BETTER IN AY OF
+                THOSE. </bubble>
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S PURE LUCK THAT I MANAGED TO WIN. </bubble>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I MADE A MISTAKE, I WOULD HAVE DIED. </bubble>
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> IF IT'S THIS STRONG, IT COULD FIGHT TOE-TO-TOE WITH AN A-RANK
+                HNUTER AND NOT FALL BEHIND. </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> ? </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> ITEMS! </bubble>
+            <systemMsg type="item">
+                <info>[RED KNNIGHT'S HELMET]</info>
+                <info>[DOMINATOR'S TOUCH]</info>
+                <info>[LEATHER POUCH]</info>
+                <info>[HEARTHSTONE] HAVE BEEN OBTAINED.</info>
+            </systemMsg>
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> FOUR AT ONCE! THIS REWARD IS ON ANOTHER ELVEL! </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> IT LOOKS LIKE IT WAS WORTH TO RISK MY LIFE HERE AFTER ALL. </bubble>
+            <systemMsg type="item">
+                <info>[ITEM: LEATHER POUCH]</info>
+                <info>HAS BEEN OPENED.</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>YOU HAVE RECIEVED</info>
+                <info>[1,500,000 GOLD].</info>
+            </systemMsg>
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> THEY GAVE ME AS MUCH GOLD AS I HAVE RIGHT NOW? </bubble>
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> TO THINK THAT MY GOLD DOUBLED IN AN INSTANT. </bubble>
+            <systemMsg type="information">
+                <info>[TOTAL GOLD: 3,115,629G]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> FURTHERMORE, AN S-RANK ITEM! </bubble>
+            <systemMsg type="item">
+                <info>[ITEM: RED KNIGHT'S HELMET]</info>
+                <info>ITEM CLASS: S</info>
+                <info>TYPE: ARMOR</info>
+                <info>+15% PHYSICAL DAMAGE REDUCTION</info>
+                <info>+ 20 VITALITY, +20 STRENGTH</info>
+            </systemMsg>
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> EXCLUDING THE DEMON CASTLE KEY, ISN'T THIS THE FIRST TIME I'VE GOT
+                MY HANDS ON A PIECE OF S-RANK EQUIPMENT?! </bubble>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> THE STATS ARE ON ANOTHER LEVEL TOO. </bubble>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN WITH THE 15% DAMAGE REDUCTION IT WOULD BE AMAZING, BUT +20
+                STATS ON VITALITY AND STRENGTH AS WELL. THAT'S INCREDIBLE. </bubble>
+            <systemMsg type="statSheet">
+                <stat>STRENGTH: 128 (+20)</stat>
+                <stat>VITALITY: 87 (+20)</stat>
+                <stat> AGILITY: 127</stat>
+                <stat>INTELIGENCE: 61</stat>
+                <stat>SENSE: 89</stat>
+                <info>PHYSICAL DAMAGE REDUCTION: 46% (+15%) EQUIPPED</info>
+            </systemMsg>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> AND A RUNE STONE AS WELL. I WONDER WHAT SKILL IT CONTAINS? </bubble>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> AND... </bubble>
+            <systemMsg type="item">
+                <info>[RUNE STONE: DOMINATORS TOUCH]</info>
+                <info>TYPE: RUNE STONE</info>
+                <info>A SKILL CAN BE OBTAINED BY BREAKING THE RUNE.</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[ITEM: HEARTHSTONE]</info>
+                <info>TPYE: CONSUMABLE</info>
+                <info>A QUEST-EXCLUSIVE ITEM. IF YOU BREAK</info>
+                <info>THE HEARTHSTONE, YOU WILL INSTANTLY LEAVE THE</info>
+                <info>DUNGEON. IF THE JOB QUEST ENDS, THE DUNGEON IS</info>
+                <info>AUTOMATICALLY DESTROYED. CANNOT BE STORED.</info>
+            </systemMsg>
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> A HEATHSTONE? </bubble>
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> WHY WAS I GEVEN A HEARTHSTONE? THIS WAS DEFINETELY THE BOSS
+                ROOM... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> IF A HEATHSTONE WAS DROPPED... </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> PERHAPS... </bubble>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> DOES THAT MEAN THE QUEST IS NOT OVER YET? </bubble>
+            <systemMsg type="item">
+                <info>[ITEM: RED KNIGHT'S HELMET]</info>
+                <info>ITEM CLASS: S</info>
+                <info>TYPE: ARMOR</info>
+                <info>+15% PHYSICAL DAMAGE REDUCTION</info>
+                <info>+ 20 VITALITY, +20 STRENGTH</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[RUNE STONE: DOMINATORS TOUCH]</info>
+                <info>TYPE: RUNE STONE</info>
+                <info>A SKILL CAN BE OBTAINED BY BREAKING THE RUNE.</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[ITEM: HEARTHSTONE]</info>
+                <info>TPYE: CONSUMABLE</info>
+                <info>A QUEST-EXCLUSIVE ITEM. IF YOU BREAK</info>
+                <info>THE HEARTHSTONE, YOU WILL INSTANTLY LEAVE THE</info>
+                <info>DUNGEON. IF THE JOB QUEST ENDS, THE DUNGEON IS</info>
+                <info>AUTOMATICALLY DESTROYED. CANNOT BE STORED.</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[ITEM: LEATHER POUCH]</info>
+                <info>TYPE: CONTAINER</info>
+                <info>A POUCH USED TO STORE POSSESSIONS.</info>
+                <info>CONTAINS 1,500,000 GOLD.</info>
+            </systemMsg>
+        </page>
+    </body>
+</chapter>
+<!-- 13 PAGES, 30 INSTANCES OF SPEECH, 5 INSTANACES OF THOUGHT, 1 UNIQUE SPEAKER -->
+<!-- NEW ITEMS: RED KNNIGHT'S HELMET, RUNE STONE: DOMINATORS TOUCH, HEARTHSTONE, LEATHER POUCH
+     STAT UPDATE: STRENGTH 127, VITATLITY 87, AGILITY 127, INTELLIGENCE 61, SENSE 89
+     NEW SKILLS: NONE
+     LEVELS GAINED: 2, CURRENT LEVEL: UNKNOWN-->

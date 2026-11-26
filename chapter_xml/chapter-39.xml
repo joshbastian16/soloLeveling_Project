@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="39">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <caption type="information">[BLOOD-RED COMMANDER IGRIS]</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> A DARK RED NAME! </bubble>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S DEFINETELY DIFFERENT FROM THE OTHERS. </bubble>
+            <caption type="narration">A KNIGHT THAT PROTECTS THE EMPTY THRONE.</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S COMING! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> IT CUT THE PILLARS LIKE TOFU?! </bubble>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT AN INSANELY STRONG BASTARD!! </bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> TSK... IT'S NOT PENETRATING. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5"/>
+
+        <pageBrk/>
+
+        <page pageNum="6"/>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> THE ARMOR'S SPEED REDUCTION IS ONLY APPLIED IF YOUR STRENGTH IS
+                BELOW 80. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS GUYS STRENGTH IS DEFINETELY OVER 80! </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S DESTRUCTIVENESS IS DEFINETELY HIGHER THAN MINE </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> SAME FOR AGILITY. </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> AND ITS ARMOR CAN BLOCK MY DAGGER, THAT MEANS EVEN ITS DEFENSE IS
+                HIGHER. </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> IS THERE EVEN A WAY I CAN BEAT THIS? </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S EVENM STRONGER THAN I IMAGINED! </bubble>
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> I DON'T THINK I CAN WIN WITHOUT A WEAPON, BUT... </bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I CAN'T PENETRATE THE ARMOR, I CAN'T DEAL DAMAGE ANYWAY. </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS THE ONLY WAY! </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS MIGHT BE EVEN WORSE! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9"/>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> CHIVALRY? </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU'RE NOT TAKING ME SERIOUSLY. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11"/>
+
+        <pageBrk/>
+
+        <page pageNum="12"/>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="thought" thtNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> I GUARDED THAT HIT, BUT IT FEELS LIKE I STILL LOST AROUND 500
+                HEALTH! </bubble>
+            <bubble type="thought" thtNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I DIDN'T HAVE ARMOR, THEN...! </bubble>
+            <bubble type="thought" thtNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> I WON'T COME OUT ALIVE IF I KEEP TAKING DIRECT HITS. </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S STILL INSANELY STRONG EVEN WITHOUT ITS SWORD...! </bubble>
+            <caption type="thought" thtNum="18" who="Sung Jin-Woo">HOW DO I...</caption>
+            <caption type="thought" thtNum="19" who="Sung Jin-Woo">EVEN PUT UP A DECENT FIGHT
+                AGAINST THIS MONSTER?</caption>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> EVEN IF I LOSE IN STRENGTH, I STILL HAVE SPEED! </bubble>
+            <systemMsg type="skill">
+                <info>ALARM</info>
+                <info>-[SKILL: SPRINT] WAS ACTIVATED</info>
+                <info>-MOVEMENT SPEED WILL INCREASE BY 30%</info>
+                <info>-1 MANA WILL BE CONSUMED EVERY MINUTE.</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="15"/>
+
+        <pageBrk/>
+
+        <page pageNum="16">
+            <systemMsg type="skill">
+                <info>ALARM</info>
+                <info>-AS YOUR HEALTH HAS DROPPED BELOW 30%,</info>
+                <info>[SKILL: 'PERSERVERANCE'] WILL ACTIVATE.</info>
+                <info>-DAMAGE TAKEN WILL BE REDUCED BY 50%.</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="17">
+            <bubble type="thought" thtNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> IF MY DEFEBSE INCREASED DUE TO MY PASSIVE SKILL, I STILL HAVE A
+                CHANCE! </bubble>
+            <bubble type="thought" thtNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> I CAN'T GIVE UP...!! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="18"/>
+
+        <pageBrk/>
+
+        <page pageNum="19">
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> HA... </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> HA... </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> HAAH... </bubble>
+        </page>
+    </body>
+</chapter>
+<!-- 19 PAGES, 10 INSTANCES OF SPEECH, 21 INSTANCES OF THOUGHT, 1 UNIQUE SPEAKER -->
+<!-- NEW ITEMS: NONE
+     STAT UPDATE: NONE
+     NEW SKILL: NONE
+     LEVELS GAINED: NONE, CURRENT LEVEL: UNKNOWN-->

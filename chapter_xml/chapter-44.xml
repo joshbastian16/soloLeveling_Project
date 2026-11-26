@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="44">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="1"/> THIS IS NOT THE END! I HAVE TO FIND THE REMAINING
+                MAGICIANS! </bubble>
+            <systemMsg type="skill">
+                <info>[SKILL: STEALTH LV.1]</info>
+                <info>ACTIVE SKILL</info>
+                <info>200 MANA</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[MAGICIAN IS USING 'SKILL: DETECTION'].</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[MAGICIAN IS USING 'SKILL: DETECTION'].</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[MAGICIAN IS USING 'SKILL: DETECTION'].</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[MAGICIAN IS USING 'SKILL: DETECTION'].</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU MAY HAVE DOUND MY POSITION, </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT THANKS TO THAT, I FOUND YOURS AS WELL </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE ARE FIVE MAGICIANS REMAINING! </bubble>
+            <systemMsg type="skill">
+                <info>[SKILL: DOMINATOR'S TOUCH LV.1]</info>
+                <info>ACTIVE SKILL</info>
+                <info>NO MANA REQUIRED</info>
+                <info>YOU CAN CONTROL OBJECTS WITHOUT TOUCHING THEM.</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <systemMsg type="information">
+                <info>[YOU HAVE SLAIN A MAGICIAN.]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> ONLY FOUR LEFT </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <systemMsg type="skill">
+                <info>[DOMINATOR'S TOUCH LV.1]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5"/>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL SLICE YOU ALL TO PIECES! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <bubble type="speech" spNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> HOW LONG ARE YOU GOING TO HIDE BEHIND YOUR KNIGHTS?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <systemMsg type="information">
+                <info>[YOU HAVE SLAIN A MAGICIAN.]</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> THREE LEFT! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> A GOLEM?! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10"/>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> THE NUMBERS DECREASED IN EXCHANGE FOR DESTUCTIVENESS! </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> NOW'S THE TIME! </bubble>
+            <systemMsg type="information">
+                <info>[YOU HAVE SLAIN A MAGICIAN.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOU HAVE SLAIN A MAGICIAN.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[YOU HAVE SLAIN A MAGICIAN.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <bubble type="speech" spNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> PHRW~ </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> IT WOULD HAVE TIKEN MORE TIME IF THEY WEREN'T GROUPED UP WHILE
+                SUMMONING THE GOLEM. </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> IS IT OVER? </bubble>
+            <systemMsg type="information">
+                <info>04:29:16</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[ALL THE MONSTERS IN</info>
+                <info>THE ROOM HAVE BEEN SLAIN.</info>
+                <info>THE QUEST WILL END NOW.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> OR WILL SOMETHING ELSE APPEAR...? </bubble>
+            <systemMsg type="information">
+                <info>[YOU WILL BE BALE TO CHOOSE A</info>
+                <info>CLASS BASED ON THE AMOUNT OF POINTS</info>
+                <info>YOU HAVE COLLECTED.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <bubble type="speech" spNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S OVER. I'LL GET A JOB NOW. </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> SINCE I USE A DAGGER, IT'S OBVIOUS THAT I SHOULD CHOOSE ASSASSIN. </bubble>
+            <systemMsg type="information">
+                <info>[A JOB WILL BE GRANTED AFTER THE</info>
+                <info>PLAYER'S ACTIONS HAVE BEEN ANALYSED.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> GRANTED? </bubble>
+            <bubble type="speech" spNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> I'M NOT ALLOWED TO CHOOSE? </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> I PUT ALL MY STATS IN STRENGTH AND AGILITY. </bubble>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL PROBABLY GET EITHER WARRIOR DUE TO MY HIGH STRENGTH OR
+                ASSASSIN BECASUE OF MY AGILLITY, </bubble>
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> OR PERHAPS A TANK IS POSSIBLE AS WELL WITH MY HIGH VITALITY STAT. </bubble>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'LL BE ONE OF THOSE THREE. </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> EITHER WAY, I'LL BECOME STRONGER. </bubble>
+            <systemMsg type="information">
+                <info>[WHEREVER THE PLAYER GOES,</info>
+                <info>THE REAPER FOLLOWS.]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[THE PLAYER'S PATH IS LITTERED WITH CORPSES,</info>
+                <info>AND THE SMELL OF BLOOD,]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT IS IT SAYING? </bubble>
+            <systemMsg type="information">
+                <info>[AS THE PLAYER POSSESSES STRENGTH,</info>
+                <info>HE DOES NOT LEAVE ANYTHING TO HIS TEAMMATES,</info>
+                <info>AND OVERCOMES EVERYTHING WITH HIS OWN</info>
+                <info>STRENGTH.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> FROM THE TEXT, IT SEEMS LIKE WARRIOR. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <systemMsg type="information">
+                <info>[YOUR DESIRE FOR STRENGTH BURNS STRONG</info>
+                <info>ENOUGH TO CALL THOSE WHO WANDER THE VALLEY</info>
+                <info>OF DEATH, AND THE ARMY OF THE DEAD WHO FOLLOWS</info>
+                <info>YOUR COMMANDS SHALL CREATE A PATH WHERE YOUR</info>
+                <info>THREAD WILL BE THE LAW AND YOU WOULD NEVER</info>
+                <info>NEED ANOTHER'S HELP AGAIN.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> ...ARMY OF THE DEAD? </bubble>
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> WAIT. </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> WHAT'S THIS... </bubble>
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS... </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> ...MY JOB? </bubble>
+            <systemMsg type="item">
+                <info>[ITEM: KNIGHT KILLER]</info>
+                <info>ITEM CLASS: B</info>
+                <info>TYPE: DAGGER</info>
+                <info>+75 ATTACK</info>
+                <info>EFFECT 'KNIGHT SLAYER': IF USED AGAINST AN</info>
+                <info>OPPONET WITH HEAVY ARMOR, YOUR ATTACKS</info>
+                <info>DEAL 25% ADDITIONAL DAMAGE.</info>
+            </systemMsg>
+            <systemMsg type="item">
+                <info>[ITEM: RASAKA'S FANG]</info>
+                <info>ITEM CLASS: C</info>
+                <info>TYPE: DAGGER</info>
+                <info>+25 ATTACK</info>
+                <info>A DAGGER MADE FROM RASAKA'S FANG.</info>
+                <info>ABLE TO PARALYZE DUE TO LEFTOVER VENOM. GRANTS BLEED</info>
+                <info>EFFECT. CAN BE EQUIPPED, STORED, OR SOLD/</info>
+                <info>-EFFECT 'PARALYZE': ATTACKED FOES HAVE A CHANCE TO</info>
+                <info>BECOME UNABLE TO MOVE.</info>
+                <info>-EFFECT 'BLEED': ATTACKED FOES LOSE 1% OF THEIR</info>
+                <info>HEALTH EVERY 1 SECOND.</info>
+            </systemMsg>
+        </page>
+    </body>
+</chapter>
+<!-- 14 PAGES, 17 INSTANCES OF SPEECH, 14 INSTANCES OF THOUGHT, 1 UNIQUE SPEAKER -->
+<!-- NEW ITEMS NONE:
+     STAT UPDATE: NONE
+     NEW SKILLS: NONE
+     NEW LEVELS: 0, CURRENT LEVEL: 51-->

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="projectSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<chapter num="43">
+    <title>Solo Leveling</title>
+    <author>Chugong</author>
+    <illustrator>Jang Sung-Rak</illustrator>
+    <body>
+        <page pageNum="1">
+            <bubble type="speech" spNum="1" who="Sung Jin-Ah">
+                <unique ans="y" uniNum="1"/> UGH... </bubble>
+            <bubble type="speech" spNum="2" who="Sung Jin-Ah">
+                <unique ans="n"/> WHAT A STRANGE DREAM. </bubble>
+            <bubble type="speech" spNum="3" who="Sung Jin-Ah">
+                <unique ans="n"/> WHAT, IS HE NOT BACK HOME YET? </bubble>
+            <bubble type="speech" spNum="4" who="Sung Jin-Ah">
+                <unique ans="n"/> IS HE STILL WORKING THIS LATE? </bubble>
+            <bubble type="speech" spNum="5" who="Sung Jin-Ah">
+                <unique ans="n"/> OR MAYBE HE GOT A GIRLFR... </bubble>
+            <bubble type="speech" spNum="6" who="Sung Jin-Ah">
+                <unique ans="n"/> NO, NO. THERE'S NO WAY HE COULD EVER GET ONE. </bubble>
+            <bubble type="speech" spNum="7" who="Sung Jin-Ah">
+                <unique ans="n"/> I DEFINETELY TOLD HIM THAT THERE IS A PARENT TEACHER MEETING
+                TODAY. </bubble>
+            <bubble type="speech" spNum="8" who="Sung Jin-Ah">
+                <unique ans="n"/> HE'LL COME... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="2">
+            <bubble type="speech" spNum="9" who="Sung Jin-Ah">
+                <unique ans="n"/> ...RIGHT? </bubble>
+            <systemMsg type="information">
+                <info>[PENALTY QUEST: SURVIVE]</info>
+                <info>GOAL: SURVIVE UNTIL THE TIME RUNS OUT.</info>
+                <info>TIME REQUIRED: 4 HOURS</info>
+                <info>REMAINING TIME: 0 H 15 MIN 22 SEC</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>VITAL STRIKE LV.1</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="3">
+            <systemMsg type="information">
+                <info>['VITAL STRIKE' HAS LEVELED UP!]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <levelUp>[YOU LEVELED UP!]</levelUp>
+            </systemMsg>
+            <systemMsg type="information">
+                <levelUp>[YOU LEVELED UP!]</levelUp>
+            </systemMsg>
+            <systemMsg type="information">
+                <levelUp>[YOU LEVELED UP!]</levelUp>
+            </systemMsg>
+            <systemMsg type="information">
+                <levelUp>[YOU LEVELED UP!]</levelUp>
+            </systemMsg>
+            <bubble type="speech" spNum="10" who="Sung Jin-Woo">
+                <unique ans="y" uniNum="2"/> AS EXPECTED, PENALTY ZONES ALLOW YOU TO HEAL THROUGH
+                LEVELING UP. SINCE I CAAN USE THE STORE AS WELL, I CAN KEEP HEALING THE REST WITH
+                POTIONS. </bubble>
+            <systemMsg type="information">
+                <info>[NAME: SUNG JIN-WOO]</info>
+                <level>[LEVEL: 51]</level>
+                <info>[HP: 11035]</info>
+                <info>[MP: 1022]</info>
+                <info>[FATIGUE: 0]</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>[PENALTY QUEST: SURVIVE]</info>
+                <info>GOAL: SURVIVE UNTIL THE TIME RUNS OUT.</info>
+                <info>TIME REQUIRED: 4 HOURS</info>
+                <info>REMAINING TIME: 0 H 3 MIN 19 SEC</info>
+            </systemMsg>
+            <bubble type="speech" spNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> 3 MINUTES BEFORE I RETURN TO THE JOB CHANGE QUEST... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="4">
+            <bubble type="speech" spNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> I STILL HAVE SOME TIME TO PREPARE. </bubble>
+            <bubble type="speech" spNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> RASAKA'S FANG ISN'T ENOUGH TO PIERCE THROUGH THE KNIGHT'S DEFENCE/ </bubble>
+            <bubble type="speech" spNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL HAVE TO DO EVERYTHING I CAN. </bubble>
+            <bubble type="speech" spNum="15" who="Sung Jin-Woo">
+                <unique ans="n"/> I NEED A STRONGER WEAPON. </bubble>
+            <bubble type="speech" spNum="16" who="Sung Jin-Woo">
+                <unique ans="n"/> STORE. </bubble>
+            <bubble type="speech" spNum="17" who="Sung Jin-Woo">
+                <unique ans="n"/> A DAGGER SUITABLE FOR PIERCING HEAVY ARMOR... </bubble>
+            <systemMsg type="information">
+                <info>STORE</info>
+                <info>GUARDIAN SABRE 890,000 G</info>
+                <info>ORACLE SWORD 1,300,000 G</info>
+                <info>STONE AXE 1,800,000 G</info>
+                <info>KNIGHT KILLER 2,800,800</info>
+                <info>G 3,102,629</info>
+                <info>BUY</info>
+                <info>SELL</info>
+            </systemMsg>
+            <bubble type="speech" spNum="18" who="Sung Jin-Woo">
+                <unique ans="n"/> FOUND IT. </bubble>
+            <systemMsg type="information">
+                <info>[YOU HAVE PURCHASED 'KNIGHT KILLER'.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="19" who="Sung Jin-Woo">
+                <unique ans="n"/> 2,800,000 GOLD. </bubble>
+            <bubble type="speech" spNum="20" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S A BIT EXPENSIVE, BUT... </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="5">
+            <bubble type="speech" spNum="21" who="Sung Jin-Woo">
+                <unique ans="n"/> WITH THIS IT'LL BE DIFFERENT FROM LAST TIME. </bubble>
+            <systemMsg type="item">
+                <info>[ITEM: KNIGHT KILLER]</info>
+                <info>ITEM CLASS: B</info>
+                <info>TYPE: DAGGER</info>
+                <info>+75 ATTACK</info>
+                <info>EFFECT 'KNIGHT SLAYER': IF USED AGAINST AN</info>
+                <info>OPPONET WITH HEAVY ARMOR, YOUR ATTACKS</info>
+                <info>DEAL 25% ADDITIONAL DAMAGE.</info>
+            </systemMsg>
+            <bubble type="speech" spNum="22" who="Sung Jin-Woo">
+                <unique ans="n"/> IF I DO THIS, THEN I WON'T DROP MY WEAPON LIKE I DID WITH THE
+                HEARTH STONE. </bubble>
+            <systemMsg type="item">
+                <info>[YOU HAVE PURCHASED 'BANDAGE'.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="23" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S NO OTHER WAY, I HAVE TO TRY IT OUT. </bubble>
+            <bubble type="speech" spNum="24" who="Sung Jin-Woo">
+                <unique ans="n"/> I ALSO HAVE THIS LEFT/ </bubble>
+            <systemMsg type="item">
+                <info>[RUNE STONE: DOMINATOR'S TOUCH]</info>
+                <info>A SKILL CAN BE OBTAINED BY BREAKING THE RUNE.</info>
+            </systemMsg>
+            <bubble type="speech" spNum="25" who="Sung Jin-Woo">
+                <unique ans="n"/> THE RUNE STONE I OBTAINED FROM TAKING DOWN GANG TAE-SHIK LET ME
+                ABSORB AND LEARN 'STEALTH'. </bubble>
+            <bubble type="speech" spNum="26" who="Sung Jin-Woo">
+                <unique ans="n"/> THAT MEANS THIS TIME...! </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="6">
+            <systemMsg type="skill">
+                <info>['SKILL: DOMINATOR'S TOUCH' HAS BEEN LEARNED.]</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[SKILL: DOMINATOR'S TOUCH LV.1]</info>
+                <info>ACTIVE SKILL</info>
+                <info>NO MANA REQUIRED</info>
+                <info>YOU CAN CONTROL OBJECTS WITHOUT TOUCHING THEM.</info>
+            </systemMsg>
+            <bubble type="speech" spNum="27" who="Sung Jin-Woo">
+                <unique ans="n"/> A SKILL THAT DOESN'T REQUIRE MANA. </bubble>
+            <bubble type="speech" spNum="28" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S EFFECTIVENESS SEEMS TO BE PRETTY GOOD JUST FROM READING THE
+                DESCRIPTION. </bubble>
+            <bubble type="thought" thtNum="1" who="Sung Jin-Woo">
+                <unique ans="n"/> COULD IT BE... WHAT THAT GUY USED... </bubble>
+            <bubble type="speech" spNum="29" who="Sung Jin-Woo">
+                <unique ans="n"/> ALTHOUGH I DON'T THINK I'LL BE ABLE TO MOVE OBJECTS THAT ARE TOO
+                BIG. </bubble>
+            <systemMsg type="information">
+                <info>[IT DID NOT MOVE AS YOUR PROFICIENCY IS TOO LOW.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="7">
+            <systemMsg type="information">
+                <info>[PENALTY QUEST: SURVIVE]</info>
+                <info>GOAL: SURVIVE UNTIL THE TIME RUNS OUT.</info>
+                <info>TIME REQUIRED: 4 HOURS</info>
+                <info>REMAINING TIME: 0 H 0 MIN 4 SEC</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>REMAINING TIME: 0 H 0 MIN 3 SEC</info>
+            </systemMsg>
+            <bubble type="speech" spNum="30" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS MY LAST CHANCE... </bubble>
+            <systemMsg type="information">
+                <info>REMAINING TIME: 0 H 0 MIN 2 SEC</info>
+            </systemMsg>
+            <bubble type="speech" spNum="31" who="Sung Jin-Woo">
+                <unique ans="n"/> I GUESS THIS IS THE MOST I CAN PREPARE. </bubble>
+            <systemMsg type="information">
+                <info>REMAINING TIME: 0 H 0 MIN 1 SEC</info>
+            </systemMsg>
+            <systemMsg type="information">
+                <info>REMAINING TIME: 0 H 0 MIN 0 SEC</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="2" who="Sung Jin-Woo">
+                <unique ans="n"/> I'LL HAVE TO LEAVE THE NEXT PART UP TO MY LUCK. </bubble>
+            <systemMsg type="information">
+                <info>[THE PENALTY QUEST IS CONCLUDING]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="8">
+            <bubble type="speech" spNum="32" who="Sung Jin-Woo">
+                <unique ans="n"/> THEIR NUMBERS GREW IMMENSELY WITHIN A FEW HOURS? </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="9">
+            <bubble type="thought" thtNum="3" who="Sung Jin-Woo">
+                <unique ans="n"/> 'KNIGHT KILLER'S' EFFECT IS DEFINETELY HELPFUL! </bubble>
+            <bubble type="thought" thtNum="4" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S SO MUCH MORE EFFECTIVE THAN JUST FIGHTING WITH MY BARE HANDS!
+            </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="10">
+            <bubble type="thought" thtNum="5" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE'S SOMETHING DISCOMFORTING ABOUT THIS STAGE. </bubble>
+            <bubble type="speech" spNum="33" who="Sung Jin-Woo">
+                <unique ans="n"/> I DON'T FEEL MY LEVEL RISING AT ALL EVEN WHEN I'M UP AGAINST THESE
+                NUMBERS. </bubble>
+            <bubble type="thought" thtNum="6" who="Sung Jin-Woo">
+                <unique ans="n"/> IN THE 'PENALTY ZONE' I KILLED THE CENTIPEDES AND LEVELED UP, </bubble>
+            <bubble type="thought" thtNum="7" who="Sung Jin-Woo">
+                <unique ans="n"/> AND EVEN THAT COMMANDER IGRIS GAVE ME EXPERIENCE. </bubble>
+            <bubble type="speech" spNum="34" who="Sung Jin-Woo">
+                <unique ans="n"/> THE SYSTEM SAID THAT THE HEALING EFFECT FROM LEVELING UP WOULD BE
+                RESTRICTED, NOT THAT LEVELING UP ITSELF WAS RESTRICTED. </bubble>
+            <bubble type="thought" thtNum="8" who="Sung Jin-Woo">
+                <unique ans="n"/> ALTHOUGH THE MAGICIANS HAVE BEEN USING INCANTATIONS ALL THIS TIME,
+                THEY HAVEN'T DIRECTLY ATTACKED ME EVEN ONCE. </bubble>
+            <bubble type="thought" thtNum="9" who="Sung Jin-Woo">
+                <unique ans="n"/> ONLY THE KNIGHTS HAVE BEEN ATTACKING. </bubble>
+            <bubble type="thought" thtNum="10" who="Sung Jin-Woo">
+                <unique ans="n"/> THEN WHAT MAGIC COULD THE MAGICIANS BE CASTING? </bubble>
+            <bubble type="speech" spNum="35" who="Sung Jin-Woo">
+                <unique ans="n"/> A DEBUFF OR SOME KIND OF CURSE MAGIC? </bubble>
+            <bubble type="speech" spNum="36" who="Sung Jin-Woo">
+                <unique ans="n"/> NO, ICAN'T FEEL ANYTHING LIKE THAT. </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="11">
+            <bubble type="speech" spNum="37" who="Sung Jin-Woo">
+                <unique ans="n"/> SUMMONING MAGIC?! </bubble>
+            <bubble type="speech" spNum="38" who="Sung Jin-Woo">
+                <unique ans="n"/> AS THE TIME PASSES, THE KNIGHTS APPEAR FROM THE GATE AND INCREASE
+                THEIR NUMBERS! </bubble>
+            <bubble type="speech" spNum="39" who="Sung Jin-Woo">
+                <unique ans="n"/> NO MATTER HOW MANY I STRIKE DOWN, KNIGHTS WON'T GIVE ME
+                EXPERIENCE! </bubble>
+            <bubble type="speech" spNum="40" who="Sung Jin-Woo">
+                <unique ans="n"/> THESE AREN'T NORMAL MONSTERS, THEY ARE MONSTERS THAT HAVE BEEN
+                SUMMONED BY SOMEONE ELSE SO THEY DON'T GIVE ME ANT EXPERIENCE! </bubble>
+            <bubble type="speech" spNum="41" who="Sung Jin-Woo">
+                <unique ans="n"/> THE SUMMONERS WERE THE LAST ONES THAT CAME OUT OF THE GATE...! </bubble>
+            <bubble type="speech" spNum="42" who="Sung Jin-Woo">
+                <unique ans="n"/> MAGICIANS! </bubble>
+            <bubble type="speech" spNum="43" who="Sung Jin-Woo">
+                <unique ans="n"/> IT'S YOU GUYS!! </bubble>
+            <systemMsg type="information">
+                <info>[YOU HAVE SLAIN A MAGICIAN.]</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="12">
+            <systemMsg type="skill">
+                <info>[SKILL: 'DAGGER THROW' HAS BEEN LEARNED.]</info>
+            </systemMsg>
+            <bubble type="speech" spNum="44" who="Sung Jin-Woo">
+                <unique ans="n"/> IN FACT, IT SEEMS LIKE THE KNIGHTS WERE BEING SUMMONED THROUGH THE
+                GATES BY THE MAGICIANS. </bubble>
+            <bubble type="thought" thtNum="11" who="Sung Jin-Woo">
+                <unique ans="n"/> THIS IS NOT THE END! I HAVE TO FIND THE REMAINING MAGICIANS! </bubble>
+            <systemMsg type="skill">
+                <info>[SKILL: STEALTH LV.1]</info>
+                <info>ACTIVE SKILL</info>
+                <info>200 MANA</info>
+            </systemMsg>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="13">
+            <systemMsg type="skill">
+                <info>[MAGICIAN IS USING 'SKILL: DETECTION'].</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[MAGICIAN IS USING 'SKILL: DETECTION'].</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[MAGICIAN IS USING 'SKILL: DETECTION'].</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[MAGICIAN IS USING 'SKILL: DETECTION'].</info>
+            </systemMsg>
+            <bubble type="thought" thtNum="12" who="Sung Jin-Woo">
+                <unique ans="n"/> YOU MAY HAVE DOUND MY POSITION, </bubble>
+        </page>
+
+        <pageBrk/>
+
+        <page pageNum="14">
+            <bubble type="thought" thtNum="13" who="Sung Jin-Woo">
+                <unique ans="n"/> BUT THANKS TO THAT, I FOUND YOURS AS WELL </bubble>
+            <bubble type="thought" thtNum="14" who="Sung Jin-Woo">
+                <unique ans="n"/> THERE ARE FIVE MAGICIANS REMAINING! </bubble>
+            <systemMsg type="item">
+                <info>[ITEM: KNIGHT KILLER]</info>
+                <info>ITEM CLASS: B</info>
+                <info>TYPE: DAGGER</info>
+                <info>+75 ATTACK</info>
+                <info>EFFECT 'KNIGHT SLAYER': IF USED AGAINST AN</info>
+                <info>OPPONET WITH HEAVY ARMOR, YOUR ATTACKS</info>
+                <info>DEAL 25% ADDITIONAL DAMAGE.</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[SKILL: DOMINATOR'S TOUCH LV.1]</info>
+                <info>ACTIVE SKILL</info>
+                <info>NO MANA REQUIRED</info>
+                <info>YOU CAN CONTROL OBJECTS WITHOUT TOUCHING THEM.</info>
+            </systemMsg>
+            <systemMsg type="skill">
+                <info>[SKILL: DAGGER THROW LV.1]</info>
+                <info>ACTIVE SKILL</info>
+                <info>30 MANA</info>
+                <info>DAGGER ONLY</info>
+                <info>DEAL DAMAGE BY THROWING YOUR DAGGER. AS THE SKILL'S</info>
+                <info>LEVEL INCREASES, DAMAGE AND ACCURACY WILL INCREASE.</info>
+            </systemMsg>
+        </page>
+    </body>
+</chapter>
+<!-- 14 PAGES, 44 INSTANCES OF SPEECH, 14 INSTANCES OF THOUGHT, 2 UNIQUE SPEAKERS -->
+<!-- NEW ITEMS: KNIGHT KILLER, BANDAGES
+     STAT UPDATE: NONE
+     NEW SKILLS: DOMINATOR'S TOUCH, DAGGER THROW
+     NEW LEVEL: 4, CURRENT LEVEL: 51-->
