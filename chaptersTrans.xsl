@@ -19,7 +19,6 @@
                         <li><a href="../method.html">Method</a></li>
                         <li><a href="../chapters.html">Chapters</a></li>
                         <li><a href="../data.html">Data</a></li>
-                        <li><a href="../resources.html">Resources</a></li>
                     </ul>
                 </nav>
                 <div class="container">
@@ -129,7 +128,7 @@
                 <a class="previous-chapter" href="chapter_{$chapterNum - 1}.html">Previous chapter</a>
             </xsl:if>
             
-            <xsl:if test="$chapterNum &lt; 40">
+            <xsl:if test="$chapterNum &lt; 45">
                 <a class="next-chapter" href="chapter_{$chapterNum + 1}.html">Next chapter</a>
             </xsl:if>
         </nav>
