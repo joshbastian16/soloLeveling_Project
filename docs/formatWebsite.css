@@ -170,6 +170,45 @@ body {
     font-weight: bold;
 }
 
+/* Data table layout */
+.side-by-side {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.side-by-side > div {
+    flex: 1;
+}
+
+/* Table structure */
+.side-by-side table {
+    width: auto;
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+/* Table cells */
+.side-by-side th,
+.side-by-side td {
+    border: 1px solid #172B4D;
+    font: 16px Arial, sans-serif;
+    padding: 4px 6px;
+}
+
+/* Table header */
+.side-by-side th {
+    background-color: #BDD7E7;
+    color: #172B4D;
+    font-weight: bold;
+}
+
+/* Table body */
+.side-by-side td {
+    background-color: #FFF8E7;
+    color: #172B4D;
+}
 /* Chapter Statistics Table */
 .statistics-table {
     width: 100%;
